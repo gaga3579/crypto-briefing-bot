@@ -19,6 +19,13 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): ETH −20%",
       "ts": 1793376070
+    },
+    {
+      "id": "fu:binance:d3306d9dca5243548c813b605e1d1751",
+      "incident": "Binance:security_incident:1793375480",
+      "kind": "followup",
+      "summary": "후속 브리핑: Binance 보안 사고 (피해 규모 첫 공식 수치)",
+      "ts": 1793392888
     }
   ],
   "coins": {
@@ -57,24 +64,24 @@
         "event_type": "security_incident",
         "facts": [
           {
-            "source_quote": "the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.",
-            "text": "Initial investigation suggests a compromised DevOps engineer's laptop let an attacker access a service container and submit unauthorized withdrawal transactions."
+            "source_quote": "At around 2026-10-29 20:05 (UTC), our hot wallets were compromised",
+            "text": "At around 2026-10-29 20:05 UTC, Binance's hot wallets were compromised, leading to unauthorized withdrawals of funds."
           },
           {
-            "source_quote": "We have found no evidence of any wallet private key leak.",
-            "text": "Binance says it has found no evidence of any wallet private key leak."
+            "source_quote": "Binance will cover all stolen funds related to this incident through our Secure Asset Fund for Users (SAFU) and our corporate treasury.",
+            "text": "Binance says it will cover all stolen funds through SAFU and its corporate treasury, and has set aside more than $6.34B in company funds."
           },
           {
-            "source_quote": "Binance will cover all losses from the SAFU fund and the company’s funds. User funds are safe.",
-            "text": "Binance will cover all losses from the SAFU fund and company funds, and states user funds are safe."
+            "source_quote": "Approximately $3 billion has been frozen on-chain to date.",
+            "text": "Approximately $3 billion has been frozen on-chain to date, with further recovery efforts to follow."
           },
           {
-            "source_quote": "revoked the affected address authorisation;",
-            "text": "Binance temporarily suspended withdrawals, revoked the affected address authorisation, and engaged law enforcement and blockchain intelligence partners to trace and recover funds."
+            "source_quote": "The tech team targets to start resuming the withdrawal service within approximately 34 hours",
+            "text": "Withdrawals are suspended; the tech team targets resuming withdrawals in about 34 hours in phases, subject to security checks. Deposits and other unaffected services remain operational."
           },
           {
-            "source_quote": "Note: This announcement was updated on 2026-10-30 to clarify deposits remain unaffected and continue to operate as normal.",
-            "text": "An update clarifies that deposits remain unaffected and continue to operate normally."
+            "source_quote": "At this stage, we have found no evidence that wallet private keys were leaked.",
+            "text": "Binance found no evidence that wallet private keys were leaked; the investigation is ongoing and an initial compromised-laptop theory was superseded by additional breach points."
           }
         ],
         "is_correction": false,
@@ -83,14 +90,14 @@
           {
             "actor": "Binance",
             "currency": "USD",
-            "source_quote": "The estimated total impact sits at around $6.3B.",
-            "type": "estimated_impact",
+            "source_quote": "resulting in a loss of approximately $6.3B USD worth of token assets",
+            "type": "stolen",
             "value": 6300000000
           },
           {
             "actor": "Binance",
             "currency": "USD",
-            "source_quote": "with ~$3 billion frozen on-chain so far.",
+            "source_quote": "Approximately $3 billion has been frozen on-chain to date.",
             "type": "frozen",
             "value": 3000000000
           }
@@ -98,20 +105,20 @@
         "withdrawal_status": {
           "assets": [],
           "scope": "all_assets",
-          "source_quote": "temporarily suspended withdrawals while security checks are completed;",
+          "source_quote": "Temporarily suspended withdrawals while conducting additional security reviews, implementing remediation measures and validating the integrity of affected systems.",
           "status": "suspended"
         }
       },
       "item": {
-        "id": "binance:c5a8729a97ac486d963784d96c5642d7",
+        "id": "binance:d3306d9dca5243548c813b605e1d1751",
         "official": true,
         "source": "binance",
-        "title": "Security Incident Update (2026-10-30)",
-        "ts": 1793327002,
-        "url": "https://www.binance.com/en/support/announcement/detail/c5a8729a97ac486d963784d96c5642d7"
+        "title": "Security Incident Update #2 (2026-10-30)",
+        "ts": 1793388814,
+        "url": "https://www.binance.com/en/support/announcement/detail/d3306d9dca5243548c813b605e1d1751"
       },
       "key": "Binance:security_incident:1793375480",
-      "last": 1793375480,
+      "last": 1793392888,
       "media": [
         {
           "id": "media:https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -296,6 +303,62 @@
           "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
           "ts": 1793369854,
           "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack"
+        },
+        {
+          "id": "media:https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+          "ts": 1793377506,
+          "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack"
+        },
+        {
+          "id": "media:https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+          "ts": 1793377877,
+          "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+        },
+        {
+          "id": "media:https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+          "ts": 1793378061,
+          "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe"
+        },
+        {
+          "id": "media:https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+          "ts": 1793382626,
+          "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe"
+        },
+        {
+          "id": "media:https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+          "ts": 1793385903,
+          "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+          "ts": 1793390100,
+          "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+        },
+        {
+          "id": "media:https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+          "ts": 1793390763,
+          "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
         }
       ],
       "metrics": {
@@ -306,12 +369,29 @@
         "frozen": [
           3000000000,
           "USD"
+        ],
+        "stolen": [
+          6300000000,
+          "USD"
         ]
       },
       "official": true,
       "opened": 1793375480,
       "status": "open",
-      "updates": [],
+      "updates": [
+        {
+          "id": "binance:d3306d9dca5243548c813b605e1d1751",
+          "official": true,
+          "reasons": [
+            "피해 규모 첫 공식 수치"
+          ],
+          "sent": true,
+          "source": "binance",
+          "title": "Security Incident Update #2 (2026-10-30)",
+          "ts": 1793388814,
+          "url": "https://www.binance.com/en/support/announcement/detail/d3306d9dca5243548c813b605e1d1751"
+        }
+      ],
       "withdrawal": "suspended"
     }
   },
@@ -1132,6 +1212,114 @@
       "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
       "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
       "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 16:25:06 +0000",
+        "ts": 1793377506,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "After Musk appeared to mock Binance’s $6.3 billion hack, CZ reminded him that the exchange’s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+      "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+      "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 16:26:07 +0000",
+        "ts": 1793377567,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
+      "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+      "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 16:31:17 +0000",
+        "ts": 1793377877,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+      "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+      "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 16:34:21 +0000",
+        "ts": 1793378061,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+      "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+      "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 17:50:26 +0000",
+        "ts": 1793382626,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+      "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 18:16:02 +0000",
+        "ts": 1793384162,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
+      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 18:45:03 +0000",
+        "ts": 1793385903,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+      "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 19:55:00 +0000",
+        "ts": 1793390100,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 20:06:03 +0000",
+        "ts": 1793390763,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+      "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
     }
   ],
   "seen": {
@@ -1175,7 +1363,8 @@
       "binance:58d55610f5954d6c867bfa71658585dd",
       "binance:6560e7d60f3f4b55aa6de4fd89135b9c",
       "binance:c5a8729a97ac486d963784d96c5642d7",
-      "binance:eb1fb9e5f41f43b682332aff0b7b89ce"
+      "binance:eb1fb9e5f41f43b682332aff0b7b89ce",
+      "binance:d3306d9dca5243548c813b605e1d1751"
     ],
     "bybit": [
       "bybit:9996",
@@ -1197,7 +1386,8 @@
       "bybit:10012",
       "bybit:10013",
       "bybit:10014",
-      "bybit:10015"
+      "bybit:10015",
+      "bybit:10016"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -1314,7 +1504,17 @@
       "media:https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
       "media:https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
       "media:https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
-      "media:https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
+      "media:https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+      "media:https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+      "media:https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+      "media:https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+      "media:https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+      "media:https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+      "media:https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+      "media:https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+      "media:https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
+      "media:https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+      "media:https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -1751,7 +1951,8 @@
   "sent": [
     "dd-2026103015-BTC1-ETH1-SOL2-XRP1",
     "ev:binance:c5a8729a97ac486d963784d96c5642d7",
-    "dd-2026103016-ETH2"
+    "dd-2026103016-ETH2",
+    "fu:binance:d3306d9dca5243548c813b605e1d1751"
   ],
   "sources": {
     "ai:claude": {
