@@ -101,7 +101,8 @@ def test_weekly_content(cfg):
                         "kraken": {"ok": False, "since": "2026-10-30T15:00:00Z"}}}
     stats = {"success": 160, "failure": 2, "total": 162, "scheduled": 158}
     _, out = go(cfg, base, MON_0825, stats=stats, kraken={})
-    msg = out.sent[0]
+    assert out.sent[0].startswith("<b>[운영 경고")  # kraken이 24시간 넘게 실패 중
+    msg = out.sent[1]
     assert "집계: 2026-10-26 08:00 ~ 2026-11-02 08:00 KST" in msg
     assert "BTC    +0.00%   100.00   100.00  +0.00%" in msg
     assert "10/31 00:29 하락 브리핑(시장 전반): BTC −10%" in msg and "지난주 것" not in msg

@@ -2,10 +2,12 @@
 import argparse
 import copy
 import os
+import sys
 import time
+import traceback
 from datetime import datetime, timezone
 
-from . import event_briefing, events, extract, net, news, prices, sources, state as st, telegram, weekly, writer
+from . import event_briefing, events, extract, net, news, ops, prices, sources, state as st, telegram, weekly, writer
 from .briefing import drawdown_briefing, kst, signed
 from .config import load_config
 from .drawdown import evaluate, market_wide, threshold_for, thresholds
@@ -25,7 +27,7 @@ def mark_source(state, name, ok, now_ts):
 KEEP_BRIEFING_DAYS = 30
 
 
-def deliver(state, parts, now_ts, send_fn, log):
+def deliver(state, parts, now_ts, send_fn, log, problems=None):
     """같은 실행의 브리핑 조각들을 한 메시지로 보낸다 (명세 5절: 동시 발동은 1건으로 합침).
     parts: [{"id", "kind", "summary", "text", "incident"?}]"""
     parts = [p for p in parts if p["id"] not in state["sent"]]
@@ -44,6 +46,8 @@ def deliver(state, parts, now_ts, send_fn, log):
     else:
         state["unsent"].append({"id": "+".join(ids), "ids": ids, "created": now_ts, "text": text})
         log(f"발송 실패, 미발송 큐에 저장: {', '.join(ids)} ({why})")
+        if problems is not None:
+            problems.append(f"텔레그램 발송 실패: {why}")
 
 
 def flush_unsent(state, send_fn, log):
@@ -92,9 +96,23 @@ def media_items(feeds, cfg):
 def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
         fetch_kraken=prices.fetch_kraken, fetch_text=net.fetch_text,
         run_stats=lambda ws, we: None, force_weekly=False, official_fn=None, chain_fn=None,
-        extract_fn=None, ai_call=None, log=print):
+        extract_fn=None, ai_call=None, problems=None, log=print):
+    """problems: 내부 오류·발송 실패를 모은다. main은 state를 커밋한 뒤 이것이 있으면 실패로 끝나 GitHub 알림을 받게 한다."""
     state = copy.deepcopy(state)
+    problems = [] if problems is None else problems
     mark = lambda n, ok: mark_source(state, n, ok, now_ts)  # noqa: E731
+
+    def guarded(name, fn, default):
+        """한 부분의 버그가 다른 브리핑 발송을 막지 않게 한다."""
+        try:
+            result = fn()
+            mark(f"internal:{name}", True)
+            return result
+        except Exception as e:  # noqa: BLE001
+            log(f"내부 오류 ({name}): {traceback.format_exc()}")
+            problems.append(f"{name}: {type(e).__name__}: {e}")
+            mark(f"internal:{name}", False)
+            return default
     base_call = ai_call or (lambda *a: extract.ai_call(*a, log=log))
 
     def call(*args):
@@ -108,36 +126,48 @@ def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
         mark(name, ok)
     dds, reached = run_drawdown(cfg, state, markets, kraken, errors, log)
 
-    feeds = news.collect(state, cfg, now_ts, fetch_text, mark=mark, log=log)
-
-    official = (official_fn or (lambda s: sources.collect_official(s, fetch_text=fetch_text)))(state)
-    for name, items in official.items():
-        mark(f"src:{name}", items is not None)
-    ages = (chain_fn or events.chain_ages)(now_ts)
-    for sym, age in ages.items():
-        mark(f"chain:{sym}", age is not None)
+    feeds = guarded("news", lambda: news.collect(state, cfg, now_ts, fetch_text, mark=mark, log=log), {})
     usd = {sym: m.price for sym, m in markets.items()} | {c: kraken[c] for c in ("USDT", "USDC") if c in kraken}
-    parts = events.run_events(state, cfg, now_ts, usd, official, media_items(feeds, cfg), kraken, ages,
-                              extract_fn or (lambda item: extract.extract(item, cfg, call, log)), log)
-    for p in parts:
-        if p.get("ext") and p["kind"] in ("event", "followup"):
-            inc = state["incidents"][p["incident"]]
-            p["ai_text"] = writer.event_summary(p["ext"], inc["entity"], events.LABELS[inc["event_type"]],
-                                                event_briefing.metric_values(p["ext"], usd), call,
-                                                cfg["ai"]["write_model"], log)
-        p["text"] = event_briefing.render(p, state, markets, dds, usd, now_ts)
-    if reached:
-        cause = writer.drawdown_cause(cause_articles(state, now_ts), call, cfg["ai"]["write_model"], log)
-        parts.append(drawdown_part(cfg, state, markets, dds, reached, now_ts, cause))
-    deliver(state, parts, now_ts, send_fn, log)
 
-    send_weekly, key = weekly.due(state, now_ts, force_weekly)
-    if send_weekly:
+    def event_parts():
+        official = (official_fn or (lambda s: sources.collect_official(s, fetch_text=fetch_text)))(state)
+        for name, items in official.items():
+            mark(f"src:{name}", items is not None)
+        ages = (chain_fn or events.chain_ages)(now_ts)
+        for sym, age in ages.items():
+            mark(f"chain:{sym}", age is not None)
+        parts = events.run_events(state, cfg, now_ts, usd, official, media_items(feeds, cfg), kraken, ages,
+                                  extract_fn or (lambda item: extract.extract(item, cfg, call, log)), log)
+        for p in parts:
+            if p.get("ext") and p["kind"] in ("event", "followup"):
+                inc = state["incidents"][p["incident"]]
+                p["ai_text"] = writer.event_summary(p["ext"], inc["entity"], events.LABELS[inc["event_type"]],
+                                                    event_briefing.metric_values(p["ext"], usd), call,
+                                                    cfg["ai"]["write_model"], log)
+            p["text"] = event_briefing.render(p, state, markets, dds, usd, now_ts)
+        return parts
+
+    parts = guarded("events", event_parts, [])
+    if reached:
+        def dd():
+            cause = writer.drawdown_cause(cause_articles(state, now_ts), call, cfg["ai"]["write_model"], log)
+            return drawdown_part(cfg, state, markets, dds, reached, now_ts, cause)
+        parts += [p for p in [guarded("drawdown", dd, None)] if p]
+    alert = ops.source_alert(state, cfg, now_ts)
+    if alert:
+        parts.append(alert)
+    deliver(state, parts, now_ts, send_fn, log, problems)
+
+    def send_weekly():
+        due, key = weekly.due(state, now_ts, force_weekly)
+        if not due:
+            return
         text = weekly.build(state, cfg, now_ts, candles, dds, run_stats(*weekly.window(now_ts)))
         brief_id = f"weekly-{key}" + (f"-manual-{int(now_ts)}" if force_weekly else "")
         deliver(state, [{"id": brief_id, "kind": "weekly", "summary": f"주간 요약 ({key})", "text": text}],
-                now_ts, send_fn, log)
+                now_ts, send_fn, log, problems)
         state["weekly_last"] = max(filter(None, [state.get("weekly_last"), key]))
+    guarded("weekly", send_weekly, None)
     return state
 
 
@@ -217,14 +247,17 @@ def main():
         send_fn = telegram.send
     repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
     force = args.force_weekly or os.environ.get("FORCE_WEEKLY") == "true"
-    after = run(cfg, before, now_ts, send_fn, force_weekly=force,
+    problems = []
+    after = run(cfg, before, now_ts, send_fn, force_weekly=force, problems=problems,
                 run_stats=lambda ws, we: weekly.run_stats(repo, token, ws, we))
     heartbeat(after, now_ts)
-    if args.dry_run:
-        return
-    if st.dump(after) != st.dump(before):
+    if not args.dry_run and st.dump(after) != st.dump(before):
         if not st.commit_and_push(after, f"state: {utc_iso(now_ts)}"):
-            print("state 커밋 실패. 다음 실행에서 재발송될 수 있다(허용).")
+            problems.append("state 커밋 실패 (다음 실행에서 재발송될 수 있다)")
+    if problems:
+        # state는 이미 저장했다. 실패로 끝내 GitHub 실패 알림 메일이 가게 한다 (명세 9절).
+        print("문제 발생:\n- " + "\n- ".join(problems))
+        sys.exit(1)
 
 
 if __name__ == "__main__":
