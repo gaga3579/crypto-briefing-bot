@@ -1,0 +1,41 @@
+symbols: [BTC, ETH, SOL, XRP]
+
+drawdown:
+  lookback_hours: 720
+  tiers: [-10, -20, -30, -40]
+  step: -10
+  reset_above_pct: -5
+  market_wide:
+    min_coins: 3
+    threshold: -10
+
+price_sanity:
+  max_jump_pct: 50
+  cross_check_tolerance_pct: 2
+
+stablecoin:
+  depeg_price: 0.97
+  depeg_consecutive_runs: 2
+
+events:
+  major_exchanges: [Binance, Coinbase, OKX, Bybit, Kraken]
+  major_exchange_impact_usd: 100000000
+  impact_metric_types: [estimated_impact, stolen, confirmed_loss]
+  followup_metric_change_pct: 30
+  incident_window_days: 14
+  media:
+    outlets: [CoinDesk, The Block, Decrypt]
+    min_outlets: 2
+    window_hours: 6
+
+chain_liveness:
+  consecutive_runs: 2
+  max_block_age_minutes:
+    BTC: 180
+    ETH: 15
+    XRP: 15
+    SOL: 15
+
+ops:
+  source_failure_alert_hours: 24
+  push_retries: 3
