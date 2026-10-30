@@ -30,6 +30,824 @@
     }
   },
   "heartbeat": "2026-10-31",
+  "news": [
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 09:15:20 +0000",
+        "ts": 1793178920,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
+      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
+      "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 12:04:56 +0000",
+        "ts": 1793189096,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear—and the market responded.",
+      "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
+      "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 12:16:30 +0000",
+        "ts": 1793189790,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+      "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 13:00:00 +0000",
+        "ts": 1793192400,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
+      "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+      "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 13:01:02 +0000",
+        "ts": 1793192462,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.",
+      "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+      "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 14:43:01 +0000",
+        "ts": 1793198581,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
+      "title": "Crypto braces for potential shift in congressional oversight after midterms",
+      "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 15:05:03 +0000",
+        "ts": 1793199903,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
+      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 15:15:34 +0000",
+        "ts": 1793200534,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+      "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 15:56:36 +0000",
+        "ts": 1793202996,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
+      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
+      "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 16:07:08 +0000",
+        "ts": 1793203628,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
+      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+      "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 16:15:02 +0000",
+        "ts": 1793204102,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+      "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+      "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 16:22:58 +0000",
+        "ts": 1793204578,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Former Aptos advisor \"Buzz” has left the crypto project and is turning his attention to Facebook's parent company Meta—here's why.",
+      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+      "url": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 17:06:24 +0000",
+        "ts": 1793207184,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
+      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
+      "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 18:25:18 +0000",
+        "ts": 1793211918,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
+      "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 19:46:03 +0000",
+        "ts": 1793216763,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
+      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey"
+    },
+    {
+      "published": {
+        "raw": "Wed, 28 Oct 2026 21:46:02 +0000",
+        "ts": 1793223962,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
+      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 11:00:00 +0000",
+        "ts": 1793271600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
+      "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 11:06:40 +0000",
+        "ts": 1793272000,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The state says an undercover agent placed a dozen sports wagers on Kalshi, a day after the CFTC sued Utah to block its enforcement actions.",
+      "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
+      "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 11:32:51 +0000",
+        "ts": 1793273571,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets.",
+      "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+      "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 12:30:38 +0000",
+        "ts": 1793277038,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
+      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+      "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 12:58:28 +0000",
+        "ts": 1793278708,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
+      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+      "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 13:00:00 +0000",
+        "ts": 1793278800,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+      "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 13:01:02 +0000",
+        "ts": 1793278862,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
+      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+      "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 14:15:46 +0000",
+        "ts": 1793283346,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+      "title": "Why Switzerland’s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+      "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 14:34:17 +0000",
+        "ts": 1793284457,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
+      "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+      "url": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 14:39:01 +0000",
+        "ts": 1793284741,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "",
+      "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 14:44:53 +0000",
+        "ts": 1793285093,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S.",
+      "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+      "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 14:55:47 +0000",
+        "ts": 1793285747,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Polymarket’s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market’s compliance with its 2022 U.S. onboarding terms.",
+      "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+      "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 15:07:15 +0000",
+        "ts": 1793286435,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
+      "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+      "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 15:59:48 +0000",
+        "ts": 1793289588,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
+      "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+      "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 16:11:18 +0000",
+        "ts": 1793290278,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The former Huobi exchange has stopped accepting deposits from British customers and agreed not to target them with crypto promotions.",
+      "title": "Crypto exchange HTX exits the UK after settling with the FCA",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-exchange-htx-exits-the-uk-after-settling-with-the-fca"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 16:32:47 +0000",
+        "ts": 1793291567,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin is trading close to the average price paid by U.S. spot ETF holders, a day after the Federal Reserve held rates steady.",
+      "title": "4M Bitcoin Bought Above $85K Could Cap Recovery: Glassnode",
+      "url": "https://decrypt.co/382161/4m-bitcoin-bought-above-85k-could-cap-recovery-glassnode"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 16:35:43 +0000",
+        "ts": 1793291743,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The two networks are setting aside their rivalry to connect Solana's stablecoin activity with Polygon's banking, wallet and payment infrastructure.",
+      "title": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 16:51:18 +0000",
+        "ts": 1793292678,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The exchange is closing accounts in both countries after MEXC and Bitget announced similar moves earlier this month.",
+      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
+      "url": "https://www.coindesk.com/policy/2026/10/29/kucoin-exits-russia-and-belarus-as-crypto-exchanges-withdraw-from-western-sanctioned-markets"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 17:15:11 +0000",
+        "ts": 1793294111,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "A third of Deribit's Bitcoin options settle Friday, a day after the Fed held rates with two officials voting to hike. Here's why that matters for Bitcoin's price.",
+      "title": "$11 Billion in Bitcoin Options Expire Tomorrow—Here's What It Means",
+      "url": "https://decrypt.co/382171/11-billion-bitcoin-options-expire-tomorrow-what-means"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 17:46:02 +0000",
+        "ts": 1793295962,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Only 13% of Americans say a candidate’s support for crypto growth is very important, according to a survey conducted by Ipsos for the DeFi Education Fund, even as the industry spends heavily on next week’s elections.",
+      "title": "Crypto Spends $176 Million on Midterms, But Only 13% of Voters See It as a Priority",
+      "url": "https://decrypt.co/382179/crypto-spends-176-million-midterms-only-13-percent-voters-priority"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 20:46:43 +0000",
+        "ts": 1793306803,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
+      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+      "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 20:58:35 +0000",
+        "ts": 1793307515,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
+      "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
+      "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 21:12:45 +0000",
+        "ts": 1793308365,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
+      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
+      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 21:36:24 +0000",
+        "ts": 1793309784,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+      "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 21:49:16 +0000",
+        "ts": 1793310556,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+      "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171"
+    },
+    {
+      "published": {
+        "raw": "Thu, 29 Oct 2026 22:57:48 +0000",
+        "ts": 1793314668,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
+      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+      "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 00:17:10 +0000",
+        "ts": 1793319430,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
+      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 02:22:31 +0000",
+        "ts": 1793326951,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+      "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 03:36:11 +0000",
+        "ts": 1793331371,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
+      "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+      "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 03:56:40 +0000",
+        "ts": 1793332600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
+      "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+      "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 04:00:43 +0000",
+        "ts": 1793332843,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+      "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
+      "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 04:50:42 +0000",
+        "ts": 1793335842,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+      "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 05:43:07 +0000",
+        "ts": 1793338987,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "CoinDCX has restricted new futures positions after Binance’s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+      "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+      "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 05:45:27 +0000",
+        "ts": 1793339127,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
+      "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+      "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 06:22:00 +0000",
+        "ts": 1793341320,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
+      "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+      "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 07:54:07 +0000",
+        "ts": 1793346847,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
+      "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+      "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 08:36:52 +0000",
+        "ts": 1793349412,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The $6.3 billion Binance hack added to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending pushed the Nasdaq down more than 2%.",
+      "title": "Live updates: Bitcoin falls to $77,000 as Binance exploit combines with tech woes",
+      "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 08:55:39 +0000",
+        "ts": 1793350539,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+      "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 08:57:09 +0000",
+        "ts": 1793350629,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
+      "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+      "url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 09:31:59 +0000",
+        "ts": 1793352719,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
+      "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+      "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 09:41:07 +0000",
+        "ts": 1793353267,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Andrew Kang’s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+      "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+      "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 10:07:29 +0000",
+        "ts": 1793354849,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
+      "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+      "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 11:09:24 +0000",
+        "ts": 1793358564,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+      "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+      "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 11:35:16 +0000",
+        "ts": 1793360116,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
+      "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+      "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 11:51:26 +0000",
+        "ts": 1793361086,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Oct. 30, 2026",
+      "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 12:13:02 +0000",
+        "ts": 1793362382,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets.",
+      "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+      "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 12:22:04 +0000",
+        "ts": 1793362924,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses.",
+      "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+      "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 12:31:30 +0000",
+        "ts": 1793363490,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
+      "title": "Morning Minute: Binance’s $6.4B Hack Overshadows Hyperliquid’s Biggest Day",
+      "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 13:14:56 +0000",
+        "ts": 1793366096,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets.",
+      "title": "Binance says it has $6.34 billion ready to cover hack losses",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 14:13:34 +0000",
+        "ts": 1793369614,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
+      "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 14:17:34 +0000",
+        "ts": 1793369854,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+      "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+      "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 14:30:49 +0000",
+        "ts": 1793370649,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
+      "title": "Strategy’s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+      "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214"
+    }
+  ],
   "sent": [
     "dd-2026103015-BTC1-ETH1-SOL2-XRP1"
   ],
@@ -41,8 +859,29 @@
     "kraken": {
       "ok": true,
       "since": "2026-10-30T15:29:14Z"
+    },
+    "rss:CFTC": {
+      "ok": true,
+      "since": "2026-10-30T15:36:21Z"
+    },
+    "rss:CoinDesk": {
+      "ok": true,
+      "since": "2026-10-30T15:36:21Z"
+    },
+    "rss:Decrypt": {
+      "ok": true,
+      "since": "2026-10-30T15:36:21Z"
+    },
+    "rss:SEC": {
+      "ok": true,
+      "since": "2026-10-30T15:36:21Z"
+    },
+    "rss:The Block": {
+      "ok": true,
+      "since": "2026-10-30T15:36:21Z"
     }
   },
   "unsent": [],
-  "version": 1
+  "version": 1,
+  "weekly_last": "2026-10-26"
 }
