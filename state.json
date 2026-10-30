@@ -1,0 +1,40 @@
+{
+  "coins": {
+    "BTC": {
+      "anchor_high": "87249.05",
+      "anchor_time": 1790942400,
+      "level": 1
+    },
+    "ETH": {
+      "anchor_high": "2776.8",
+      "anchor_time": 1790928000,
+      "level": 1
+    },
+    "SOL": {
+      "anchor_high": "123.73",
+      "anchor_time": 1790917200,
+      "level": 2
+    },
+    "XRP": {
+      "anchor_high": "1.555",
+      "anchor_time": 1790942400,
+      "level": 1
+    }
+  },
+  "heartbeat": "2026-10-31",
+  "sent": [
+    "dd-2026103015-BTC1-ETH1-SOL2-XRP1"
+  ],
+  "sources": {
+    "coinbase": {
+      "ok": true,
+      "since": "2026-10-30T15:29:14Z"
+    },
+    "kraken": {
+      "ok": true,
+      "since": "2026-10-30T15:29:14Z"
+    }
+  },
+  "unsent": [],
+  "version": 1
+}
