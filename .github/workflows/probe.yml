@@ -1,0 +1,50 @@
+name: stage1-probe
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: state-writer
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code >/dev/null 2>&1 && claude --version
+
+      - name: Probe sources, Telegram, Claude
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python probe/probe.py
+
+      - name: Commit state (push test)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          date -u +%FT%TZ > probe/last-commit-test.txt
+          git add probe/result-actions.md probe/last-commit-test.txt
+          git commit -m "probe: stage1 result" -q
+          for i in 1 2 3; do git push -q && break; git pull --rebase -q; done
+
+      - name: Workflow enable API (60-day keepalive candidate)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api -X PUT "repos/${{ github.repository }}/actions/workflows/probe.yml/enable" \
+            && echo "| 운영 | workflow enable API | 성공 | GITHUB_TOKEN(actions: write)로 호출 가능 |" >> "$GITHUB_STEP_SUMMARY" \
+            || echo "| 운영 | workflow enable API | 실패 | |" >> "$GITHUB_STEP_SUMMARY"
