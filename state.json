@@ -12,6 +12,13 @@
       "kind": "event",
       "summary": "사건 브리핑: Binance 보안 사고",
       "ts": 1793375480
+    },
+    {
+      "id": "dd-2026103016-ETH2",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): ETH −20%",
+      "ts": 1793376070
     }
   ],
   "coins": {
@@ -23,7 +30,7 @@
     "ETH": {
       "anchor_high": "2776.8",
       "anchor_time": 1790928000,
-      "level": 1
+      "level": 2
     },
     "SOL": {
       "anchor_high": "123.73",
@@ -1743,9 +1750,14 @@
   },
   "sent": [
     "dd-2026103015-BTC1-ETH1-SOL2-XRP1",
-    "ev:binance:c5a8729a97ac486d963784d96c5642d7"
+    "ev:binance:c5a8729a97ac486d963784d96c5642d7",
+    "dd-2026103016-ETH2"
   ],
   "sources": {
+    "ai:claude": {
+      "ok": true,
+      "since": "2026-10-30T16:01:10Z"
+    },
     "chain:BTC": {
       "ok": true,
       "since": "2026-10-30T15:51:20Z"
@@ -1765,6 +1777,22 @@
     "coinbase": {
       "ok": true,
       "since": "2026-10-30T15:29:14Z"
+    },
+    "internal:drawdown": {
+      "ok": true,
+      "since": "2026-10-30T16:01:10Z"
+    },
+    "internal:events": {
+      "ok": true,
+      "since": "2026-10-30T16:01:10Z"
+    },
+    "internal:news": {
+      "ok": true,
+      "since": "2026-10-30T16:01:10Z"
+    },
+    "internal:weekly": {
+      "ok": true,
+      "since": "2026-10-30T16:01:10Z"
     },
     "kraken": {
       "ok": true,
