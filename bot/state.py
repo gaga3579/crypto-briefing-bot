@@ -13,7 +13,8 @@ KEEP_SENT = 500
 
 def empty():
     return {"version": 1, "coins": {}, "sent": [], "unsent": [], "sources": {}, "heartbeat": None,
-            "briefings": [], "news": [], "weekly_last": None}
+            "briefings": [], "news": [], "weekly_last": None, "incidents": {}, "seen": {}, "liveness": {},
+            "depeg": {}}
 
 
 def load(path=ROOT / STATE_FILE):
@@ -51,6 +52,11 @@ def merge(local, remote):
         out[key] = max(filter(None, [local.get(key), remote.get(key)]), default=None)
     out["briefings"] = _union(remote.get("briefings", []), local.get("briefings", []), "id", "ts")
     out["news"] = _union(remote.get("news", []), local.get("news", []), "url", lambda n: n["published"]["ts"])
+    out["incidents"] = {**remote.get("incidents", {}), **local.get("incidents", {})}
+    seen = {}
+    for src in set(local.get("seen", {})) | set(remote.get("seen", {})):
+        seen[src] = list(dict.fromkeys(remote.get("seen", {}).get(src, []) + local.get("seen", {}).get(src, [])))
+    out["seen"] = seen
     return out
 
 

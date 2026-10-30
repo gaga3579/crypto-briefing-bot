@@ -1,11 +1,11 @@
-"""hourly 실행 진입점. 하락 브리핑(템플릿), 뉴스 수집, 주간 요약, 미발송 큐, state 커밋, heartbeat."""
+"""hourly 실행 진입점. 하락·사건 브리핑, 뉴스 수집, 주간 요약, 미발송 큐, state 커밋, heartbeat."""
 import argparse
 import copy
 import os
 import time
 from datetime import datetime, timezone
 
-from . import net, news, prices, state as st, telegram, weekly
+from . import event_briefing, events, extract, net, news, prices, sources, state as st, telegram, weekly
 from .briefing import drawdown_briefing, kst, signed
 from .config import load_config
 from .drawdown import evaluate, market_wide, threshold_for, thresholds
@@ -25,30 +25,37 @@ def mark_source(state, name, ok, now_ts):
 KEEP_BRIEFING_DAYS = 30
 
 
-def deliver(state, brief_id, text, now_ts, send_fn, log, kind, summary):
-    if brief_id in state["sent"]:
+def deliver(state, parts, now_ts, send_fn, log):
+    """같은 실행의 브리핑 조각들을 한 메시지로 보낸다 (명세 5절: 동시 발동은 1건으로 합침).
+    parts: [{"id", "kind", "summary", "text", "incident"?}]"""
+    parts = [p for p in parts if p["id"] not in state["sent"]]
+    if not parts:
         return
+    ids = [p["id"] for p in parts]
     cutoff = now_ts - KEEP_BRIEFING_DAYS * 86400
     state["briefings"] = [b for b in state["briefings"] if b["ts"] >= cutoff] + [
-        {"id": brief_id, "ts": int(now_ts), "kind": kind, "summary": summary}]
+        {"id": p["id"], "ts": int(now_ts), "kind": p["kind"], "summary": p["summary"],
+         "incident": p.get("incident")} for p in parts]
+    text = event_briefing.SEP.join(p["text"] for p in parts)
     ok, why = send_fn(text)
     if ok:
-        state["sent"] = (state["sent"] + [brief_id])[-st.KEEP_SENT:]
-        log(f"발송: {brief_id}")
+        state["sent"] = (state["sent"] + ids)[-st.KEEP_SENT:]
+        log(f"발송: {', '.join(ids)}")
     else:
-        state["unsent"].append({"id": brief_id, "created": now_ts, "text": text})
-        log(f"발송 실패, 미발송 큐에 저장: {brief_id} ({why})")
+        state["unsent"].append({"id": "+".join(ids), "ids": ids, "created": now_ts, "text": text})
+        log(f"발송 실패, 미발송 큐에 저장: {', '.join(ids)} ({why})")
 
 
 def flush_unsent(state, send_fn, log):
     remaining = []
     for item in state["unsent"]:
-        if item["id"] in state["sent"]:
+        ids = item.get("ids", [item["id"]])
+        if all(i in state["sent"] for i in ids):
             continue
         note = f"<i>지연 발송 · 발생 시각 {kst(item['created'])}</i>\n\n"
         ok, why = send_fn(note + item["text"])
         if ok:
-            state["sent"] = (state["sent"] + [item["id"]])[-st.KEEP_SENT:]
+            state["sent"] = (state["sent"] + ids)[-st.KEEP_SENT:]
             log(f"지연 발송: {item['id']}")
         else:
             remaining.append(item)
@@ -70,33 +77,75 @@ def collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken):
     return markets, candles, kraken, errors, {"coinbase": not errors, "kraken": bool(kraken)}
 
 
+def media_items(feeds, cfg):
+    """매체 RSS 항목을 사건 항목 모양으로 (교차 확인용, 공식 아님)."""
+    out = []
+    for name in cfg["events"]["media"]["outlets"]:
+        for it in feeds.get(name) or []:
+            if it["published"]:
+                out.append({"id": f"media:{it['url']}", "source": name, "entity": None, "official": False,
+                            "title": it["title"], "text": it["summary"], "url": it["url"],
+                            "published": it["published"], "group": None})
+    return out
+
+
 def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
         fetch_kraken=prices.fetch_kraken, fetch_text=net.fetch_text,
-        run_stats=lambda ws, we: None, force_weekly=False, log=print):
+        run_stats=lambda ws, we: None, force_weekly=False, official_fn=None, chain_fn=None,
+        extract_fn=None, log=print):
     state = copy.deepcopy(state)
+    mark = lambda n, ok: mark_source(state, n, ok, now_ts)  # noqa: E731
     flush_unsent(state, send_fn, log)
 
     markets, candles, kraken, errors, status = collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken)
     for name, ok in status.items():
-        mark_source(state, name, ok, now_ts)
-    dds = run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log)
+        mark(name, ok)
+    dds, reached = run_drawdown(cfg, state, markets, kraken, errors, log)
 
-    news.collect(state, cfg, now_ts, fetch_text, mark=lambda n, ok: mark_source(state, n, ok, now_ts), log=log)
+    feeds = news.collect(state, cfg, now_ts, fetch_text, mark=mark, log=log)
+
+    official = (official_fn or (lambda s: sources.collect_official(s, fetch_text=fetch_text)))(state)
+    for name, items in official.items():
+        mark(f"src:{name}", items is not None)
+    ages = (chain_fn or events.chain_ages)(now_ts)
+    for sym, age in ages.items():
+        mark(f"chain:{sym}", age is not None)
+    usd = {sym: m.price for sym, m in markets.items()} | {c: kraken[c] for c in ("USDT", "USDC") if c in kraken}
+    parts = events.run_events(state, cfg, now_ts, usd, official, media_items(feeds, cfg), kraken, ages,
+                              extract_fn or (lambda item: extract.extract(item, cfg, log)), log)
+    for p in parts:
+        p["text"] = event_briefing.render(p, state, markets, dds, usd, now_ts)
+    if reached:
+        parts.append(drawdown_part(cfg, state, markets, dds, reached, now_ts))
+    deliver(state, parts, now_ts, send_fn, log)
 
     send_weekly, key = weekly.due(state, now_ts, force_weekly)
     if send_weekly:
         text = weekly.build(state, cfg, now_ts, candles, dds, run_stats(*weekly.window(now_ts)))
         brief_id = f"weekly-{key}" + (f"-manual-{int(now_ts)}" if force_weekly else "")
-        deliver(state, brief_id, text, now_ts, send_fn, log, "weekly", f"주간 요약 ({key})")
+        deliver(state, [{"id": brief_id, "kind": "weekly", "summary": f"주간 요약 ({key})", "text": text}],
+                now_ts, send_fn, log)
         state["weekly_last"] = max(filter(None, [state.get("weekly_last"), key]))
     return state
 
 
-def run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log):
-    """하락 판정과 발송. 판정했으면 {심볼: drawdown%}, 보류했으면 None."""
+def drawdown_part(cfg, state, markets, dds, reached, now_ts):
+    wide = market_wide(dds, cfg)
+    text = drawdown_briefing(markets, dds, reached, state["coins"], wide, cfg, now_ts,
+                             events_text=event_briefing.ongoing(state))
+    hour = datetime.fromtimestamp(now_ts, timezone.utc).strftime("%Y%m%d%H")
+    ths = thresholds(cfg)
+    return {"id": f"dd-{hour}-" + "-".join(f"{s}{lv}" for s, lv in reached.items()), "kind": "drawdown",
+            "summary": (f"하락 브리핑({'시장 전반' if wide else '개별 코인'}): "
+                        + ", ".join(f"{s} {signed(threshold_for(lv, ths))}" for s, lv in reached.items())),
+            "text": text}
+
+
+def run_drawdown(cfg, state, markets, kraken, errors, log):
+    """하락 판정. (판정했으면 {심볼: drawdown%} 아니면 None, {새로 도달한 심볼: level})"""
     if errors:
         log("가격 수집 실패, 판정 보류: " + "; ".join(errors))
-        return None
+        return None, {}
     hold = []
     for sym, cm in markets.items():
         ok, why = prices.check_sanity(cm, kraken.get(sym), cfg)
@@ -106,7 +155,7 @@ def run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log):
             hold.append(sym)
     if hold:
         log(f"비정상 값으로 판정 보류: {', '.join(hold)}")
-        return None
+        return None, {}
 
     new_coins, reached, dds = {}, {}, {}
     for sym, cm in markets.items():
@@ -116,16 +165,7 @@ def run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log):
     state["coins"] = new_coins
     log("drawdown: " + ", ".join(f"{s} {d}%" for s, d in dds.items()))
 
-    if reached:
-        wide = market_wide(dds, cfg)
-        text = drawdown_briefing(markets, dds, reached, new_coins, wide, cfg, now_ts)
-        hour = datetime.fromtimestamp(now_ts, timezone.utc).strftime("%Y%m%d%H")
-        brief_id = f"dd-{hour}-" + "-".join(f"{s}{lv}" for s, lv in reached.items())
-        ths = thresholds(cfg)
-        summary = (f"하락 브리핑({'시장 전반' if wide else '개별 코인'}): "
-                   + ", ".join(f"{s} {signed(threshold_for(lv, ths))}" for s, lv in reached.items()))
-        deliver(state, brief_id, text, now_ts, send_fn, log, "drawdown", summary)
-    return dds
+    return dds, reached
 
 
 def heartbeat(state, now_ts, log=print):

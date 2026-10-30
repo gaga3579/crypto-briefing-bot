@@ -1,0 +1,50 @@
+{
+  "event_type": "security_incident",
+  "entity": "Binance",
+  "metrics": [
+    {
+      "type": "estimated_impact",
+      "value": 6300000000,
+      "currency": "USD",
+      "actor": "Binance",
+      "source_quote": "The estimated total impact sits at around $6.3B."
+    },
+    {
+      "type": "frozen",
+      "value": 3000000000,
+      "currency": "USD",
+      "actor": "Binance",
+      "source_quote": "with ~$3 billion frozen on-chain so far."
+    }
+  ],
+  "withdrawal_status": {
+    "scope": "all_assets",
+    "assets": [],
+    "status": "suspended",
+    "source_quote": "temporarily suspended withdrawals while security checks are completed;"
+  },
+  "is_scheduled_maintenance": false,
+  "is_correction": false,
+  "facts": [
+    {
+      "text": "Initial investigation suggests the incident may involve a compromised DevOps engineer's laptop, which let an attacker reach a service container and submit unauthorized withdrawal transactions.",
+      "source_quote": "the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions"
+    },
+    {
+      "text": "Binance says it has found no evidence of any wallet private key leak.",
+      "source_quote": "We have found no evidence of any wallet private key leak."
+    },
+    {
+      "text": "Binance will cover all losses from the SAFU fund and company funds, and states user funds are safe.",
+      "source_quote": "Binance will cover all losses from the SAFU fund and the company’s funds. User funds are safe."
+    },
+    {
+      "text": "Binance has temporarily suspended withdrawals, revoked the affected address authorisation, and engaged law enforcement and blockchain intelligence partners to trace and recover funds.",
+      "source_quote": "engaged law enforcement and blockchain intelligence partners to trace and recover funds."
+    },
+    {
+      "text": "An update clarifies that deposits remain unaffected and continue to operate as normal.",
+      "source_quote": "deposits remain unaffected and continue to operate as normal"
+    }
+  ]
+}

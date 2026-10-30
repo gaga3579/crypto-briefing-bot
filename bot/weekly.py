@@ -85,7 +85,22 @@ def briefing_section(state, ws, we):
     sent = [b for b in state.get("briefings", []) if ws <= b["ts"] < we and b["kind"] != "weekly"]
     if not sent:
         return ["이번 주 발송한 브리핑 없음"]
-    return [f"• {kst(b['ts'], '%m/%d %H:%M')} {escape(b['summary'])}" for b in sent]
+    out = []
+    incs = state.get("incidents", {})
+    for b in sent:
+        out.append(f"• {kst(b['ts'], '%m/%d %H:%M')} {escape(b['summary'])}")
+        inc = incs.get(b.get("incident") or "")
+        if b["kind"] in ("event", "liveness", "depeg") and inc:
+            now_state = "진행 중" if inc["status"] == "open" else f"종료 ({inc['closed_reason']})"
+            latest = inc["updates"][-1] if inc["updates"] else None
+            tail = f", 최신 공식 항목 {kst(latest['ts'], '%m/%d')} {latest['title'][:60]}" if latest else ""
+            out.append(f"  현재 상태: {escape(now_state + tail)}")
+    unsent = [(i, u) for i in incs.values() for u in i["updates"] if not u["sent"] and ws <= u["ts"] < we]
+    if unsent:
+        out.append("후속 소식 (개별 발송 기준 미달):")
+        out += [f"• {escape(i['entity'])}: <a href=\"{escape(u['url'], quote=True)}\">{escape(u['title'][:80])}</a>"
+                for i, u in unsent[:5]]
+    return out
 
 
 # ---------- 3. 뉴스 ----------

@@ -69,7 +69,9 @@ def score(item, cfg, regulator):
 
 
 def collect(state, cfg, now_ts, fetch_text=net.fetch_text, mark=None, log=print):
+    """키워드에 걸린 기사를 state["news"]에 쌓고, 피드별 전체 항목 {이름: 목록 또는 None}을 돌려준다."""
     nc = cfg["news"]
+    fetched = {}
     store = {n["url"]: n for n in state.get("news", [])}
     for feed in nc["feeds"]:
         headers = {"User-Agent": os.environ["SEC_USER_AGENT"]} if feed["name"] == "SEC" and os.environ.get("SEC_USER_AGENT") else None
@@ -78,6 +80,7 @@ def collect(state, cfg, now_ts, fetch_text=net.fetch_text, mark=None, log=print)
             items = parse_feed(text) if status == 200 and text else None
         except ET.ParseError:
             items = None
+        fetched[feed["name"]] = items
         if mark:
             mark(f"rss:{feed['name']}", items is not None)
         if items is None:
@@ -92,3 +95,4 @@ def collect(state, cfg, now_ts, fetch_text=net.fetch_text, mark=None, log=print)
     cutoff = now_ts - nc["keep_days"] * DAY
     state["news"] = sorted((n for n in store.values() if n["published"]["ts"] >= cutoff),
                            key=lambda n: n["published"]["ts"])
+    return fetched

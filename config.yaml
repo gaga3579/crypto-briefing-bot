@@ -27,6 +27,23 @@ events:
     outlets: [CoinDesk, The Block, Decrypt]
     min_outlets: 2
     window_hours: 6
+  first_seen_hours: 48   # 소스를 처음 볼 때 이보다 오래된 항목은 처리하지 않고 본 것으로 표시
+  # 단어 단위 일치. 끝의 *는 접두어 일치 (한국어는 조사가 붙으므로 *를 붙인다)
+  risk_keywords: [hack*, exploit*, breach*, stolen, theft, compromis*, drain*, "security incident", attack*,
+                  suspend*, halt*, pause*, disabled, outage*, depeg*,
+                  해킹*, 탈취*, 도난*, 보안 사고*, 출금 중단*, 입출금 중단*, 일시 중단*, 네트워크 중단*]
+  exclude_keywords: ["scheduled maintenance", "wallet maintenance", "network upgrade*", "hard fork*",
+                     "system upgrade*", "scheduled upgrade*", 정기 점검*, 지갑 점검*, 네트워크 업그레이드*]
+  # 이미 알린 사건이 열려 있는 엔티티의 공식 공지는 위험 키워드가 없어도 이 키워드면 후속 후보로 본다
+  followup_keywords: [resum*, restor*, reopen*, update*, incident*, withdraw*, correction*, retract*, compensat*,
+                      재개*, 정정*, 업데이트*]
+  chains: {BTC: Bitcoin, ETH: Ethereum, SOL: Solana, XRP: XRP Ledger}
+  chain_aliases: {Bitcoin: [bitcoin], Ethereum: [ethereum], Solana: [solana], XRP Ledger: [xrp ledger, xrpl]}
+
+ai:
+  extract_model: claude-haiku-5-5
+  write_model: claude-sonnet-5-5
+  max_extractions_per_run: 10
 
 chain_liveness:
   consecutive_runs: 2

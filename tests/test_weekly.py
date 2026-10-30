@@ -5,7 +5,7 @@ from decimal import Decimal
 from bot import news, state as st, weekly
 from bot.briefing import KST
 from bot.main import run
-from conftest import Outbox, make_coinbase, make_kraken
+from conftest import OFFLINE, Outbox, make_coinbase, make_kraken
 
 HOUR = 3600
 
@@ -74,7 +74,7 @@ def go(cfg, state, now, out=None, force=False, stats=None, kraken=None):
     kraken = {k: 100 for k in market_spec()} if kraken is None else kraken
     new = run(cfg, state, now, out, fetch_coinbase=make_coinbase(market_spec()),
               fetch_kraken=make_kraken(kraken), fetch_text=fake_text,
-              run_stats=lambda ws, we: stats, force_weekly=force, log=lambda *_: None)
+              run_stats=lambda ws, we: stats, force_weekly=force, log=lambda *_: None, **OFFLINE)
     return new, out
 
 
@@ -117,7 +117,7 @@ def test_weekly_missing_data_says_unknown(cfg):
     out = Outbox()
     run(cfg, base, MON_0825, out, fetch_coinbase=make_coinbase({**market_spec(), "BTC": {"price": 100, "fail": True}}),
         fetch_kraken=make_kraken({}), fetch_text=lambda u, headers=None: (500, None),
-        force_weekly=False, log=lambda *_: None)
+        force_weekly=False, log=lambda *_: None, **OFFLINE)
     msg = out.sent[0]
     assert "확인 불가: BTC 주간 시세" in msg
     assert "확인 불가: 현재 30일 고점 대비" in msg

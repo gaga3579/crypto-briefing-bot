@@ -55,5 +55,8 @@ class Outbox:
         return True, ""
 
 
+OFFLINE = {"official_fn": lambda s: {}, "chain_fn": lambda now: {}, "extract_fn": lambda item: None}
+
+
 def empty_rss(url, headers=None):
     return 200, "<rss><channel></channel></rss>"
