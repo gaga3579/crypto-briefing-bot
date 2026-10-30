@@ -1,4 +1,12 @@
 {
+  "briefings": [
+    {
+      "id": "dd-2026103015-BTC1-ETH1-SOL2-XRP1",
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): BTC −10%, ETH −10%, SOL −20%, XRP −10%",
+      "ts": 1793374154
+    }
+  ],
   "coins": {
     "BTC": {
       "anchor_high": "87249.05",

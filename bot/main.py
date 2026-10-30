@@ -1,14 +1,14 @@
-"""hourly 실행 진입점. 2단계 범위: 하락 브리핑(템플릿), 미발송 큐, state 커밋, heartbeat."""
+"""hourly 실행 진입점. 하락 브리핑(템플릿), 뉴스 수집, 주간 요약, 미발송 큐, state 커밋, heartbeat."""
 import argparse
 import copy
 import os
 import time
 from datetime import datetime, timezone
 
-from . import net, prices, state as st, telegram
-from .briefing import drawdown_briefing, kst
+from . import net, news, prices, state as st, telegram, weekly
+from .briefing import drawdown_briefing, kst, signed
 from .config import load_config
-from .drawdown import evaluate, market_wide
+from .drawdown import evaluate, market_wide, threshold_for, thresholds
 
 
 def utc_iso(ts):
@@ -22,9 +22,15 @@ def mark_source(state, name, ok, now_ts):
         state["sources"][name] = {"ok": ok, "since": utc_iso(now_ts)}
 
 
-def deliver(state, brief_id, text, now_ts, send_fn, log):
+KEEP_BRIEFING_DAYS = 30
+
+
+def deliver(state, brief_id, text, now_ts, send_fn, log, kind, summary):
     if brief_id in state["sent"]:
         return
+    cutoff = now_ts - KEEP_BRIEFING_DAYS * 86400
+    state["briefings"] = [b for b in state["briefings"] if b["ts"] >= cutoff] + [
+        {"id": brief_id, "ts": int(now_ts), "kind": kind, "summary": summary}]
     ok, why = send_fn(text)
     if ok:
         state["sent"] = (state["sent"] + [brief_id])[-st.KEEP_SENT:]
@@ -51,30 +57,46 @@ def flush_unsent(state, send_fn, log):
 
 
 def collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken):
-    """({심볼: CoinMarket}, kraken 시세, 오류 목록, 소스 상태)"""
+    """({심볼: CoinMarket}, {심볼: 봉}, kraken 시세, 오류 목록, 소스 상태)"""
     lookback = cfg["drawdown"]["lookback_hours"]
-    markets, errors = {}, []
+    markets, candles, errors = {}, {}, []
     for sym in cfg["symbols"]:
         try:
-            price, candles = fetch_coinbase(sym, now_ts, lookback)
-            markets[sym] = prices.summarize(sym, price, candles, now_ts, lookback)
+            price, candles[sym] = fetch_coinbase(sym, now_ts, lookback)
+            markets[sym] = prices.summarize(sym, price, candles[sym], now_ts, lookback)
         except prices.FetchError as e:
             errors.append(str(e))
     kraken = fetch_kraken()
-    return markets, kraken, errors, {"coinbase": not errors, "kraken": bool(kraken)}
+    return markets, candles, kraken, errors, {"coinbase": not errors, "kraken": bool(kraken)}
 
 
 def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
-        fetch_kraken=prices.fetch_kraken, log=print):
+        fetch_kraken=prices.fetch_kraken, fetch_text=net.fetch_text,
+        run_stats=lambda ws, we: None, force_weekly=False, log=print):
     state = copy.deepcopy(state)
     flush_unsent(state, send_fn, log)
 
-    markets, kraken, errors, status = collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken)
+    markets, candles, kraken, errors, status = collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken)
     for name, ok in status.items():
         mark_source(state, name, ok, now_ts)
+    dds = run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log)
+
+    news.collect(state, cfg, now_ts, fetch_text, mark=lambda n, ok: mark_source(state, n, ok, now_ts), log=log)
+
+    send_weekly, key = weekly.due(state, now_ts, force_weekly)
+    if send_weekly:
+        text = weekly.build(state, cfg, now_ts, candles, dds, run_stats(*weekly.window(now_ts)))
+        brief_id = f"weekly-{key}" + (f"-manual-{int(now_ts)}" if force_weekly else "")
+        deliver(state, brief_id, text, now_ts, send_fn, log, "weekly", f"주간 요약 ({key})")
+        state["weekly_last"] = max(filter(None, [state.get("weekly_last"), key]))
+    return state
+
+
+def run_drawdown(cfg, state, now_ts, send_fn, markets, kraken, errors, log):
+    """하락 판정과 발송. 판정했으면 {심볼: drawdown%}, 보류했으면 None."""
     if errors:
         log("가격 수집 실패, 판정 보류: " + "; ".join(errors))
-        return state
+        return None
     hold = []
     for sym, cm in markets.items():
         ok, why = prices.check_sanity(cm, kraken.get(sym), cfg)
@@ -84,7 +106,7 @@ def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
             hold.append(sym)
     if hold:
         log(f"비정상 값으로 판정 보류: {', '.join(hold)}")
-        return state
+        return None
 
     new_coins, reached, dds = {}, {}, {}
     for sym, cm in markets.items():
@@ -95,11 +117,15 @@ def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
     log("drawdown: " + ", ".join(f"{s} {d}%" for s, d in dds.items()))
 
     if reached:
-        text = drawdown_briefing(markets, dds, reached, new_coins, market_wide(dds, cfg), cfg, now_ts)
+        wide = market_wide(dds, cfg)
+        text = drawdown_briefing(markets, dds, reached, new_coins, wide, cfg, now_ts)
         hour = datetime.fromtimestamp(now_ts, timezone.utc).strftime("%Y%m%d%H")
         brief_id = f"dd-{hour}-" + "-".join(f"{s}{lv}" for s, lv in reached.items())
-        deliver(state, brief_id, text, now_ts, send_fn, log)
-    return state
+        ths = thresholds(cfg)
+        summary = (f"하락 브리핑({'시장 전반' if wide else '개별 코인'}): "
+                   + ", ".join(f"{s} {signed(threshold_for(lv, ths))}" for s, lv in reached.items()))
+        deliver(state, brief_id, text, now_ts, send_fn, log, "drawdown", summary)
+    return dds
 
 
 def heartbeat(state, now_ts, log=print):
@@ -119,6 +145,7 @@ def heartbeat(state, now_ts, log=print):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true", help="발송·커밋 없이 메시지를 출력만 한다")
+    ap.add_argument("--force-weekly", action="store_true", help="주간 요약을 지금 보낸다")
     args = ap.parse_args()
 
     cfg = load_config()
@@ -130,7 +157,10 @@ def main():
             return True, ""
     else:
         send_fn = telegram.send
-    after = run(cfg, before, now_ts, send_fn)
+    repo, token = os.environ.get("GITHUB_REPOSITORY"), os.environ.get("GITHUB_TOKEN")
+    force = args.force_weekly or os.environ.get("FORCE_WEEKLY") == "true"
+    after = run(cfg, before, now_ts, send_fn, force_weekly=force,
+                run_stats=lambda ws, we: weekly.run_stats(repo, token, ws, we))
     heartbeat(after, now_ts)
     if args.dry_run:
         return

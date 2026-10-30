@@ -36,6 +36,25 @@ chain_liveness:
     XRP: 15
     SOL: 15
 
+news:
+  keep_days: 9
+  weekly_max: 5
+  feeds:
+    - {name: CoinDesk, url: "https://www.coindesk.com/arc/outboundfeeds/rss/"}
+    - {name: The Block, url: "https://www.theblock.co/rss.xml"}
+    - {name: Decrypt, url: "https://decrypt.co/feed"}
+    - {name: SEC, url: "https://www.sec.gov/news/pressreleases.rss", regulator: true}
+    - {name: CFTC, url: "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", regulator: true}
+  # 단어 단위로 맞춘다. 끝의 *는 접두어 일치 (regulat* → regulation, regulator …)
+  keywords:
+    coins: [bitcoin, btc, ether, ethereum, eth, solana, sol, xrp, ripple]
+    exchanges: [binance, coinbase, okx, bybit, kraken]
+    crypto: [crypto*, digital asset*, bitcoin, ethereum, stablecoin*, blockchain, token*]
+    regulation: [sec, cftc, etf*, regulat*, lawsuit*, congress, senate, fed, fomc, enforcement]
+
+weekly:
+  expected_runs: 168
+
 ops:
   source_failure_alert_hours: 24
   push_retries: 3

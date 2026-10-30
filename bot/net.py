@@ -7,6 +7,24 @@ UA = "crypto-briefing-bot/0.2 (+https://github.com/gaga3579/crypto-briefing-bot)
 TIMEOUT = 20
 
 
+def _raw(url, body=None, method=None, headers=None, timeout=TIMEOUT):
+    req = urllib.request.Request(url, data=body, headers=headers or {}, method=method)
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.status, r.read()
+    except urllib.error.HTTPError as e:
+        return e.code, e.read()
+    except Exception:
+        return 0, None
+
+
+def fetch_text(url, headers=None, timeout=TIMEOUT):
+    h = {"User-Agent": UA, "Accept": "*/*"}
+    h.update(headers or {})
+    status, raw = _raw(url, headers=h, timeout=timeout)
+    return status, raw.decode("utf-8", "replace") if raw is not None else None
+
+
 def request(url, payload=None, method=None, headers=None, timeout=TIMEOUT):
     h = {"User-Agent": UA, "Accept": "application/json"}
     h.update(headers or {})
@@ -14,14 +32,8 @@ def request(url, payload=None, method=None, headers=None, timeout=TIMEOUT):
     if payload is not None:
         body = json.dumps(payload).encode()
         h["Content-Type"] = "application/json"
-    req = urllib.request.Request(url, data=body, headers=h, method=method)
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            raw = r.read()
-            status = r.status
-    except urllib.error.HTTPError as e:
-        raw, status = e.read(), e.code
-    except Exception:
+    status, raw = _raw(url, body, method, h, timeout)
+    if status == 0:
         return 0, None
     try:
         return status, json.loads(raw) if raw else None

@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "7 * * * *"
   workflow_dispatch:
+    inputs:
+      force_weekly:
+        description: "주간 요약을 지금 보내기"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,6 +34,8 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GITHUB_TOKEN: ${{ github.token }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+          FORCE_WEEKLY: ${{ inputs.force_weekly }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

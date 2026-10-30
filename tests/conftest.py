@@ -53,3 +53,7 @@ class Outbox:
             return False, "HTTP500"
         self.sent.append(text)
         return True, ""
+
+
+def empty_rss(url, headers=None):
+    return 200, "<rss><channel></channel></rss>"

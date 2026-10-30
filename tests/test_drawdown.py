@@ -1,7 +1,7 @@
 """명세 12절 필수 테스트 1~9, 22~26 (하락 브리핑 범위)."""
 from bot import state as st
 from bot.main import run
-from conftest import NOW, HOUR, Outbox, make_coinbase, make_kraken
+from conftest import NOW, HOUR, Outbox, empty_rss, make_coinbase, make_kraken
 
 FLAT = {"ETH": 100, "SOL": 100, "XRP": 100}
 
@@ -15,7 +15,8 @@ def go(cfg, state, s, now=NOW, out=None, kraken=None):
     out = out or Outbox()
     coinbase = make_coinbase(s)
     kr = make_kraken(kraken or {k: v["price"] for k, v in s.items()})
-    new = run(cfg, state, now, out, fetch_coinbase=coinbase, fetch_kraken=kr, log=lambda *_: None)
+    new = run(cfg, state, now, out, fetch_coinbase=coinbase, fetch_kraken=kr, fetch_text=empty_rss,
+              log=lambda *_: None)
     return new, out
 
 

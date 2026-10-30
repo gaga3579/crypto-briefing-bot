@@ -12,7 +12,8 @@ KEEP_SENT = 500
 
 
 def empty():
-    return {"version": 1, "coins": {}, "sent": [], "unsent": [], "sources": {}, "heartbeat": None}
+    return {"version": 1, "coins": {}, "sent": [], "unsent": [], "sources": {}, "heartbeat": None,
+            "briefings": [], "news": [], "weekly_last": None}
 
 
 def load(path=ROOT / STATE_FILE):
@@ -46,8 +47,16 @@ def merge(local, remote):
             unsent[item["id"]] = item
     out["unsent"] = list(unsent.values())
     out["sources"] = {**remote.get("sources", {}), **local.get("sources", {})}
-    out["heartbeat"] = max(filter(None, [local.get("heartbeat"), remote.get("heartbeat")]), default=None)
+    for key in ("heartbeat", "weekly_last"):
+        out[key] = max(filter(None, [local.get(key), remote.get(key)]), default=None)
+    out["briefings"] = _union(remote.get("briefings", []), local.get("briefings", []), "id", "ts")
+    out["news"] = _union(remote.get("news", []), local.get("news", []), "url", lambda n: n["published"]["ts"])
     return out
+
+
+def _union(a, b, key, order):
+    sort_key = order if callable(order) else (lambda x: x[order])
+    return sorted({x[key]: x for x in a + b}.values(), key=sort_key)
 
 
 def _git(*args):
