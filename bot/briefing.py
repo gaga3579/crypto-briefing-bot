@@ -38,14 +38,23 @@ def price_table(markets, dds, marked=()):
     return "<pre>" + escape("\n".join(lines)) + "</pre>"
 
 
-def drawdown_briefing(markets, dds, reached, states, wide, cfg, now, events_text=None):
+def cause_lines(cause):
+    """원인: 보도에 명시된 원인만 (명세 4·7절). cause는 writer.drawdown_cause 결과."""
+    if not cause:
+        return ["원인: 원인 미확인"]
+    return [f"원인: {escape(cause['cause'])} (AI 요약 · 출처 "
+            f"<a href=\"{escape(cause['url'], quote=True)}\">{escape(cause['source'])}</a>)",
+            f"  <i>\"{escape(cause['quote'])}\"</i>"]
+
+
+def drawdown_briefing(markets, dds, reached, states, wide, cfg, now, events_text=None, cause=None):
     ths = thresholds(cfg)
     title = "시장 전반 하락" if wide else "개별 코인 하락"
     fired = ", ".join(f"{s} {signed(threshold_for(lv, ths))} 단계" for s, lv in reached.items())
     out = [f"<b>[하락 브리핑 | {title}]</b>", f"발동: {escape(fired)}", "",
            price_table(markets, dds, marked=reached.keys()),
            "* 발동 코인. 30D-H는 30일 고점 대비.", "",
-           "원인: 원인 미확인"]
+           *cause_lines(cause)]
     if events_text:
         out += ["", events_text]
     out += ["", "<b>다음 알림 조건</b>"]

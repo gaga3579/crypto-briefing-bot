@@ -101,13 +101,18 @@ def call_claude(prompt, model, system, schema, timeout=240):
     return d["structured_output"], ""
 
 
-def extract(item, cfg, log=print):
-    """검증된 추출 결과 또는 None(AI 실패)."""
+def ai_call(prompt, model, system, schema, log=print):
+    """CLI가 없으면 설치한 뒤 호출한다. (structured_output 또는 None, 오류 설명)"""
     if not ensure_cli(log):
-        return None
+        return None, "claude CLI 또는 토큰 없음"
+    return call_claude(prompt, model, system, schema)
+
+
+def extract(item, cfg, call=ai_call, log=print):
+    """검증된 추출 결과 또는 None(AI 실패)."""
     text = sanitize(item["text"] or "")
     title = sanitize(item["title"])
-    raw, err = call_claude(build_prompt({**item, "title": title}, text), cfg["ai"]["extract_model"], SYSTEM, SCHEMA)
+    raw, err = call(build_prompt({**item, "title": title}, text), cfg["ai"]["extract_model"], SYSTEM, SCHEMA)
     if raw is None:
         log(f"추출 실패 {item['id']}: {err}")
         return None

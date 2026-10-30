@@ -5,7 +5,7 @@ import os
 import time
 from datetime import datetime, timezone
 
-from . import event_briefing, events, extract, net, news, prices, sources, state as st, telegram, weekly
+from . import event_briefing, events, extract, net, news, prices, sources, state as st, telegram, weekly, writer
 from .briefing import drawdown_briefing, kst, signed
 from .config import load_config
 from .drawdown import evaluate, market_wide, threshold_for, thresholds
@@ -92,9 +92,15 @@ def media_items(feeds, cfg):
 def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
         fetch_kraken=prices.fetch_kraken, fetch_text=net.fetch_text,
         run_stats=lambda ws, we: None, force_weekly=False, official_fn=None, chain_fn=None,
-        extract_fn=None, log=print):
+        extract_fn=None, ai_call=None, log=print):
     state = copy.deepcopy(state)
     mark = lambda n, ok: mark_source(state, n, ok, now_ts)  # noqa: E731
+    base_call = ai_call or (lambda *a: extract.ai_call(*a, log=log))
+
+    def call(*args):
+        raw, err = base_call(*args)
+        mark("ai:claude", raw is not None)
+        return raw, err
     flush_unsent(state, send_fn, log)
 
     markets, candles, kraken, errors, status = collect_market(cfg, now_ts, fetch_coinbase, fetch_kraken)
@@ -112,11 +118,17 @@ def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
         mark(f"chain:{sym}", age is not None)
     usd = {sym: m.price for sym, m in markets.items()} | {c: kraken[c] for c in ("USDT", "USDC") if c in kraken}
     parts = events.run_events(state, cfg, now_ts, usd, official, media_items(feeds, cfg), kraken, ages,
-                              extract_fn or (lambda item: extract.extract(item, cfg, log)), log)
+                              extract_fn or (lambda item: extract.extract(item, cfg, call, log)), log)
     for p in parts:
+        if p.get("ext") and p["kind"] in ("event", "followup"):
+            inc = state["incidents"][p["incident"]]
+            p["ai_text"] = writer.event_summary(p["ext"], inc["entity"], events.LABELS[inc["event_type"]],
+                                                event_briefing.metric_values(p["ext"], usd), call,
+                                                cfg["ai"]["write_model"], log)
         p["text"] = event_briefing.render(p, state, markets, dds, usd, now_ts)
     if reached:
-        parts.append(drawdown_part(cfg, state, markets, dds, reached, now_ts))
+        cause = writer.drawdown_cause(cause_articles(state, now_ts), call, cfg["ai"]["write_model"], log)
+        parts.append(drawdown_part(cfg, state, markets, dds, reached, now_ts, cause))
     deliver(state, parts, now_ts, send_fn, log)
 
     send_weekly, key = weekly.due(state, now_ts, force_weekly)
@@ -129,10 +141,16 @@ def run(cfg, state, now_ts, send_fn, fetch_coinbase=prices.fetch_coinbase,
     return state
 
 
-def drawdown_part(cfg, state, markets, dds, reached, now_ts):
+def cause_articles(state, now_ts, hours=24, limit=12):
+    """원인 판단에 넘길 최근 기사 (수집된 뉴스 중 코인·규제 키워드에 걸린 것)."""
+    recent = [n for n in state.get("news", []) if now_ts - n["published"]["ts"] <= hours * 3600]
+    return [{k: n[k] for k in ("source", "url", "title", "summary")} for n in recent[-limit:]]
+
+
+def drawdown_part(cfg, state, markets, dds, reached, now_ts, cause=None):
     wide = market_wide(dds, cfg)
     text = drawdown_briefing(markets, dds, reached, state["coins"], wide, cfg, now_ts,
-                             events_text=event_briefing.ongoing(state))
+                             events_text=event_briefing.ongoing(state), cause=cause)
     hour = datetime.fromtimestamp(now_ts, timezone.utc).strftime("%Y%m%d%H")
     ths = thresholds(cfg)
     return {"id": f"dd-{hour}-" + "-".join(f"{s}{lv}" for s, lv in reached.items()), "kind": "drawdown",

@@ -2,7 +2,7 @@
 
 BTC·ETH·SOL·XRP 하락·사건 브리핑을 텔레그램으로 보내는 GitHub Actions 봇. 명세는 [SPEC.md](SPEC.md), 기준값은 [config.yaml](config.yaml).
 
-현재 상태: 4단계까지 가동 (하락·사건 브리핑, 주간 요약). `hourly` 워크플로가 매시 7분에 실행된다.
+현재 상태: 5단계까지 가동 (하락·사건 브리핑, 주간 요약, AI 요약 문장). `hourly` 워크플로가 매시 7분에 실행된다.
 
 - `python -m bot.main --dry-run`: 발송·커밋 없이 메시지만 출력
 - `python -m pytest -q tests`: 테스트

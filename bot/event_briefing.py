@@ -76,6 +76,21 @@ def status_line(inc):
     return f"진행 상태: 종료 ({escape(inc['closed_reason'] or '')})"
 
 
+def summary_lines(part):
+    """검사를 통과한 AI 문장. 없으면 템플릿만 (명세 7절)."""
+    if not part.get("ai_text"):
+        return []
+    return ["<b>요약</b> <i>(AI 작성 · 아래 원문 기반)</i>", escape(part["ai_text"]), ""]
+
+
+def metric_values(ext, usd):
+    """{metric 타입: 표시 문자열}. 같은 타입이 여러 번이면 처음 것만 자리표시자로 쓴다."""
+    values = {}
+    for m in ext["metrics"]:
+        values.setdefault(m["type"], money(m["value"], m["currency"], usd))
+    return values
+
+
 def render(part, state, markets, dds, usd, now):
     inc = state.get("incidents", {}).get(part.get("incident") or "")
     kind = part["kind"]
@@ -88,7 +103,7 @@ def render(part, state, markets, dds, usd, now):
     if kind == "followup":
         out = [f"<b>[후속 브리핑 | {label} · {escape(inc['entity'])}]</b>",
                f"사유: {escape(', '.join(part['reasons']))}", source_line(inc["item"]), ""]
-        out += ext_lines(part["ext"], usd) + ["", status_line(inc)]
+        out += summary_lines(part) + ext_lines(part["ext"], usd) + ["", status_line(inc)]
         return "\n".join(out)
     out = [f"<b>[사건 브리핑 | {label} · {escape(inc['entity'])}]</b>"]
     if kind == "liveness":
@@ -101,7 +116,7 @@ def render(part, state, markets, dds, usd, now):
         if not inc["official"]:
             outlets = part.get("outlets", [])
             out.append(f"<b>공식 미확인</b> (보도 {len(outlets)}곳: {escape(', '.join(outlets))})")
-        out += [source_line(inc["item"]), ""] + ext_lines(part["ext"], usd)
+        out += [source_line(inc["item"]), ""] + summary_lines(part) + ext_lines(part["ext"], usd)
     out += ["", "<b>가격 현황</b>",
             price_table(markets, dds) if markets and dds else "확인 불가 (이번 실행 가격 판정 보류)"]
     refs = references(state, inc, now)

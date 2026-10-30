@@ -38,7 +38,8 @@ def rss(items):
     return f"<rss><channel>{body}</channel></rss>"
 
 
-def go(cfg, state, items=(), exts=None, now=NOW, feeds=None, ages=None, kraken=None, prices=None, seed=True):
+def go(cfg, state, items=(), exts=None, now=NOW, feeds=None, ages=None, kraken=None, prices=None, seed=True,
+       ai_call=None):
     """items: 공식 항목 목록. exts: {item id: 추출 결과 또는 None}. 소스는 이미 본 적 있는 것으로 시작한다(seed)."""
     out, calls = Outbox(), []
     state = json.loads(json.dumps(state))
@@ -60,7 +61,8 @@ def go(cfg, state, items=(), exts=None, now=NOW, feeds=None, ages=None, kraken=N
 
     new = run(cfg, state, now, out, fetch_coinbase=make_coinbase(spec), fetch_kraken=make_kraken(kr),
               fetch_text=fetch_text, official_fn=lambda s: {"binance": [i for i in items]},
-              chain_fn=lambda n: ages or {}, extract_fn=extract_fn, log=lambda *_: None)
+              chain_fn=lambda n: ages or {}, extract_fn=extract_fn, ai_call=ai_call or (lambda *x: (None, "offline")),
+              log=lambda *_: None)
     return new, out, calls
 
 
