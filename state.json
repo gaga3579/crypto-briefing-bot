@@ -51,7 +51,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-10-31",
+  "heartbeat": "2026-11-01",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -64,61 +64,46 @@
         "event_type": "security_incident",
         "facts": [
           {
-            "source_quote": "At around 2026-10-29 20:05 (UTC), our hot wallets were compromised",
-            "text": "At around 2026-10-29 20:05 UTC, Binance's hot wallets were compromised, leading to unauthorized withdrawals of funds."
+            "source_quote": "That covered amount is now up to 90%.",
+            "text": "Recovery update #3: the covered amount of the hacked losses has increased from about 80% to 90%."
           },
           {
-            "source_quote": "Binance will cover all stolen funds related to this incident through our Secure Asset Fund for Users (SAFU) and our corporate treasury.",
-            "text": "Binance says it will cover all stolen funds through SAFU and its corporate treasury, and has set aside more than $6.34B in company funds."
+            "source_quote": "Binance will absorb the financial impact of these stolen funds, not our users.",
+            "text": "Binance says it will absorb the financial impact of the stolen funds, not its users."
           },
           {
-            "source_quote": "Approximately $3 billion has been frozen on-chain to date.",
-            "text": "Approximately $3 billion has been frozen on-chain to date, with further recovery efforts to follow."
+            "source_quote": "Binance's own corporate treasury.",
+            "text": "Replenishment is funded by a partial deployment of SAFU, a portion of the Futures insurance fund, and Binance's corporate treasury."
           },
           {
-            "source_quote": "The tech team targets to start resuming the withdrawal service within approximately 34 hours",
-            "text": "Withdrawals are suspended; the tech team targets resuming withdrawals in about 34 hours in phases, subject to security checks. Deposits and other unaffected services remain operational."
+            "source_quote": "we have taken a new Proof of Reserve (PoR) snapshot at 2026-10-31 00:00 (UTC)",
+            "text": "Binance took a new Proof of Reserve snapshot at 2026-10-31 00:00 (UTC); the full zero-knowledge proof is estimated by 2026-11-03 (UTC)."
           },
           {
-            "source_quote": "At this stage, we have found no evidence that wallet private keys were leaked.",
-            "text": "Binance found no evidence that wallet private keys were leaked; the investigation is ongoing and an initial compromised-laptop theory was superseded by additional breach points."
+            "source_quote": "We remain on track to reopen withdrawals within our previously stated timeframe (on Sunday, 2026-11-01)",
+            "text": "Binance targets reopening withdrawals on Sunday, 2026-11-01, within its previously stated timeframe."
           }
         ],
         "is_correction": false,
         "is_scheduled_maintenance": false,
-        "metrics": [
-          {
-            "actor": "Binance",
-            "currency": "USD",
-            "source_quote": "resulting in a loss of approximately $6.3B USD worth of token assets",
-            "type": "stolen",
-            "value": 6300000000
-          },
-          {
-            "actor": "Binance",
-            "currency": "USD",
-            "source_quote": "Approximately $3 billion has been frozen on-chain to date.",
-            "type": "frozen",
-            "value": 3000000000
-          }
-        ],
+        "metrics": [],
         "withdrawal_status": {
           "assets": [],
           "scope": "all_assets",
-          "source_quote": "Temporarily suspended withdrawals while conducting additional security reviews, implementing remediation measures and validating the integrity of affected systems.",
+          "source_quote": "resuming the withdrawal services for users",
           "status": "suspended"
         }
       },
       "item": {
-        "id": "binance:d3306d9dca5243548c813b605e1d1751",
+        "id": "binance:1fdf1f61559c401da0435895ffcccb62",
         "official": true,
         "source": "binance",
-        "title": "Security Incident Update #2 (2026-10-30)",
-        "ts": 1793388814,
-        "url": "https://www.binance.com/en/support/announcement/detail/d3306d9dca5243548c813b605e1d1751"
+        "title": "Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)",
+        "ts": 1793456697,
+        "url": "https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62"
       },
       "key": "Binance:security_incident:1793375480",
-      "last": 1793392888,
+      "last": 1793471269,
       "media": [
         {
           "id": "media:https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -415,6 +400,22 @@
           "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
           "ts": 1793453237,
           "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+        },
+        {
+          "id": "media:https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+          "ts": 1793458862,
+          "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+          "ts": 1793460250,
+          "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
         }
       ],
       "metrics": {
@@ -446,6 +447,16 @@
           "title": "Security Incident Update #2 (2026-10-30)",
           "ts": 1793388814,
           "url": "https://www.binance.com/en/support/announcement/detail/d3306d9dca5243548c813b605e1d1751"
+        },
+        {
+          "id": "binance:1fdf1f61559c401da0435895ffcccb62",
+          "official": true,
+          "reasons": [],
+          "sent": false,
+          "source": "binance",
+          "title": "Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)",
+          "ts": 1793456697,
+          "url": "https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62"
         }
       ],
       "withdrawal": "suspended"
@@ -1472,6 +1483,102 @@
       "summary": "The firm has also been tracking Binance’s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
       "title": "Chainalysis says hacker using ‘offensive agentic techniques’ accessed its customers’ names and emails",
       "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 14:00:00 +0000",
+        "ts": 1793455200,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Several companies offer access to bitcoin mining without the hassle of running equipment, but high costs and the 2028 reward halving make profits uncertain.",
+      "title": "As big bitcoin miners chase AI profits, individuals get another shot at the rewards",
+      "url": "https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 14:40:29 +0000",
+        "ts": 1793457629,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The pilot let Uber keep funds invested in money market products while accessing cash for payments, even on weekends.",
+      "title": "Uber tests how tokenization can put idle cash to work with HSBC, Franklin Templeton",
+      "url": "https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 15:00:00 +0000",
+        "ts": 1793458800,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
+      "title": "Institutions embrace crypto staking despite shrinking yields",
+      "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 15:01:02 +0000",
+        "ts": 1793458862,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world’s largest crypto exchange. Here’s what we know about how it happened, who’s behind it, and what comes next.",
+      "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+      "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 15:24:10 +0000",
+        "ts": 1793460250,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
+      "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+      "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 16:00:00 +0000",
+        "ts": 1793462400,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Trade.xyz’s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
+      "title": "Traders are already placing leveraged bets on Anthropic’s IPO using crypto contracts",
+      "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 16:09:30 +0000",
+        "ts": 1793462970,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+      "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+      "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 18:00:00 +0000",
+        "ts": 1793469600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
+      "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+      "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
     }
   ],
   "seen": {
@@ -1516,7 +1623,8 @@
       "binance:6560e7d60f3f4b55aa6de4fd89135b9c",
       "binance:c5a8729a97ac486d963784d96c5642d7",
       "binance:eb1fb9e5f41f43b682332aff0b7b89ce",
-      "binance:d3306d9dca5243548c813b605e1d1751"
+      "binance:d3306d9dca5243548c813b605e1d1751",
+      "binance:1fdf1f61559c401da0435895ffcccb62"
     ],
     "bybit": [
       "bybit:9996",
@@ -1542,7 +1650,11 @@
       "bybit:10016",
       "bybit:10017",
       "bybit:10018",
-      "bybit:10019"
+      "bybit:10019",
+      "bybit:10020",
+      "bybit:10021",
+      "bybit:10022",
+      "bybit:10023"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -1680,7 +1792,16 @@
       "media:https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
       "media:https://www.coindesk.com/opinion/2026/10/31/18-years-in-what-has-bitcoin-truly-done",
       "media:https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
-      "media:https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244"
+      "media:https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+      "media:https://www.coindesk.com/tech/2026/10/31/as-big-bitcoin-miners-chase-ai-profits-individuals-get-another-shot-at-the-rewards",
+      "media:https://www.coindesk.com/business/2026/10/31/uber-tests-how-tokenization-can-put-idle-cash-to-work-with-hsbc-franklin-templeton",
+      "media:https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+      "media:https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+      "media:https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+      "media:https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+      "media:https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+      "media:https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+      "media:https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -1871,7 +1992,12 @@
       "status:coinbase:j1136zv051kg:2wqsf4mbny8z",
       "status:coinbase:8zxv6r3bq07y:yg7rhcwk5r41",
       "status:coinbase:8zxv6r3bq07y:v59ndlf1069t",
-      "status:coinbase:8zxv6r3bq07y:60k4btxqgbm5"
+      "status:coinbase:8zxv6r3bq07y:60k4btxqgbm5",
+      "status:coinbase:0zfln0bkpc8f:hf8xhlc9y7wv",
+      "status:coinbase:0zfln0bkpc8f:xd5hq95tnz25",
+      "status:coinbase:0zfln0bkpc8f:y6shy2m71xyj",
+      "status:coinbase:0zfln0bkpc8f:bbj9kngh6gfc",
+      "status:coinbase:0zfln0bkpc8f:2wx941z3rqm0"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
