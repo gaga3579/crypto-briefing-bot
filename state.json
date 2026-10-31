@@ -383,6 +383,14 @@
           "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
           "ts": 1793395223,
           "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+        },
+        {
+          "id": "media:https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+          "ts": 1793422892,
+          "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
         }
       ],
       "metrics": {
@@ -1380,6 +1388,18 @@
       "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
       "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
       "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+    },
+    {
+      "published": {
+        "raw": "Sat, 31 Oct 2026 05:01:32 +0000",
+        "ts": 1793422892,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
     }
   ],
   "seen": {
@@ -1447,7 +1467,8 @@
       "bybit:10013",
       "bybit:10014",
       "bybit:10015",
-      "bybit:10016"
+      "bybit:10016",
+      "bybit:10017"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -1578,7 +1599,9 @@
       "media:https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
       "media:https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
       "media:https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
-      "media:https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
+      "media:https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+      "media:https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "media:https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -1766,7 +1789,10 @@
       "status:coinbase:sx636qyd11b9:2bqd7v8kqr3h",
       "status:coinbase:j4tjnbxsw12l:31d317v5jng5",
       "status:coinbase:41ywx5zyyzpt:hjp2xw547135",
-      "status:coinbase:j1136zv051kg:2wqsf4mbny8z"
+      "status:coinbase:j1136zv051kg:2wqsf4mbny8z",
+      "status:coinbase:8zxv6r3bq07y:yg7rhcwk5r41",
+      "status:coinbase:8zxv6r3bq07y:v59ndlf1069t",
+      "status:coinbase:8zxv6r3bq07y:60k4btxqgbm5"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -1939,7 +1965,8 @@
       "status:kraken:pq7m18tp02jx:7md9yq0nvyrt",
       "status:kraken:pq7m18tp02jx:xqxyxy4jt09q",
       "status:kraken:zkqc9db292h5:91w2b5rfh81t",
-      "status:kraken:drgdcf17cb9j:f2v6sf6qhngz"
+      "status:kraken:drgdcf17cb9j:f2v6sf6qhngz",
+      "status:kraken:drgdcf17cb9j:m2v4gjtzgx7t"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
