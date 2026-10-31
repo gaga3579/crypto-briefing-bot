@@ -359,6 +359,30 @@
           "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
           "ts": 1793390763,
           "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+          "official": false,
+          "source": "The Block",
+          "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+          "ts": 1793394363,
+          "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
+        },
+        {
+          "id": "media:https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+          "ts": 1793394964,
+          "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225",
+          "official": false,
+          "source": "The Block",
+          "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+          "ts": 1793395223,
+          "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
         }
       ],
       "metrics": {
@@ -1320,6 +1344,42 @@
       "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
       "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
       "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 21:06:03 +0000",
+        "ts": 1793394363,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
+      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
+      "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 21:16:04 +0000",
+        "ts": 1793394964,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
+      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
+      "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
+    },
+    {
+      "published": {
+        "raw": "Fri, 30 Oct 2026 21:20:23 +0000",
+        "ts": 1793395223,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
+      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
+      "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
     }
   ],
   "seen": {
@@ -1514,7 +1574,11 @@
       "media:https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
       "media:https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
       "media:https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
-      "media:https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
+      "media:https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+      "media:https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
+      "media:https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236",
+      "media:https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair",
+      "media:https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -1874,7 +1938,8 @@
       "status:kraken:zkqc9db292h5:sbw8y1m9wt3c",
       "status:kraken:pq7m18tp02jx:7md9yq0nvyrt",
       "status:kraken:pq7m18tp02jx:xqxyxy4jt09q",
-      "status:kraken:zkqc9db292h5:91w2b5rfh81t"
+      "status:kraken:zkqc9db292h5:91w2b5rfh81t",
+      "status:kraken:drgdcf17cb9j:f2v6sf6qhngz"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
