@@ -35,13 +35,13 @@
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2776.8",
-      "anchor_time": 1790928000,
-      "level": 2
+      "anchor_high": "2769.4",
+      "anchor_time": 1790946000,
+      "level": 1
     },
     "SOL": {
-      "anchor_high": "123.73",
-      "anchor_time": 1790917200,
+      "anchor_high": "123.36",
+      "anchor_time": 1790946000,
       "level": 2
     },
     "XRP": {
@@ -64,46 +64,62 @@
         "event_type": "security_incident",
         "facts": [
           {
-            "source_quote": "That covered amount is now up to 90%.",
-            "text": "Recovery update #3: the covered amount of the hacked losses has increased from about 80% to 90%."
+            "source_quote": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC).",
+            "text": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC), with withdrawals returning in phases by network and asset."
           },
           {
-            "source_quote": "Binance will absorb the financial impact of these stolen funds, not our users.",
-            "text": "Binance says it will absorb the financial impact of the stolen funds, not its users."
+            "source_quote": "Deposit services remain open and are not affected by the incident.",
+            "text": "Deposit services remain open and were not affected by the incident."
           },
           {
-            "source_quote": "Binance's own corporate treasury.",
-            "text": "Replenishment is funded by a partial deployment of SAFU, a portion of the Futures insurance fund, and Binance's corporate treasury."
+            "source_quote": "Binance will absorb the financial impact of the stolen funds, not our users.",
+            "text": "Binance says it will absorb the financial impact of the stolen funds so users do not bear the losses."
           },
           {
-            "source_quote": "we have taken a new Proof of Reserve (PoR) snapshot at 2026-10-31 00:00 (UTC)",
-            "text": "Binance took a new Proof of Reserve snapshot at 2026-10-31 00:00 (UTC); the full zero-knowledge proof is estimated by 2026-11-03 (UTC)."
+            "source_quote": "Binance has now covered approximately 95% of the impacted amount, up from 90% in our prior update.",
+            "text": "Binance says it has now covered approximately 95% of the impacted amount, up from 90% in the prior update; the remaining 5% are less liquid tokens outside the top ten."
           },
           {
-            "source_quote": "We remain on track to reopen withdrawals within our previously stated timeframe (on Sunday, 2026-11-01)",
-            "text": "Binance targets reopening withdrawals on Sunday, 2026-11-01, within its previously stated timeframe."
+            "source_quote": "Once the investigation is complete, we will publish a post-incident report with further details on the incident.",
+            "text": "Binance will publish a post-incident report once the investigation is complete."
           }
         ],
         "is_correction": false,
         "is_scheduled_maintenance": false,
         "metrics": [],
         "withdrawal_status": {
-          "assets": [],
-          "scope": "all_assets",
-          "source_quote": "resuming the withdrawal services for users",
-          "status": "suspended"
+          "assets": [
+            "BTC",
+            "ETH",
+            "USDT",
+            "USDC",
+            "BNB",
+            "TRX",
+            "SOL",
+            "XRP",
+            "ZEC",
+            "DOGE",
+            "GRAM",
+            "POL",
+            "AVAX",
+            "ARB",
+            "SUI"
+          ],
+          "scope": "specific_assets",
+          "source_quote": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC).",
+          "status": "partial"
         }
       },
       "item": {
-        "id": "binance:1fdf1f61559c401da0435895ffcccb62",
+        "id": "binance:73911fb819b240f88b88256bdd318eda",
         "official": true,
         "source": "binance",
-        "title": "Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)",
-        "ts": 1793456697,
-        "url": "https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62"
+        "title": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
+        "ts": 1793506136,
+        "url": "https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda"
       },
       "key": "Binance:security_incident:1793375480",
-      "last": 1793471269,
+      "last": 1793528471,
       "media": [
         {
           "id": "media:https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -465,9 +481,19 @@
           "title": "Security Incident | Recovery Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided (2026-10-31)",
           "ts": 1793456697,
           "url": "https://www.binance.com/en/support/announcement/detail/1fdf1f61559c401da0435895ffcccb62"
+        },
+        {
+          "id": "binance:73911fb819b240f88b88256bdd318eda",
+          "official": true,
+          "reasons": [],
+          "sent": false,
+          "source": "binance",
+          "title": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
+          "ts": 1793506136,
+          "url": "https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda"
         }
       ],
-      "withdrawal": "suspended"
+      "withdrawal": "partial"
     }
   },
   "liveness": {},
@@ -1644,7 +1670,8 @@
       "binance:c5a8729a97ac486d963784d96c5642d7",
       "binance:eb1fb9e5f41f43b682332aff0b7b89ce",
       "binance:d3306d9dca5243548c813b605e1d1751",
-      "binance:1fdf1f61559c401da0435895ffcccb62"
+      "binance:1fdf1f61559c401da0435895ffcccb62",
+      "binance:73911fb819b240f88b88256bdd318eda"
     ],
     "bybit": [
       "bybit:9996",
@@ -1674,7 +1701,8 @@
       "bybit:10020",
       "bybit:10021",
       "bybit:10022",
-      "bybit:10023"
+      "bybit:10023",
+      "bybit:10024"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
