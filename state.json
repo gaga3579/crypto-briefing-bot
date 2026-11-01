@@ -464,6 +464,14 @@
           "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
           "ts": 1793550751,
           "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+          "official": false,
+          "source": "The Block",
+          "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+          "ts": 1793557548,
+          "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
         }
       ],
       "metrics": {
@@ -1745,6 +1753,30 @@
       "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
       "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
       "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
+    },
+    {
+      "published": {
+        "raw": "Sun, 01 Nov 2026 18:25:48 +0000",
+        "ts": 1793557548,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+    },
+    {
+      "published": {
+        "raw": "Sun, 01 Nov 2026 19:30:00 +0000",
+        "ts": 1793561400,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
+      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
     }
   ],
   "seen": {
@@ -1982,7 +2014,9 @@
       "media:https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
       "media:https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack",
       "media:https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
-      "media:https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
+      "media:https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
+      "media:https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+      "media:https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
