@@ -58,7 +58,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-02",
+  "heartbeat": "2026-11-03",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -71,62 +71,46 @@
         "event_type": "security_incident",
         "facts": [
           {
-            "source_quote": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC).",
-            "text": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC), with withdrawals returning in phases by network and asset."
-          },
-          {
-            "source_quote": "Deposit services remain open and are not affected by the incident.",
-            "text": "Deposit services remain open and were not affected by the incident."
+            "source_quote": "Binance has covered approximately 95% of the impacted amount.",
+            "text": "Recovery Update #5 says Binance has covered approximately 95% of the impacted amount, with the outstanding 5% being tokens outside the top ten listed assets."
           },
           {
             "source_quote": "Binance will absorb the financial impact of the stolen funds, not our users.",
-            "text": "Binance says it will absorb the financial impact of the stolen funds so users do not bear the losses."
+            "text": "Binance states it will absorb the financial impact of the stolen funds, not its users."
           },
           {
-            "source_quote": "Binance has now covered approximately 95% of the impacted amount, up from 90% in our prior update.",
-            "text": "Binance says it has now covered approximately 95% of the impacted amount, up from 90% in the prior update; the remaining 5% are less liquid tokens outside the top ten."
+            "source_quote": "all BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed at 100%",
+            "text": "Binance says BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC are fully backed at 100%."
           },
           {
-            "source_quote": "Once the investigation is complete, we will publish a post-incident report with further details on the incident.",
-            "text": "Binance will publish a post-incident report once the investigation is complete."
+            "source_quote": "The full zero-knowledge proof for this latest PoR snapshot has been completed within our estimated timeframe.",
+            "text": "The full zero-knowledge proof for the 2026-10-31 Proof of Reserve snapshot has been completed."
+          },
+          {
+            "source_quote": "We are also working to resume withdrawals for additional networks and assets.",
+            "text": "Binance is working to resume withdrawals for additional networks and assets, with a progressive rollout planned for the next phase."
           }
         ],
         "is_correction": false,
         "is_scheduled_maintenance": false,
         "metrics": [],
         "withdrawal_status": {
-          "assets": [
-            "BTC",
-            "ETH",
-            "USDT",
-            "USDC",
-            "BNB",
-            "TRX",
-            "SOL",
-            "XRP",
-            "ZEC",
-            "DOGE",
-            "GRAM",
-            "POL",
-            "AVAX",
-            "ARB",
-            "SUI"
-          ],
-          "scope": "specific_assets",
-          "source_quote": "Binance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC).",
+          "assets": [],
+          "scope": "unknown",
+          "source_quote": "We are also working to resume withdrawals for additional networks and assets.",
           "status": "partial"
         }
       },
       "item": {
-        "id": "binance:73911fb819b240f88b88256bdd318eda",
+        "id": "binance:185bd9a4717f44088b3be70287b8237f",
         "official": true,
         "source": "binance",
-        "title": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
-        "ts": 1793506136,
-        "url": "https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda"
+        "title": "Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)",
+        "ts": 1793623505,
+        "url": "https://www.binance.com/en/support/announcement/detail/185bd9a4717f44088b3be70287b8237f"
       },
       "key": "Binance:security_incident:1793375480",
-      "last": 1793528471,
+      "last": 1793650608,
       "media": [
         {
           "id": "media:https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -527,6 +511,78 @@
           "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
           "ts": 1793610289,
           "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
+        },
+        {
+          "id": "media:https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+          "official": false,
+          "source": "Decrypt",
+          "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+          "ts": 1793615779,
+          "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
+        },
+        {
+          "id": "media:https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+          "ts": 1793620665,
+          "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets"
+        },
+        {
+          "id": "media:https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+          "ts": 1793626442,
+          "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+          "official": false,
+          "source": "The Block",
+          "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+          "ts": 1793630453,
+          "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+          "ts": 1793634809,
+          "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+        },
+        {
+          "id": "media:https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+          "ts": 1793636604,
+          "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+          "official": false,
+          "source": "The Block",
+          "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+          "ts": 1793638375,
+          "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
+        },
+        {
+          "id": "media:https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+          "official": false,
+          "source": "Decrypt",
+          "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+          "ts": 1793645163,
+          "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
+        },
+        {
+          "id": "media:https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+          "ts": 1793648762,
+          "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
         }
       ],
       "metrics": {
@@ -578,6 +634,16 @@
           "title": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
           "ts": 1793506136,
           "url": "https://www.binance.com/en/support/announcement/detail/73911fb819b240f88b88256bdd318eda"
+        },
+        {
+          "id": "binance:185bd9a4717f44088b3be70287b8237f",
+          "official": true,
+          "reasons": [],
+          "sent": false,
+          "source": "binance",
+          "title": "Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users as ZK Proof Generated (2026-11-02)",
+          "ts": 1793623505,
+          "url": "https://www.binance.com/en/support/announcement/detail/185bd9a4717f44088b3be70287b8237f"
         }
       ],
       "withdrawal": "partial"
@@ -1940,6 +2006,354 @@
       "summary": "Your look at what’s coming in the week starting Nov. 2.",
       "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
       "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 09:33:20 +0000",
+        "ts": 1793612000,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain.",
+      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+      "url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 10:36:19 +0000",
+        "ts": 1793615779,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
+      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 11:30:00 +0000",
+        "ts": 1793619000,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "CoinDesk",
+      "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
+      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 11:57:45 +0000",
+        "ts": 1793620665,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+      "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 12:24:18 +0000",
+        "ts": 1793622258,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 12:30:17 +0000",
+        "ts": 1793622617,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 2, 2026",
+      "title": "Bitcoin's 'volatility curve' has a midterm bump",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 12:37:24 +0000",
+        "ts": 1793623044,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
+      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
+      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 13:09:43 +0000",
+        "ts": 1793624983,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
+      "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
+      "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 13:19:36 +0000",
+        "ts": 1793625576,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
+      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 13:34:02 +0000",
+        "ts": 1793626442,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 14:00:00 +0000",
+        "ts": 1793628000,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure.",
+      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 14:29:33 +0000",
+        "ts": 1793629773,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
+      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
+      "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 14:40:53 +0000",
+        "ts": 1793630453,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:00:09 +0000",
+        "ts": 1793631609,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute’s Colin McLaren.",
+      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+      "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:01:03 +0000",
+        "ts": 1793631663,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:01:36 +0000",
+        "ts": 1793631696,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
+      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+      "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:05:24 +0000",
+        "ts": 1793631924,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money.",
+      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:26:43 +0000",
+        "ts": 1793633203,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
+      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 15:53:29 +0000",
+        "ts": 1793634809,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 16:23:24 +0000",
+        "ts": 1793636604,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
+      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 16:41:46 +0000",
+        "ts": 1793637706,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Broadridge, Computershare, Equiniti and Superstate join the exchange's planned blockchain market, bringing shareholder records and voting services onchain.",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 16:46:03 +0000",
+        "ts": 1793637963,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
+      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+      "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 16:52:55 +0000",
+        "ts": 1793638375,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 17:21:04 +0000",
+        "ts": 1793640064,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown.",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 17:36:03 +0000",
+        "ts": 1793640963,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+      "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 18:13:57 +0000",
+        "ts": 1793643237,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 18:46:03 +0000",
+        "ts": 1793645163,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
+      "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+      "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 19:15:48 +0000",
+        "ts": 1793646948,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
+      "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+      "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 19:46:02 +0000",
+        "ts": 1793648762,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
     }
   ],
   "seen": {
@@ -1986,7 +2400,8 @@
       "binance:eb1fb9e5f41f43b682332aff0b7b89ce",
       "binance:d3306d9dca5243548c813b605e1d1751",
       "binance:1fdf1f61559c401da0435895ffcccb62",
-      "binance:73911fb819b240f88b88256bdd318eda"
+      "binance:73911fb819b240f88b88256bdd318eda",
+      "binance:185bd9a4717f44088b3be70287b8237f"
     ],
     "bybit": [
       "bybit:9996",
@@ -2022,7 +2437,11 @@
       "bybit:10026",
       "bybit:10027",
       "bybit:10028",
-      "bybit:10029"
+      "bybit:10029",
+      "bybit:10030",
+      "bybit:10031",
+      "bybit:10032",
+      "bybit:10033"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -2190,7 +2609,39 @@
       "media:https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
       "media:https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
       "media:https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
-      "media:https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
+      "media:https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+      "media:https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+      "media:https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+      "media:https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+      "media:https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "media:https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+      "media:https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "media:https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+      "media:https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+      "media:https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "media:https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+      "media:https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+      "media:https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "media:https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+      "media:https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "media:https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+      "media:https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "media:https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+      "media:https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "media:https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "media:https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "media:https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "media:https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+      "media:https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+      "media:https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+      "media:https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "media:https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "media:https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+      "media:https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+      "media:https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+      "media:https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -2390,7 +2841,10 @@
       "status:coinbase:dv0206bqq8qt:gcc6y2mwq46t",
       "status:coinbase:dv0206bqq8qt:hb50tpz3kzmw",
       "status:coinbase:dv0206bqq8qt:yhdfnm82sgqb",
-      "status:coinbase:gtbbshmr3k4r:xycsmnblsxst"
+      "status:coinbase:gtbbshmr3k4r:xycsmnblsxst",
+      "status:coinbase:gtbbshmr3k4r:tq7gfx5rzxxv",
+      "status:coinbase:gtbbshmr3k4r:kqvjmrbfx8sp",
+      "status:coinbase:gtbbshmr3k4r:429mq3c3z90z"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -2564,7 +3018,9 @@
       "status:kraken:pq7m18tp02jx:xqxyxy4jt09q",
       "status:kraken:zkqc9db292h5:91w2b5rfh81t",
       "status:kraken:drgdcf17cb9j:f2v6sf6qhngz",
-      "status:kraken:drgdcf17cb9j:m2v4gjtzgx7t"
+      "status:kraken:drgdcf17cb9j:m2v4gjtzgx7t",
+      "status:kraken:4m0rscfswypx:vn0bld03y39y",
+      "status:kraken:by3j8r6q39ld:3dnb61l9h68c"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
