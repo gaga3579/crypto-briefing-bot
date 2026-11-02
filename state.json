@@ -479,6 +479,54 @@
           "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
           "ts": 1793557548,
           "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+          "official": false,
+          "source": "The Block",
+          "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+          "ts": 1793592665,
+          "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
+        },
+        {
+          "id": "media:https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+          "ts": 1793596692,
+          "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
+        },
+        {
+          "id": "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+          "ts": 1793602001,
+          "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+          "ts": 1793608321,
+          "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks"
+        },
+        {
+          "id": "media:https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+          "ts": 1793609370,
+          "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings"
+        },
+        {
+          "id": "media:https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+          "ts": 1793610289,
+          "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
         }
       ],
       "metrics": {
@@ -1784,6 +1832,114 @@
       "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
       "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 04:11:05 +0000",
+        "ts": 1793592665,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "The Block",
+      "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 04:41:16 +0000",
+        "ts": 1793594476,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+      "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 04:42:22 +0000",
+        "ts": 1793594542,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 05:18:12 +0000",
+        "ts": 1793596692,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
+      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 06:46:41 +0000",
+        "ts": 1793602001,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "CoinDesk",
+      "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
+      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 08:32:01 +0000",
+        "ts": 1793608321,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers get inside.",
+      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+      "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 08:41:28 +0000",
+        "ts": 1793608888,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "China's Communist Party has named virtual currency and blockchain in a new anti-corruption call.",
+      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+      "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 08:49:30 +0000",
+        "ts": 1793609370,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The outflows followed a 45-hour withdrawal freeze after a $6.3 billion theft, with rival exchanges attracting deposits as customers regained access to their funds.",
+      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+      "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings"
+    },
+    {
+      "published": {
+        "raw": "Mon, 02 Nov 2026 09:04:49 +0000",
+        "ts": 1793610289,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your look at what’s coming in the week starting Nov. 2.",
+      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
     }
   ],
   "seen": {
@@ -1864,7 +2020,9 @@
       "bybit:10024",
       "bybit:10025",
       "bybit:10026",
-      "bybit:10027"
+      "bybit:10027",
+      "bybit:10028",
+      "bybit:10029"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -2023,7 +2181,16 @@
       "media:https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
       "media:https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test",
       "media:https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
-      "media:https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
+      "media:https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+      "media:https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+      "media:https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+      "media:https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+      "media:https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+      "media:https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+      "media:https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+      "media:https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -2222,7 +2389,8 @@
       "status:coinbase:0zfln0bkpc8f:2wx941z3rqm0",
       "status:coinbase:dv0206bqq8qt:gcc6y2mwq46t",
       "status:coinbase:dv0206bqq8qt:hb50tpz3kzmw",
-      "status:coinbase:dv0206bqq8qt:yhdfnm82sgqb"
+      "status:coinbase:dv0206bqq8qt:yhdfnm82sgqb",
+      "status:coinbase:gtbbshmr3k4r:xycsmnblsxst"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
