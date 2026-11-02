@@ -26,6 +26,13 @@
       "kind": "followup",
       "summary": "후속 브리핑: Binance 보안 사고 (피해 규모 첫 공식 수치)",
       "ts": 1793392888
+    },
+    {
+      "id": "weekly-2026-11-02",
+      "incident": null,
+      "kind": "weekly",
+      "summary": "주간 요약 (2026-11-02)",
+      "ts": 1793582878
     }
   ],
   "coins": {
@@ -2467,7 +2474,8 @@
     "dd-2026103015-BTC1-ETH1-SOL2-XRP1",
     "ev:binance:c5a8729a97ac486d963784d96c5642d7",
     "dd-2026103016-ETH2",
-    "fu:binance:d3306d9dca5243548c813b605e1d1751"
+    "fu:binance:d3306d9dca5243548c813b605e1d1751",
+    "weekly-2026-11-02"
   ],
   "sources": {
     "ai:claude": {
@@ -2565,5 +2573,5 @@
   },
   "unsent": [],
   "version": 1,
-  "weekly_last": "2026-10-26"
+  "weekly_last": "2026-11-02"
 }
