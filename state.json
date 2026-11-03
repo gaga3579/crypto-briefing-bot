@@ -42,13 +42,13 @@
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2739",
-      "anchor_time": 1791154800,
+      "anchor_high": "2737.55",
+      "anchor_time": 1791165600,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "122.26",
-      "anchor_time": 1791151200,
+      "anchor_high": "122.04",
+      "anchor_time": 1791187200,
       "level": 2
     },
     "XRP": {
@@ -775,6 +775,22 @@
           "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
           "ts": 1793727054,
           "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+          "official": false,
+          "source": "The Block",
+          "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+          "ts": 1793738618,
+          "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+          "ts": 1793746807,
+          "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
         }
       ],
       "metrics": {
@@ -3072,6 +3088,126 @@
       "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
       "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
       "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 18:30:31 +0000",
+        "ts": 1793730631,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
+      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 19:16:02 +0000",
+        "ts": 1793733362,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
+      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+      "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 19:46:03 +0000",
+        "ts": 1793735163,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 20:36:02 +0000",
+        "ts": 1793738162,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 20:43:38 +0000",
+        "ts": 1793738618,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 22:11:51 +0000",
+        "ts": 1793743911,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 22:14:44 +0000",
+        "ts": 1793744084,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 22:46:02 +0000",
+        "ts": 1793745962,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 23:00:07 +0000",
+        "ts": 1793746807,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits.",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 23:19:44 +0000",
+        "ts": 1793747984,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
+      "title": "What voters said about their views on crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto"
     }
   ],
   "seen": {
@@ -3419,7 +3555,20 @@
       "media:https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
       "media:https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
       "media:https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
-      "media:https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
+      "media:https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "media:https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+      "media:https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "media:https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+      "media:https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+      "media:https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+      "media:https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "media:https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "media:https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "media:https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "media:https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -3802,7 +3951,12 @@
       "status:kraken:drgdcf17cb9j:f2v6sf6qhngz",
       "status:kraken:drgdcf17cb9j:m2v4gjtzgx7t",
       "status:kraken:4m0rscfswypx:vn0bld03y39y",
-      "status:kraken:by3j8r6q39ld:3dnb61l9h68c"
+      "status:kraken:by3j8r6q39ld:3dnb61l9h68c",
+      "status:kraken:27b7ccx9s67k:wcqnnjd6grwh",
+      "status:kraken:27b7ccx9s67k:ksrvcs81xdc8",
+      "status:kraken:27b7ccx9s67k:pvx0y4h3brp7",
+      "status:kraken:5sf6xkjqtrw0:np24jmdmmg1f",
+      "status:kraken:27b7ccx9s67k:bhwvks4s4yv0"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
