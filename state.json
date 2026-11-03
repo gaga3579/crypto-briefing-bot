@@ -687,6 +687,30 @@
           "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
           "ts": 1793658366,
           "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
+        },
+        {
+          "id": "media:https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+          "ts": 1793683512,
+          "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+          "ts": 1793698832,
+          "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor"
+        },
+        {
+          "id": "media:https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+          "official": false,
+          "source": "Decrypt",
+          "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+          "ts": 1793701128,
+          "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
         }
       ],
       "metrics": {
@@ -2528,6 +2552,150 @@
       "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
       "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
       "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 02:57:33 +0000",
+        "ts": 1793674653,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+      "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+      "url": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 04:48:17 +0000",
+        "ts": 1793681297,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
+      "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 05:25:12 +0000",
+        "ts": 1793683512,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "A 12-person committee briefly rewrote one of Arbitrum’s core contracts to spend from an address it held no key for, then put the code back. It’s the second time this year.",
+      "title": "Arbitrum’s council moved $30 million of Binance hack funds without the hacker’s key",
+      "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 05:29:48 +0000",
+        "ts": 1793683788,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit.",
+      "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 05:36:56 +0000",
+        "ts": 1793684216,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The user protection fund now sits below the $800 million level that Binance’s own rules say triggers a top-up, and the exchange hasn’t said when it will refill it.",
+      "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+      "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 08:50:56 +0000",
+        "ts": 1793695856,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish.",
+      "title": "Bitcoin’s latest chart signal looks a lot like the ones before its big crashes",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 08:56:48 +0000",
+        "ts": 1793696208,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
+      "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+      "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 09:19:41 +0000",
+        "ts": 1793697581,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
+      "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+      "url": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 09:40:32 +0000",
+        "ts": 1793698832,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
+      "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+      "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 09:50:16 +0000",
+        "ts": 1793699416,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A fifth straight weekly decline would mark bitcoin’s joint third-longest losing streak, as oil rebounds and Apple’s margin warning adds to investor caution ahead of the U.S. midterms.",
+      "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+      "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 10:15:53 +0000",
+        "ts": 1793700953,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Ardoino didn’t say where the extra coins sit. Holdings outside USDT reserves, such as Tether’s investments, wouldn’t appear in the report.",
+      "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+      "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 10:18:48 +0000",
+        "ts": 1793701128,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
+      "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+      "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
     }
   ],
   "seen": {
@@ -2617,7 +2785,11 @@
       "bybit:10031",
       "bybit:10032",
       "bybit:10033",
-      "bybit:10034"
+      "bybit:10034",
+      "bybit:10036",
+      "bybit:10037",
+      "bybit:10038",
+      "bybit:10039"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -2824,7 +2996,20 @@
       "media:https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
       "media:https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
       "media:https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
-      "media:https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks"
+      "media:https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+      "media:https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+      "media:https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+      "media:https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
+      "media:https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+      "media:https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
+      "media:https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+      "media:https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+      "media:https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+      "media:https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
