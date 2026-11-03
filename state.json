@@ -58,7 +58,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-03",
+  "heartbeat": "2026-11-04",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -711,6 +711,70 @@
           "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
           "ts": 1793701128,
           "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
+        },
+        {
+          "id": "media:https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+          "ts": 1793708129,
+          "url": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+          "ts": 1793710648,
+          "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery"
+        },
+        {
+          "id": "media:https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+          "ts": 1793711507,
+          "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
+          "ts": 1793715729,
+          "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist"
+        },
+        {
+          "id": "media:https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+          "ts": 1793717599,
+          "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+          "official": false,
+          "source": "The Block",
+          "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+          "ts": 1793720074,
+          "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406"
+        },
+        {
+          "id": "media:https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+          "ts": 1793724596,
+          "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack"
+        },
+        {
+          "id": "media:https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+          "ts": 1793727054,
+          "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked"
         }
       ],
       "metrics": {
@@ -2696,6 +2760,318 @@
       "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
       "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
       "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 11:12:12 +0000",
+        "ts": 1793704332,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A final 250 BTC transfer closed the hole left by September’s bug, but the federation behind the network still hasn’t said who paid to fill it.",
+      "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
+      "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 11:22:10 +0000",
+        "ts": 1793704930,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly.",
+      "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+      "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 11:28:00 +0000",
+        "ts": 1793705280,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "CoinDesk",
+      "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion.",
+      "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+      "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 11:49:20 +0000",
+        "ts": 1793706560,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds.",
+      "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 12:01:05 +0000",
+        "ts": 1793707265,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "But there’s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service.",
+      "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+      "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 12:15:29 +0000",
+        "ts": 1793708129,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "LUNC holders are waiting for Binance’s November burn, but it hasn’t arrived as the exchange recovers from a record $6.3 billion hack.",
+      "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+      "url": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 12:30:09 +0000",
+        "ts": 1793709009,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 3, 2026",
+      "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 12:57:28 +0000",
+        "ts": 1793710648,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals.",
+      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+      "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 13:11:47 +0000",
+        "ts": 1793711507,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "Decrypt",
+      "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices.",
+      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+      "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "ts": 1793714400,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "LO:TECH is betting on round-the-clock tokenized stock trading but didn’t say if it trades them now; a WFE study found stock exchanges still set prices.",
+      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+      "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "ts": 1793714400,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
+      "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+      "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:01:02 +0000",
+        "ts": 1793714462,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The “Tierra” upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness.",
+      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+      "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:22:09 +0000",
+        "ts": 1793715729,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches.",
+      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.3 billion heist",
+      "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:42:30 +0000",
+        "ts": 1793716950,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "In its first such survey, the BOK also asked about a crypto price crash, losses at another firm, and each firm’s crypto teams, budgets and investments.",
+      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+      "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 14:53:19 +0000",
+        "ts": 1793717599,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism.",
+      "title": "Binance's $6.3 billion hack began with a fake job interview, and a campaign 'built over many months'",
+      "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 15:02:13 +0000",
+        "ts": 1793718133,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "CFTC Chair Michael Selig said the move gives U.S. traders a regulated alternative to “offshore, and often unregulated, venues.”",
+      "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 15:34:34 +0000",
+        "ts": 1793720074,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
+      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+      "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 15:37:50 +0000",
+        "ts": 1793720270,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 16:08:14 +0000",
+        "ts": 1793722094,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
+      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 16:12:35 +0000",
+        "ts": 1793722355,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment.",
+      "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 16:17:51 +0000",
+        "ts": 1793722671,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Objections have reached 56 companies, with nearly 80% of the venture’s initial stock selection opting out.",
+      "title": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 16:49:56 +0000",
+        "ts": 1793724596,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
+      "title": "South Korea's president says country needs a ‘cybersecurity czar’ following $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 16:55:10 +0000",
+        "ts": 1793724910,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens.",
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 17:30:54 +0000",
+        "ts": 1793727054,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+      "title": "Five Ways North Korea Breaks Into Crypto Firms—and How Binance Was Hacked",
+      "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 17:46:15 +0000",
+        "ts": 1793727975,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+      "title": "Elon Musk’s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock"
+    },
+    {
+      "published": {
+        "raw": "Tue, 03 Nov 2026 18:16:03 +0000",
+        "ts": 1793729763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+      "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+      "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
     }
   ],
   "seen": {
@@ -2789,7 +3165,12 @@
       "bybit:10036",
       "bybit:10037",
       "bybit:10038",
-      "bybit:10039"
+      "bybit:10039",
+      "bybit:10040",
+      "bybit:10041",
+      "bybit:10042",
+      "bybit:10043",
+      "bybit:10044"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -2801,7 +3182,8 @@
       "kraken-blog:https://blog.kraken.com/product/kraken-derivatives/options-now-available-in-the-eea",
       "kraken-blog:https://blog.kraken.com/product/new-features/usdg-deposits-and-withdrawals-now-available-on-arbitrum-one",
       "kraken-blog:https://blog.kraken.com/product/prop/commodities-are-now-live-at-half-the-commission",
-      "kraken-blog:https://blog.kraken.com/kraken-vip/summer-2026"
+      "kraken-blog:https://blog.kraken.com/kraken-vip/summer-2026",
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/eurcv-is-available-for-trading"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -3009,7 +3391,35 @@
       "media:https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
       "media:https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
       "media:https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-      "media:https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation"
+      "media:https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+      "media:https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+      "media:https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+      "media:https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+      "media:https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+      "media:https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+      "media:https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+      "media:https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+      "media:https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
+      "media:https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+      "media:https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "media:https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+      "media:https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+      "media:https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+      "media:https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+      "media:https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
+      "media:https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+      "media:https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+      "media:https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "media:https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "media:https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "media:https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+      "media:https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+      "media:https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "media:https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -3215,7 +3625,8 @@
       "status:coinbase:gtbbshmr3k4r:429mq3c3z90z",
       "status:coinbase:4ztg89fsdw4s:7zzf5wjvvfrd",
       "status:coinbase:4ztg89fsdw4s:pwdt4xqyqrxd",
-      "status:coinbase:4ztg89fsdw4s:7kgpvlx7j94h"
+      "status:coinbase:4ztg89fsdw4s:7kgpvlx7j94h",
+      "status:coinbase:sgsgw21dz2jb:28n4jd75yxs0"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
