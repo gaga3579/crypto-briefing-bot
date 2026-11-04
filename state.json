@@ -63,7 +63,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-04",
+  "heartbeat": "2026-11-05",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -790,6 +790,70 @@
         }
       ],
       "withdrawal": "partial"
+    },
+    "Binance:security_incident:1793826904": {
+      "briefed": false,
+      "closed_reason": null,
+      "entity": "Binance",
+      "event_type": "security_incident",
+      "ext": {
+        "dropped": 0,
+        "entity": "Binance",
+        "event_type": "security_incident",
+        "facts": [
+          {
+            "source_quote": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack",
+            "text": "Coinbase told customers it was not affected by the Binance hack."
+          },
+          {
+            "source_quote": "offline storage for over 99% of assets, split private keys and kill switches",
+            "text": "Coinbase said it keeps over 99% of customer assets in offline storage, and uses split private keys and kill switches as security controls."
+          }
+        ],
+        "is_correction": false,
+        "is_scheduled_maintenance": false,
+        "metrics": [
+          {
+            "actor": "",
+            "currency": "USD",
+            "source_quote": "the $6.4 billion Binance hack",
+            "type": "estimated_impact",
+            "value": 6400000000
+          }
+        ],
+        "withdrawal_status": {
+          "assets": [],
+          "scope": "unknown",
+          "source_quote": "",
+          "status": "unknown"
+        }
+      },
+      "item": {
+        "id": "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+        "official": false,
+        "source": "Decrypt",
+        "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+        "ts": 1793825163,
+        "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+      },
+      "key": "Binance:security_incident:1793826904",
+      "last": 1793826904,
+      "media": [
+        {
+          "id": "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+          "ts": 1793825163,
+          "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+        }
+      ],
+      "metrics": {},
+      "official": false,
+      "opened": 1793826904,
+      "status": "open",
+      "updates": [],
+      "withdrawal": "unknown"
     }
   },
   "liveness": {},
@@ -3385,6 +3449,186 @@
       "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
       "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
       "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 14:25:12 +0000",
+        "ts": 1793802312,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+      "title": "The election changes Washington. The work on crypto continues",
+      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 15:27:20 +0000",
+        "ts": 1793806040,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Retail traders increasingly want trades that resolve fast, from prediction markets to same-day options. Andy Baehr of GSR argues perpetual futures belong in that group, and that ICE’s deal to bring Trade[XYZ]’s Hyperliquid markets onshore is a play for that customer, one that doesn’t need a crypto asset to work.",
+      "title": "Crypto Long & Short: ICE is betting on retail’s appetite for quick outcomes",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:08:14 +0000",
+        "ts": 1793808494,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bitcoin miners pivoting to AI face new uncertainty over power access and construction permits, while companies with approved projects could benefit from tighter supply.",
+      "title": "Wall Street rethinks AI data center boom as Texas election raises new risks",
+      "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:11:29 +0000",
+        "ts": 1793808689,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
+      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
+      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:27:49 +0000",
+        "ts": 1793809669,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
+      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:29:36 +0000",
+        "ts": 1793809776,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
+      "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:49:31 +0000",
+        "ts": 1793810971,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto’s exposure to shifting US political power.",
+      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 16:58:42 +0000",
+        "ts": 1793811522,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
+      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 17:59:09 +0000",
+        "ts": 1793815149,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
+      "title": "What Is x402? How AI Agents Pay With Crypto",
+      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 18:16:02 +0000",
+        "ts": 1793816162,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 19:02:05 +0000",
+        "ts": 1793818925,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
+      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
+      "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 19:57:18 +0000",
+        "ts": 1793822238,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
+      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 20:09:58 +0000",
+        "ts": 1793822998,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "The Block",
+      "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 20:29:12 +0000",
+        "ts": 1793824152,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
+      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 20:46:03 +0000",
+        "ts": 1793825163,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
+      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
     }
   ],
   "seen": {
@@ -3434,7 +3678,8 @@
       "binance:73911fb819b240f88b88256bdd318eda",
       "binance:185bd9a4717f44088b3be70287b8237f",
       "binance:2d83c325ab6e49c6bd6c5de8803b11a6",
-      "binance:e3424d3a781841eb8b507bc694c0ca3a"
+      "binance:e3424d3a781841eb8b507bc694c0ca3a",
+      "binance:c6ba9aa726974fc6b9332a2c8f63b405"
     ],
     "bybit": [
       "bybit:9996",
@@ -3490,7 +3735,8 @@
       "bybit:10047",
       "bybit:10048",
       "bybit:10049",
-      "bybit:10050"
+      "bybit:10050",
+      "bybit:10051"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -3783,7 +4029,24 @@
       "media:https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
       "media:https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
       "media:https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
-      "media:https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
+      "media:https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "media:https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+      "media:https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+      "media:https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+      "media:https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+      "media:https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+      "media:https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+      "media:https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+      "media:https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+      "media:https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto",
+      "media:https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+      "media:https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+      "media:https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
+      "media:https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+      "media:https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+      "media:https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+      "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -3990,7 +4253,8 @@
       "status:coinbase:4ztg89fsdw4s:7zzf5wjvvfrd",
       "status:coinbase:4ztg89fsdw4s:pwdt4xqyqrxd",
       "status:coinbase:4ztg89fsdw4s:7kgpvlx7j94h",
-      "status:coinbase:sgsgw21dz2jb:28n4jd75yxs0"
+      "status:coinbase:sgsgw21dz2jb:28n4jd75yxs0",
+      "status:coinbase:dcx1v2c47h3g:yj46y8mczy6f"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -4172,7 +4436,10 @@
       "status:kraken:27b7ccx9s67k:pvx0y4h3brp7",
       "status:kraken:5sf6xkjqtrw0:np24jmdmmg1f",
       "status:kraken:27b7ccx9s67k:bhwvks4s4yv0",
-      "status:kraken:5sf6xkjqtrw0:shm6ck608hgf"
+      "status:kraken:5sf6xkjqtrw0:shm6ck608hgf",
+      "status:kraken:jkm5tq0rzsc3:38ncm11gvcgf",
+      "status:kraken:jkm5tq0rzsc3:c389dv2lrgmq",
+      "status:kraken:jkm5tq0rzsc3:xn0yzx8w9zhg"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
