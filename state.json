@@ -44,23 +44,21 @@
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "86717.82",
-      "anchor_time": 1791208800,
-      "level": 1
+      "level": 0
     },
     "ETH": {
-      "anchor_high": "2733.62",
-      "anchor_time": 1791187200,
+      "anchor_high": "2725.06",
+      "anchor_time": 1791298800,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "122.04",
-      "anchor_time": 1791187200,
+      "anchor_high": "122",
+      "anchor_time": 1791298800,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.5264",
-      "anchor_time": 1791183600,
+      "anchor_high": "1.5238",
+      "anchor_time": 1791298800,
       "level": 1
     }
   },
@@ -3219,6 +3217,174 @@
       "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
       "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
       "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 06:06:04 +0000",
+        "ts": 1793772364,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 06:16:40 +0000",
+        "ts": 1793773000,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Crypto prices reversed overnight losses following the Blue Wave landslide for the Democratic Party.",
+      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 09:22:58 +0000",
+        "ts": 1793784178,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation’s Tokenization Service, or DTS, on Oct. 28.",
+      "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+      "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 09:37:45 +0000",
+        "ts": 1793785065,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.",
+      "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC’s service",
+      "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 10:18:50 +0000",
+        "ts": 1793787530,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
+      "title": "ZachXBT names French bank Crédit Mutuel Arkéa as suspected victim of $133 million crypto theft",
+      "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 10:35:01 +0000",
+        "ts": 1793788501,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
+      "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+      "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 10:38:58 +0000",
+        "ts": 1793788738,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
+      "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 11:20:31 +0000",
+        "ts": 1793791231,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The onchain investigator says the theft is being \"covered up,\" and that a lack of disclosure let more than $30 million be laundered.",
+      "title": "ZachXBT Names French Bank Crédit Mutuel Arkéa as Alleged Victim of $133M Crypto Theft",
+      "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 12:14:11 +0000",
+        "ts": 1793794451,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 4, 2026",
+      "title": "Here's how analysts are reacting to the new blue Congress",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 12:49:56 +0000",
+        "ts": 1793796596,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "North Korea’s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 13:00:00 +0000",
+        "ts": 1793797200,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 13:13:24 +0000",
+        "ts": 1793798004,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Experts say the Democratic sweep was largely priced in, but it makes the road ahead harder for crypto policy.",
+      "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+      "url": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 13:25:01 +0000",
+        "ts": 1793798701,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Plus, pro-crypto spending largely failed to produce results as the Democrats swept the Senate and House in Midterms.",
+      "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
+      "url": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 14:00:53 +0000",
+        "ts": 1793800853,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+      "title": "Live updates: Bitcoin and stocks reverse overnight plunge following Blue Wave landslide",
+      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
     }
   ],
   "seen": {
@@ -3320,7 +3486,11 @@
       "bybit:10043",
       "bybit:10044",
       "bybit:10045",
-      "bybit:10046"
+      "bybit:10046",
+      "bybit:10047",
+      "bybit:10048",
+      "bybit:10049",
+      "bybit:10050"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -3591,7 +3761,29 @@
       "media:https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
       "media:https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
       "media:https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
-      "media:https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
+      "media:https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+      "media:https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+      "media:https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+      "media:https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+      "media:https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+      "media:https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+      "media:https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+      "media:https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+      "media:https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+      "media:https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+      "media:https://www.theblock.co/learn/defi/defi-explained-432391",
+      "media:https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+      "media:https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
+      "media:https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
+      "media:https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+      "media:https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+      "media:https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
+      "media:https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+      "media:https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+      "media:https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
+      "media:https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+      "media:https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
+      "media:https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -3979,7 +4171,8 @@
       "status:kraken:27b7ccx9s67k:ksrvcs81xdc8",
       "status:kraken:27b7ccx9s67k:pvx0y4h3brp7",
       "status:kraken:5sf6xkjqtrw0:np24jmdmmg1f",
-      "status:kraken:27b7ccx9s67k:bhwvks4s4yv0"
+      "status:kraken:27b7ccx9s67k:bhwvks4s4yv0",
+      "status:kraken:5sf6xkjqtrw0:shm6ck608hgf"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
