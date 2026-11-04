@@ -33,17 +33,24 @@
       "kind": "weekly",
       "summary": "주간 요약 (2026-11-02)",
       "ts": 1793582878
+    },
+    {
+      "id": "fu:binance:e3424d3a781841eb8b507bc694c0ca3a",
+      "incident": "Binance:security_incident:1793375480",
+      "kind": "followup",
+      "summary": "후속 브리핑: Binance 보안 사고 (정정·철회)",
+      "ts": 1793772254
     }
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "86996",
-      "anchor_time": 1791162000,
+      "anchor_high": "86717.82",
+      "anchor_time": 1791208800,
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2737.55",
-      "anchor_time": 1791165600,
+      "anchor_high": "2733.62",
+      "anchor_time": 1791187200,
       "level": 1
     },
     "SOL": {
@@ -52,8 +59,8 @@
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.5309",
-      "anchor_time": 1791162000,
+      "anchor_high": "1.5264",
+      "anchor_time": 1791183600,
       "level": 1
     }
   },
@@ -62,143 +69,51 @@
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
-      "closed_reason": null,
+      "closed_reason": "정정·철회",
       "entity": "Binance",
       "event_type": "security_incident",
       "ext": {
         "dropped": 0,
-        "entity": "Binance",
-        "event_type": "security_incident",
+        "entity": "Binance Futures",
+        "event_type": "other",
         "facts": [
           {
-            "source_quote": "Binance will reopen withdrawals for the assets listed below, beginning at 04:00 (UTC) on 2026-11-03.",
-            "text": "Binance is reopening withdrawals for a list of assets across multiple networks beginning at 04:00 (UTC) on 2026-11-03, as part of Recovery Update #6 following a security incident."
+            "source_quote": "That change will not be implemented.",
+            "text": "Binance states that the previously announced reduction of the TradFi Perps taker fee discount from 50% to 40% for VIP 4 to 9 users (effective 2026-11-05 08:00 UTC) will not be implemented."
           },
           {
-            "source_quote": "Like phase one, reopening will roll out progressively across the assets as security and readiness checks are completed.",
-            "text": "Reopening is progressive: not all listed assets become available at once, and each network-asset pair is restored after security and readiness checks."
+            "source_quote": "This notice supersedes the announcement of 2026-10-28.",
+            "text": "The 2026-11-04 notice supersedes the Binance announcement of 2026-10-28."
           },
           {
-            "source_quote": "Deposit services remain open and are not affected.",
-            "text": "Deposit services remain open and are not affected."
+            "source_quote": "VIP 4 to 9 users will continue to receive a 50% discount on taker fees for TradFi Perps, compared to the standard USDT taker fee rate.",
+            "text": "VIP 4 to 9 users continue to receive a 50% discount on TradFi Perps taker fees compared to the standard USDT taker fee rate, until further notice."
           },
           {
-            "source_quote": "Binance will bear the financial impact of the stolen funds. These losses will not be passed on to users.",
-            "text": "Binance states it will bear the financial impact of the stolen funds, and the losses will not be passed on to users."
-          },
-          {
-            "source_quote": "We are prioritizing tokens based on user demand over the past week",
-            "text": "A first phase of withdrawal reopening for selected networks and assets took place on 2026-11-01; tokens are prioritized by user demand over the past week."
+            "source_quote": "Regular to VIP 3 users will continue to receive a 20% discount on taker fees for TradFi Perps, unchanged and unaffected by this notice.",
+            "text": "Regular to VIP 3 users continue to receive a 20% discount on TradFi Perps taker fees, unchanged by this notice."
           }
         ],
-        "is_correction": false,
+        "is_correction": true,
         "is_scheduled_maintenance": false,
         "metrics": [],
         "withdrawal_status": {
-          "assets": [
-            "USD1",
-            "XUSD",
-            "U",
-            "ADA",
-            "FDUSD",
-            "LTC",
-            "BTC",
-            "ETH",
-            "XRP",
-            "NEAR",
-            "ZEC",
-            "WBETH",
-            "DOGE",
-            "CAKE",
-            "SOL",
-            "FET",
-            "DOT",
-            "LINK",
-            "SHIB",
-            "XLM",
-            "ALT",
-            "BMT",
-            "EDU",
-            "HBAR",
-            "BANANAS31",
-            "BONK",
-            "HUMA",
-            "PARTI",
-            "IOST",
-            "LISTA",
-            "TUSD",
-            "bSTOCKS",
-            "RLUSD",
-            "ENA",
-            "USDE",
-            "PENDLE",
-            "WLD",
-            "QNT",
-            "ZRO",
-            "NIL",
-            "ONDO",
-            "SKY",
-            "ETHFI",
-            "REZ",
-            "JASMY",
-            "PUNDIX",
-            "BAT",
-            "STRK",
-            "POL",
-            "ANIME",
-            "LSK",
-            "RE",
-            "BREV",
-            "RLC",
-            "AMP",
-            "PLUME",
-            "BLUR",
-            "ZBT",
-            "ENSO",
-            "AVA",
-            "PUMP",
-            "RENDER",
-            "RAY",
-            "TRUMP",
-            "MET",
-            "PENGU",
-            "JUP",
-            "PYTH",
-            "KMNO",
-            "BNSOL",
-            "ORCA",
-            "WIF",
-            "W",
-            "JTO",
-            "IO",
-            "2Z",
-            "BOME",
-            "RLUSDFD",
-            "USDC",
-            "HAEDAL",
-            "CHIP",
-            "OP",
-            "WCT",
-            "ZEN",
-            "MIRA",
-            "HOME",
-            "AWE"
-          ],
-          "scope": "specific_assets",
-          "source_quote": "Not all listed assets will become available at once.",
-          "status": "partial"
+          "assets": [],
+          "scope": "unknown",
+          "source_quote": "",
+          "status": "unknown"
         }
       },
       "item": {
-        "id": "binance:2d83c325ab6e49c6bd6c5de8803b11a6",
+        "id": "binance:e3424d3a781841eb8b507bc694c0ca3a",
         "official": true,
         "source": "binance",
-        "title": "Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)",
-        "ts": 1793673627,
-        "url": "https://www.binance.com/en/support/announcement/detail/2d83c325ab6e49c6bd6c5de8803b11a6"
+        "title": "Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-11-04)",
+        "ts": 1793772000,
+        "url": "https://www.binance.com/en/support/announcement/detail/e3424d3a781841eb8b507bc694c0ca3a"
       },
       "key": "Binance:security_incident:1793375480",
-      "last": 1793674358,
+      "last": 1793772254,
       "media": [
         {
           "id": "media:https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
@@ -809,7 +724,7 @@
       },
       "official": true,
       "opened": 1793375480,
-      "status": "open",
+      "status": "closed",
       "updates": [
         {
           "id": "binance:d3306d9dca5243548c813b605e1d1751",
@@ -862,6 +777,18 @@
           "title": "Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)",
           "ts": 1793673627,
           "url": "https://www.binance.com/en/support/announcement/detail/2d83c325ab6e49c6bd6c5de8803b11a6"
+        },
+        {
+          "id": "binance:e3424d3a781841eb8b507bc694c0ca3a",
+          "official": true,
+          "reasons": [
+            "정정·철회"
+          ],
+          "sent": true,
+          "source": "binance",
+          "title": "Binance Futures Updates Trading Fee Discount for TradFi Perps (2026-11-04)",
+          "ts": 1793772000,
+          "url": "https://www.binance.com/en/support/announcement/detail/e3424d3a781841eb8b507bc694c0ca3a"
         }
       ],
       "withdrawal": "partial"
@@ -3208,6 +3135,90 @@
       "summary": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
       "title": "What voters said about their views on crypto",
       "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 00:00:00 +0000",
+        "ts": 1793750400,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
+      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
+      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 02:51:52 +0000",
+        "ts": 1793760712,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
+      "title": "South Korea’s ruling party formally proposes deferral of crypto income tax",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 04:35:48 +0000",
+        "ts": 1793766948,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
+      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 04:48:16 +0000",
+        "ts": 1793767696,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
+      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 04:55:11 +0000",
+        "ts": 1793768111,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
+      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 05:09:40 +0000",
+        "ts": 1793768980,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
+      "title": "South Korea's ruling party wants to delay its crypto tax again",
+      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 05:14:12 +0000",
+        "ts": 1793769252,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
+      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
+      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
     }
   ],
   "seen": {
@@ -3256,7 +3267,8 @@
       "binance:1fdf1f61559c401da0435895ffcccb62",
       "binance:73911fb819b240f88b88256bdd318eda",
       "binance:185bd9a4717f44088b3be70287b8237f",
-      "binance:2d83c325ab6e49c6bd6c5de8803b11a6"
+      "binance:2d83c325ab6e49c6bd6c5de8803b11a6",
+      "binance:e3424d3a781841eb8b507bc694c0ca3a"
     ],
     "bybit": [
       "bybit:9996",
@@ -3306,7 +3318,9 @@
       "bybit:10041",
       "bybit:10042",
       "bybit:10043",
-      "bybit:10044"
+      "bybit:10044",
+      "bybit:10045",
+      "bybit:10046"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -3568,7 +3582,16 @@
       "media:https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
       "media:https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
       "media:https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
-      "media:https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid"
+      "media:https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "media:https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
+      "media:https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
+      "media:https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+      "media:https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+      "media:https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+      "media:https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+      "media:https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+      "media:https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -4035,7 +4058,8 @@
     "ev:binance:c5a8729a97ac486d963784d96c5642d7",
     "dd-2026103016-ETH2",
     "fu:binance:d3306d9dca5243548c813b605e1d1751",
-    "weekly-2026-11-02"
+    "weekly-2026-11-02",
+    "fu:binance:e3424d3a781841eb8b507bc694c0ca3a"
   ],
   "sources": {
     "ai:claude": {
