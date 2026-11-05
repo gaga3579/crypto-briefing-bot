@@ -3629,6 +3629,54 @@
       "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
       "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
       "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 21:54:49 +0000",
+        "ts": 1793829289,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
+      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+      "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 22:46:03 +0000",
+        "ts": 1793832363,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
+      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 22:51:42 +0000",
+        "ts": 1793832702,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead"
+    },
+    {
+      "published": {
+        "raw": "Wed, 04 Nov 2026 22:55:00 +0000",
+        "ts": 1793832900,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
     }
   ],
   "seen": {
@@ -4046,7 +4094,13 @@
       "media:https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
       "media:https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
       "media:https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
-      "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
+      "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+      "media:https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+      "media:https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
+      "media:https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+      "media:https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+      "media:https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+      "media:https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -4254,7 +4308,13 @@
       "status:coinbase:4ztg89fsdw4s:pwdt4xqyqrxd",
       "status:coinbase:4ztg89fsdw4s:7kgpvlx7j94h",
       "status:coinbase:sgsgw21dz2jb:28n4jd75yxs0",
-      "status:coinbase:dcx1v2c47h3g:yj46y8mczy6f"
+      "status:coinbase:dcx1v2c47h3g:yj46y8mczy6f",
+      "status:coinbase:dcx1v2c47h3g:8qn3438hntns",
+      "status:coinbase:dcx1v2c47h3g:nrnq12c9ctqn",
+      "status:coinbase:3fy9f7rzjwf6:9xf07c4px860",
+      "status:coinbase:t4x0q0rjmq25:yndbs0xbdztl",
+      "status:coinbase:t4x0q0rjmq25:4yxprbc1rnjh",
+      "status:coinbase:3fy9f7rzjwf6:97cprlkqldx7"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
