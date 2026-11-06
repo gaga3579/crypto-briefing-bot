@@ -63,18 +63,18 @@
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2621.27",
-      "anchor_time": 1791356400,
+      "anchor_high": "2585.67",
+      "anchor_time": 1791421200,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "118.99",
-      "anchor_time": 1791356400,
+      "anchor_high": "117.18",
+      "anchor_time": 1791388800,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.4765",
-      "anchor_time": 1791356400,
+      "anchor_high": "1.441",
+      "anchor_time": 1791388800,
       "level": 1
     }
   },
@@ -878,6 +878,14 @@
           "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
           "ts": 1793897901,
           "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist"
+        },
+        {
+          "id": "media:https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+          "official": false,
+          "source": "Decrypt",
+          "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+          "ts": 1793973858,
+          "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
         }
       ],
       "metrics": {},
@@ -890,78 +898,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 09:15:20 +0000",
-        "ts": 1793178920,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
-      "title": "Moody’s assigns investment-grade ratings to Ripple’s RLUSD stablecoin",
-      "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 12:04:56 +0000",
-        "ts": 1793189096,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear—and the market responded.",
-      "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
-      "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 12:16:30 +0000",
-        "ts": 1793189790,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
-      "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-      "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 13:00:00 +0000",
-        "ts": 1793192400,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
-      "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
-      "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 13:01:02 +0000",
-        "ts": 1793192462,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.",
-      "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
-      "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 14:43:01 +0000",
-        "ts": 1793198581,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
-      "title": "Crypto braces for potential shift in congressional oversight after midterms",
-      "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949"
-    },
     {
       "published": {
         "raw": "Wed, 28 Oct 2026 15:05:03 +0000",
@@ -4261,6 +4197,162 @@
       "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
       "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
       "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 08:04:52 +0000",
+        "ts": 1793952292,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 08:47:42 +0000",
+        "ts": 1793954862,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 09:53:27 +0000",
+        "ts": 1793958807,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 10:57:06 +0000",
+        "ts": 1793962626,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 11:43:44 +0000",
+        "ts": 1793965424,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 11:49:35 +0000",
+        "ts": 1793965775,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 11:58:40 +0000",
+        "ts": 1793966320,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
+      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 12:30:00 +0000",
+        "ts": 1793968200,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 6, 2026",
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 12:33:31 +0000",
+        "ts": 1793968411,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 13:29:20 +0000",
+        "ts": 1793971760,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+      "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 13:40:22 +0000",
+        "ts": 1793972422,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
+      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+      "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 14:04:18 +0000",
+        "ts": 1793973858,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+      "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 14:33:49 +0000",
+        "ts": 1793975629,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
     }
   ],
   "seen": {
@@ -4378,7 +4470,11 @@
       "bybit:10054",
       "bybit:10055",
       "bybit:10056",
-      "bybit:10057"
+      "bybit:10057",
+      "bybit:10058",
+      "bybit:10059",
+      "bybit:10060",
+      "bybit:10061"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4392,7 +4488,8 @@
       "kraken-blog:https://blog.kraken.com/product/prop/commodities-are-now-live-at-half-the-commission",
       "kraken-blog:https://blog.kraken.com/kraken-vip/summer-2026",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/eurcv-is-available-for-trading",
-      "kraken-blog:https://blog.kraken.com/product/asset-listings/kor-is-available-for-trading"
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/kor-is-available-for-trading",
+      "kraken-blog:https://blog.kraken.com/news/industry-news/kraken-and-mexc-expand-partnership-to-support-clients-in-france"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -4754,7 +4851,26 @@
       "media:https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
       "media:https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
       "media:https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
-      "media:https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments"
+      "media:https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+      "media:https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+      "media:https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+      "media:https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
+      "media:https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+      "media:https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+      "media:https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+      "media:https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "media:https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+      "media:https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+      "media:https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "media:https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "media:https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+      "media:https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+      "media:https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+      "media:https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "media:https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+      "media:https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+      "media:https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+      "media:https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5160,7 +5276,9 @@
       "status:kraken:y6t0n8f1qgxt:l8zr4zg4kkrv",
       "status:kraken:y6t0n8f1qgxt:2wf4nvr6x8r3",
       "status:kraken:y6t0n8f1qgxt:s4vdz4snjqdb",
-      "status:kraken:1mk59wfdjggk:h0kf6cb7mdml"
+      "status:kraken:1mk59wfdjggk:h0kf6cb7mdml",
+      "status:kraken:lq19kjjg863l:cxbs8xvz4dnq",
+      "status:kraken:lq19kjjg863l:k3bfd1z88vd4"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
