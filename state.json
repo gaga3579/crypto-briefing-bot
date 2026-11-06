@@ -68,18 +68,18 @@
       "level": 1
     },
     "SOL": {
-      "anchor_high": "117.18",
-      "anchor_time": 1791388800,
+      "anchor_high": "116.77",
+      "anchor_time": 1791421200,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.441",
-      "anchor_time": 1791388800,
+      "anchor_high": "1.4287",
+      "anchor_time": 1791421200,
       "level": 1
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-06",
+  "heartbeat": "2026-11-07",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -886,6 +886,14 @@
           "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
           "ts": 1793973858,
           "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+          "official": false,
+          "source": "The Block",
+          "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+          "ts": 1793988419,
+          "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
         }
       ],
       "metrics": {},
@@ -898,114 +906,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 15:05:03 +0000",
-        "ts": 1793199903,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
-      "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
-      "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 15:15:34 +0000",
-        "ts": 1793200534,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
-      "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
-      "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 15:56:36 +0000",
-        "ts": 1793202996,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
-      "title": "Coinbase adds Ripple’s RLUSD stablecoin across retail, exchange and Prime platforms",
-      "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 16:07:08 +0000",
-        "ts": 1793203628,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
-      "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
-      "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 16:15:02 +0000",
-        "ts": 1793204102,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
-      "title": "Wall Street’s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
-      "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 16:22:58 +0000",
-        "ts": 1793204578,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Former Aptos advisor \"Buzz” has left the crypto project and is turning his attention to Facebook's parent company Meta—here's why.",
-      "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
-      "url": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 17:06:24 +0000",
-        "ts": 1793207184,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Bernstein sees Robinhood’s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
-      "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street’s bullish outlook",
-      "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 18:25:18 +0000",
-        "ts": 1793211918,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
-      "title": "Fed Stands Pat, Bitcoin Holds Steady—But a December Rate Hike Is in Play",
-      "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike"
-    },
-    {
-      "published": {
-        "raw": "Wed, 28 Oct 2026 19:46:03 +0000",
-        "ts": 1793216763,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
-      "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-      "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey"
-    },
     {
       "published": {
         "raw": "Wed, 28 Oct 2026 21:46:02 +0000",
@@ -4353,6 +4253,174 @@
       "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
       "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
       "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 15:26:38 +0000",
+        "ts": 1793978798,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 16:07:24 +0000",
+        "ts": 1793981244,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
+      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+      "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 16:34:07 +0000",
+        "ts": 1793982847,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 16:41:29 +0000",
+        "ts": 1793983289,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 17:42:28 +0000",
+        "ts": 1793986948,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 17:42:31 +0000",
+        "ts": 1793986951,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 18:06:59 +0000",
+        "ts": 1793988419,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 18:29:36 +0000",
+        "ts": 1793989776,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 18:36:03 +0000",
+        "ts": 1793990163,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 19:16:03 +0000",
+        "ts": 1793992563,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 19:46:03 +0000",
+        "ts": 1793994363,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 20:09:18 +0000",
+        "ts": 1793995758,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 20:36:03 +0000",
+        "ts": 1793997363,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 20:37:34 +0000",
+        "ts": 1793997454,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
+      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
     }
   ],
   "seen": {
@@ -4870,7 +4938,24 @@
       "media:https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
       "media:https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
       "media:https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
-      "media:https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
+      "media:https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "media:https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+      "media:https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "media:https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+      "media:https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+      "media:https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "media:https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "media:https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "media:https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "media:https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "media:https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "media:https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "media:https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+      "media:https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "media:https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "media:https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "media:https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "media:https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
