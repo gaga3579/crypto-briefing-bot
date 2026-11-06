@@ -58,23 +58,23 @@
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "85533.7",
-      "anchor_time": 1791334800,
+      "anchor_high": "84856.07",
+      "anchor_time": 1792598400,
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2696.6",
-      "anchor_time": 1791334800,
+      "anchor_high": "2621.27",
+      "anchor_time": 1791356400,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "120.58",
-      "anchor_time": 1791334800,
+      "anchor_high": "118.99",
+      "anchor_time": 1791356400,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.497",
-      "anchor_time": 1791334800,
+      "anchor_high": "1.4765",
+      "anchor_time": 1791356400,
       "level": 1
     }
   },
@@ -4213,6 +4213,54 @@
       "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
       "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
       "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 01:30:00 +0000",
+        "ts": 1793928600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 02:24:23 +0000",
+        "ts": 1793931863,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 03:56:28 +0000",
+        "ts": 1793937388,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
+      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 04:29:14 +0000",
+        "ts": 1793939354,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
+      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+      "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783"
     }
   ],
   "seen": {
@@ -4265,7 +4313,9 @@
       "binance:e3424d3a781841eb8b507bc694c0ca3a",
       "binance:c6ba9aa726974fc6b9332a2c8f63b405",
       "binance:a225a3b6084c41dc8c8dfb33f4de5872",
-      "binance:c88b113255244de1953dd416c4806bc3"
+      "binance:c88b113255244de1953dd416c4806bc3",
+      "binance:f3b32b406278474ab27c02685b33540c",
+      "binance:a2dd10b860a14c35a856fe9d66d6032c"
     ],
     "bybit": [
       "bybit:9996",
@@ -4699,7 +4749,12 @@
       "media:https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
       "media:https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
       "media:https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
-      "media:https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic"
+      "media:https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+      "media:https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "media:https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+      "media:https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+      "media:https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+      "media:https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
