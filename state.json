@@ -58,23 +58,23 @@
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "85685.48",
-      "anchor_time": 1791313200,
+      "anchor_high": "85533.7",
+      "anchor_time": 1791334800,
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2700.11",
-      "anchor_time": 1791327600,
+      "anchor_high": "2696.6",
+      "anchor_time": 1791334800,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "121.47",
-      "anchor_time": 1791324000,
+      "anchor_high": "120.58",
+      "anchor_time": 1791334800,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.5062",
-      "anchor_time": 1791316800,
+      "anchor_high": "1.497",
+      "anchor_time": 1791334800,
       "level": 1
     }
   },
@@ -4141,6 +4141,78 @@
       "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
       "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
       "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 18:48:40 +0000",
+        "ts": 1793904520,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 19:46:03 +0000",
+        "ts": 1793907963,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 20:11:02 +0000",
+        "ts": 1793909462,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 20:16:03 +0000",
+        "ts": 1793909763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 22:09:14 +0000",
+        "ts": 1793916554,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
+      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
+    },
+    {
+      "published": {
+        "raw": "Thu, 05 Nov 2026 22:16:03 +0000",
+        "ts": 1793916963,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
+      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this"
     }
   ],
   "seen": {
@@ -4615,7 +4687,19 @@
       "media:https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
       "media:https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
       "media:https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
-      "media:https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books"
+      "media:https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+      "media:https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "media:https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "media:https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+      "media:https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "media:https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "media:https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "media:https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+      "media:https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+      "media:https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+      "media:https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+      "media:https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
