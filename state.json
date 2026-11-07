@@ -63,18 +63,18 @@
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2585.67",
-      "anchor_time": 1791421200,
+      "anchor_high": "2576.89",
+      "anchor_time": 1791788400,
       "level": 1
     },
     "SOL": {
-      "anchor_high": "116.77",
-      "anchor_time": 1791421200,
+      "anchor_high": "115.26",
+      "anchor_time": 1791450000,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.4287",
-      "anchor_time": 1791421200,
+      "anchor_high": "1.4251",
+      "anchor_time": 1791730800,
       "level": 1
     }
   },
