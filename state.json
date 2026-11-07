@@ -908,18 +908,6 @@
   "news": [
     {
       "published": {
-        "raw": "Wed, 28 Oct 2026 21:46:02 +0000",
-        "ts": 1793223962,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
-      "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-      "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc"
-    },
-    {
-      "published": {
         "raw": "Thu, 29 Oct 2026 11:00:00 +0000",
         "ts": 1793271600,
         "tz_assumed": false
@@ -4421,6 +4409,18 @@
       "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
       "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
       "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
+    },
+    {
+      "published": {
+        "raw": "Fri, 06 Nov 2026 21:06:03 +0000",
+        "ts": 1793999163,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system"
     }
   ],
   "seen": {
@@ -4955,7 +4955,9 @@
       "media:https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
       "media:https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
       "media:https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
-      "media:https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
+      "media:https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+      "media:https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+      "media:https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
