@@ -68,8 +68,8 @@
       "level": 1
     },
     "SOL": {
-      "anchor_high": "115.26",
-      "anchor_time": 1791450000,
+      "anchor_high": "113.26",
+      "anchor_time": 1791781200,
       "level": 2
     },
     "XRP": {
@@ -906,90 +906,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 11:00:00 +0000",
-        "ts": 1793271600,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
-      "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
-      "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 11:06:40 +0000",
-        "ts": 1793272000,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The state says an undercover agent placed a dozen sports wagers on Kalshi, a day after the CFTC sued Utah to block its enforcement actions.",
-      "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
-      "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 11:32:51 +0000",
-        "ts": 1793273571,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets.",
-      "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
-      "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 12:30:38 +0000",
-        "ts": 1793277038,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
-      "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-      "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 12:58:28 +0000",
-        "ts": 1793278708,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
-      "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
-      "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 13:00:00 +0000",
-        "ts": 1793278800,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
-      "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
-      "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 13:01:02 +0000",
-        "ts": 1793278862,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
-      "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
-      "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana"
-    },
     {
       "published": {
         "raw": "Thu, 29 Oct 2026 14:15:46 +0000",
