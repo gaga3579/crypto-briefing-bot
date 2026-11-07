@@ -894,6 +894,14 @@
           "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
           "ts": 1793988419,
           "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+          "official": false,
+          "source": "The Block",
+          "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+          "ts": 1794088678,
+          "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
         }
       ],
       "metrics": {},
@@ -906,66 +914,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 20:46:43 +0000",
-        "ts": 1793306803,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Coinbase reported third-quarter net income of $719 million, driven largely by gains on its crypto holdings, as revenue held flat at $1.22 billion.",
-      "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
-      "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 20:58:35 +0000",
-        "ts": 1793307515,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Strategy reported $19.53B in Q3 net income on a $20.91B bitcoin gain, holds 848,517 BTC, and moves preferreds to daily dividends.",
-      "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",
-      "url": "https://www.theblock.co/news/business/2026-10-29-strategy-q3-net-income-preferred-daily-dividends-432141"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 21:12:45 +0000",
-        "ts": 1793308365,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $77,000, though Binance's co-CEO said it would cover all losses.",
-      "title": "Binance loses over $6 billion in 'biggest crypto hack in history'",
-      "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 21:36:24 +0000",
-        "ts": 1793309784,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
-      "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
-      "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto"
-    },
-    {
-      "published": {
-        "raw": "Thu, 29 Oct 2026 21:49:16 +0000",
-        "ts": 1793310556,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
-      "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
-      "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171"
-    },
     {
       "published": {
         "raw": "Thu, 29 Oct 2026 22:57:48 +0000",
@@ -4229,6 +4177,42 @@
       "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance.",
       "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
       "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
+    },
+    {
+      "published": {
+        "raw": "Sat, 07 Nov 2026 19:13:16 +0000",
+        "ts": 1794078796,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end"
+    },
+    {
+      "published": {
+        "raw": "Sat, 07 Nov 2026 20:59:47 +0000",
+        "ts": 1794085187,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
+      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+      "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
+    },
+    {
+      "published": {
+        "raw": "Sat, 07 Nov 2026 21:57:58 +0000",
+        "ts": 1794088678,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+      "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
     }
   ],
   "seen": {
@@ -4771,7 +4755,10 @@
       "media:https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
       "media:https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
       "media:https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-      "media:https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows"
+      "media:https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "media:https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "media:https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+      "media:https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
