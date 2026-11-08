@@ -916,30 +916,6 @@
   "news": [
     {
       "published": {
-        "raw": "Thu, 29 Oct 2026 22:57:48 +0000",
-        "ts": 1793314668,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Etherscan records show wallets tied to the suspected Binance hack swapping freezable stablecoins for Ethereum on decentralized exchanges.",
-      "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
-      "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 00:17:10 +0000",
-        "ts": 1793319430,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Binance’s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
-      "title": "Binance hack drained wallets backing customer assets, reserve data shows",
-      "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows"
-    },
-    {
-      "published": {
         "raw": "Fri, 30 Oct 2026 02:22:31 +0000",
         "ts": 1793326951,
         "tz_assumed": false
