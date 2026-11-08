@@ -916,66 +916,6 @@
   "news": [
     {
       "published": {
-        "raw": "Fri, 30 Oct 2026 17:50:26 +0000",
-        "ts": 1793382626,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
-      "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
-      "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 18:16:02 +0000",
-        "ts": 1793384162,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest “wrench attack” prosecutions yet.",
-      "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
-      "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 18:45:03 +0000",
-        "ts": 1793385903,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
-      "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
-      "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 19:55:00 +0000",
-        "ts": 1793390100,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
-      "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
-      "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 20:06:03 +0000",
-        "ts": 1793390763,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
-      "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
-      "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street"
-    },
-    {
-      "published": {
         "raw": "Fri, 30 Oct 2026 21:06:03 +0000",
         "ts": 1793394363,
         "tz_assumed": false
@@ -3877,6 +3817,30 @@
       "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
       "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
       "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
+    },
+    {
+      "published": {
+        "raw": "Sun, 08 Nov 2026 19:16:42 +0000",
+        "ts": 1794165402,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+      "title": "Stablecoin growth has stalled. The payments boom hasn't",
+      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
+    },
+    {
+      "published": {
+        "raw": "Sun, 08 Nov 2026 19:30:00 +0000",
+        "ts": 1794166200,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+      "title": "What the election results mean for crypto: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
     }
   ],
   "seen": {
@@ -4428,7 +4392,10 @@
       "media:https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
       "media:https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
       "media:https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-      "media:https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
+      "media:https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+      "media:https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+      "media:https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+      "media:https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
