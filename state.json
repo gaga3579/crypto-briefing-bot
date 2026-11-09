@@ -54,6 +54,20 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): BTC −10%",
       "ts": 1793904081
+    },
+    {
+      "id": "dd-2026110900-XRP2",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): XRP −20%",
+      "ts": 1794185319
+    },
+    {
+      "id": "weekly-2026-11-09",
+      "incident": null,
+      "kind": "weekly",
+      "summary": "주간 요약 (2026-11-09)",
+      "ts": 1794185319
     }
   ],
   "coins": {
@@ -75,7 +89,7 @@
     "XRP": {
       "anchor_high": "1.4251",
       "anchor_time": 1791730800,
-      "level": 1
+      "level": 2
     }
   },
   "depeg": {},
@@ -914,42 +928,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 21:06:03 +0000",
-        "ts": 1793394363,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Following the $6.3 billion hack of the world's largest crypto exchange, Binance, calls are growing for legislation.",
-      "title": "President Trump says they’re looking into Binance hack as calls grow for crypto rules",
-      "url": "https://www.theblock.co/news/regulation/2026-10-30-trump-looking-into-binance-hack-calls-grow-for-crypto-rules-432236"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 21:16:04 +0000",
-        "ts": 1793394964,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Michael Selig said the record $6.4 billion theft shows why offshore exchanges should register with the CFTC and adopt U.S.-grade cybersecurity standards.",
-      "title": "Binance Hack Shows Why Offshore Exchanges Need US Oversight, CFTC Chair Says",
-      "url": "https://decrypt.co/382285/binance-hack-why-offshore-exchanges-need-us-oversight-cftc-chair"
-    },
-    {
-      "published": {
-        "raw": "Fri, 30 Oct 2026 21:20:23 +0000",
-        "ts": 1793395223,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Investigators tie the $6B Binance hack to North Korea. Here's how hot-wallet signing infrastructure was compromised and where funds went.",
-      "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion",
-      "url": "https://www.theblock.co/news/business/2026-10-30-binance-hack-largest-crypto-hack-north-korea-432225"
-    },
     {
       "published": {
         "raw": "Sat, 31 Oct 2026 05:01:32 +0000",
@@ -4395,7 +4373,8 @@
       "media:https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
       "media:https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
       "media:https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-      "media:https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
+      "media:https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+      "media:https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -4823,7 +4802,8 @@
       "status:kraken:y6t0n8f1qgxt:s4vdz4snjqdb",
       "status:kraken:1mk59wfdjggk:h0kf6cb7mdml",
       "status:kraken:lq19kjjg863l:cxbs8xvz4dnq",
-      "status:kraken:lq19kjjg863l:k3bfd1z88vd4"
+      "status:kraken:lq19kjjg863l:k3bfd1z88vd4",
+      "status:kraken:cyfkt3ylmm4t:7n2kf5fdfc8z"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
@@ -4905,7 +4885,9 @@
     "weekly-2026-11-02",
     "fu:binance:e3424d3a781841eb8b507bc694c0ca3a",
     "ev:Binance:security_incident:1793826904",
-    "dd-2026110518-BTC1"
+    "dd-2026110518-BTC1",
+    "dd-2026110900-XRP2",
+    "weekly-2026-11-09"
   ],
   "sources": {
     "ai:claude": {
@@ -5003,5 +4985,5 @@
   },
   "unsent": [],
   "version": 1,
-  "weekly_last": "2026-11-02"
+  "weekly_last": "2026-11-09"
 }
