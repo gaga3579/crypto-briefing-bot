@@ -930,18 +930,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sat, 31 Oct 2026 05:01:32 +0000",
-        "ts": 1793422892,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX’s disclosed holdings. Blockchain investigators link the attack to North Korea.",
-      "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
-      "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve"
-    },
-    {
-      "published": {
         "raw": "Sat, 31 Oct 2026 12:00:00 +0000",
         "ts": 1793448000,
         "tz_assumed": false
@@ -3819,6 +3807,78 @@
       "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
       "title": "What the election results mean for crypto: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 02:36:01 +0000",
+        "ts": 1794191761,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has emerged as one of the […]",
+      "title": "What is Zcash (ZEC)? How shielded transactions work",
+      "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 03:21:49 +0000",
+        "ts": 1794194509,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 04:54:39 +0000",
+        "ts": 1794200079,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+      "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+      "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 05:16:54 +0000",
+        "ts": 1794201414,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+      "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+      "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 06:36:45 +0000",
+        "ts": 1794206205,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
+      "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+      "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 06:54:41 +0000",
+        "ts": 1794207281,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+      "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+      "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile"
     }
   ],
   "seen": {
@@ -3873,7 +3933,8 @@
       "binance:a225a3b6084c41dc8c8dfb33f4de5872",
       "binance:c88b113255244de1953dd416c4806bc3",
       "binance:f3b32b406278474ab27c02685b33540c",
-      "binance:a2dd10b860a14c35a856fe9d66d6032c"
+      "binance:a2dd10b860a14c35a856fe9d66d6032c",
+      "binance:9a4535f2f65149f1a09932fbefa11c7a"
     ],
     "bybit": [
       "bybit:9996",
@@ -3943,7 +4004,8 @@
       "bybit:10061",
       "bybit:10062",
       "bybit:10063",
-      "bybit:10064"
+      "bybit:10064",
+      "bybit:10065"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4374,7 +4436,14 @@
       "media:https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
       "media:https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
       "media:https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-      "media:https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034"
+      "media:https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+      "media:https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+      "media:https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+      "media:https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+      "media:https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+      "media:https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+      "media:https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+      "media:https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
