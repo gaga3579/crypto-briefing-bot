@@ -932,6 +932,14 @@
           "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
           "ts": 1794239656,
           "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
+        },
+        {
+          "id": "media:https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+          "ts": 1794252962,
+          "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
         }
       ],
       "metrics": {},
@@ -944,18 +952,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 01:10:05 +0000",
-        "ts": 1793495405,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
-      "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-      "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses"
-    },
     {
       "published": {
         "raw": "Sun, 01 Nov 2026 10:35:42 +0000",
@@ -4123,6 +4119,78 @@
       "summary": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
       "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
       "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 19:06:03 +0000",
+        "ts": 1794251163,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 19:36:02 +0000",
+        "ts": 1794252962,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 19:36:15 +0000",
+        "ts": 1794252975,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 20:04:49 +0000",
+        "ts": 1794254689,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
+      "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+      "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 22:07:00 +0000",
+        "ts": 1794262020,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
+      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
+    },
+    {
+      "published": {
+        "raw": "Mon, 09 Nov 2026 22:56:27 +0000",
+        "ts": 1794264987,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+      "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+      "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
     }
   ],
   "seen": {
@@ -4253,7 +4321,9 @@
       "bybit:10066",
       "bybit:10067",
       "bybit:10068",
-      "bybit:10069"
+      "bybit:10069",
+      "bybit:10070",
+      "bybit:10071"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4727,7 +4797,16 @@
       "media:https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability",
       "media:https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec",
       "media:https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739",
-      "media:https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves"
+      "media:https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
+      "media:https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "media:https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+      "media:https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+      "media:https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+      "media:https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+      "media:https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+      "media:https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+      "media:https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+      "media:https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -4963,7 +5042,8 @@
       "status:coinbase:t4x0q0rjmq25:4yxprbc1rnjh",
       "status:coinbase:3fy9f7rzjwf6:97cprlkqldx7",
       "status:coinbase:5pgqt8s63hkf:474r313xz7zk",
-      "status:coinbase:0tlgts8cn5y8:mkk3dsfj7cq9"
+      "status:coinbase:0tlgts8cn5y8:mkk3dsfj7cq9",
+      "status:coinbase:wt72fdzhq79h:1q497jdhfhvx"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5162,7 +5242,13 @@
       "status:kraken:cyfkt3ylmm4t:0f5phrs8w4w7",
       "status:kraken:cyfkt3ylmm4t:09nhxpfw918x",
       "status:kraken:ltqk3bv2r649:sdplnw7pk8q7",
-      "status:kraken:cyfkt3ylmm4t:2dx4d6mwmn9n"
+      "status:kraken:cyfkt3ylmm4t:2dx4d6mwmn9n",
+      "status:kraken:wfwxn353pk62:59l1ycftnn5b",
+      "status:kraken:wfwxn353pk62:nt4c5mbw3gxy",
+      "status:kraken:wfwxn353pk62:skj4vx9s48xp",
+      "status:kraken:ltqk3bv2r649:61st2l994pz9",
+      "status:kraken:ltqk3bv2r649:qmpnzyqylnny",
+      "status:kraken:wfwxn353pk62:2ds6q0r3hb95"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
