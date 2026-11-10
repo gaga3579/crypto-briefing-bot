@@ -68,6 +68,13 @@
       "kind": "weekly",
       "summary": "주간 요약 (2026-11-09)",
       "ts": 1794185319
+    },
+    {
+      "id": "dd-2026111017-ETH2",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): ETH −20%",
+      "ts": 1794332507
     }
   ],
   "coins": {
@@ -79,7 +86,7 @@
     "ETH": {
       "anchor_high": "2576.89",
       "anchor_time": 1791788400,
-      "level": 1
+      "level": 2
     },
     "SOL": {
       "anchor_high": "113.26",
@@ -87,13 +94,13 @@
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.4251",
-      "anchor_time": 1791730800,
+      "anchor_high": "1.4196",
+      "anchor_time": 1791781200,
       "level": 2
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-10",
+  "heartbeat": "2026-11-11",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -940,6 +947,14 @@
           "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
           "ts": 1794252962,
           "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
+        },
+        {
+          "id": "media:https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+          "ts": 1794312807,
+          "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system"
         }
       ],
       "metrics": {},
@@ -952,102 +967,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 10:35:42 +0000",
-        "ts": 1793529342,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase.",
-      "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-      "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 13:00:00 +0000",
-        "ts": 1793538000,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
-      "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 14:00:00 +0000",
-        "ts": 1793541600,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
-      "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
-      "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 15:00:00 +0000",
-        "ts": 1793545200,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
-      "title": "The key races to watch for the 2026 election",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 15:00:00 +0000",
-        "ts": 1793545200,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
-      "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
-      "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 16:01:02 +0000",
-        "ts": 1793548862,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "Decrypt",
-      "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows.",
-      "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
-      "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 16:32:31 +0000",
-        "ts": 1793550751,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
-      "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
-      "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 17:00:00 +0000",
-        "ts": 1793552400,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The researchers say any approval an agent can reach is unreliable, and they built Countersign, an app tying approval to a physical action the agent can’t fake.",
-      "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test",
-      "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test"
-    },
     {
       "published": {
         "raw": "Sun, 01 Nov 2026 18:25:48 +0000",
@@ -4299,6 +4218,306 @@
       "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
       "title": "Walt expands beyond Telegram with standalone crypto trading app",
       "url": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 09:59:17 +0000",
+        "ts": 1794304757,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram.",
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 10:36:53 +0000",
+        "ts": 1794307013,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Cathie Wood's Ark Invest sold $6.1 million worth of Block shares and $1.13 million worth of Bullish shares through its ETFs on Monday.",
+      "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+      "url": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 10:41:06 +0000",
+        "ts": 1794307266,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee.",
+      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+      "url": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 10:41:45 +0000",
+        "ts": 1794307305,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "A rate hike in December appears totally assured now, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
+      "title": "Live news: Bitcoin falls to nearly three-month low after disappointing inflation data",
+      "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 10:48:37 +0000",
+        "ts": 1794307717,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details.",
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 11:24:10 +0000",
+        "ts": 1794309850,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today.",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 11:52:16 +0000",
+        "ts": 1794311536,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business.",
+      "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+      "url": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 12:13:27 +0000",
+        "ts": 1794312807,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows.",
+      "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+      "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 12:15:00 +0000",
+        "ts": 1794312900,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 10, 2026",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 12:38:20 +0000",
+        "ts": 1794314300,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Asch is stepping down as head of the institutional prime brokerage.",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 12:45:34 +0000",
+        "ts": 1794314734,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update.",
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 13:24:51 +0000",
+        "ts": 1794317091,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?",
+      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
+      "url": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 13:32:09 +0000",
+        "ts": 1794317529,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate.",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 13:44:35 +0000",
+        "ts": 1794318275,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "eToro reported a 74% decline in Q3 profit to $15 million, with weaker crypto activity weighing on earnings.",
+      "title": "eToro’s Q3 profit plunges 74% as weaker crypto trading weighs on earnings",
+      "url": "https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "ts": 1794319200,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group.",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 14:00:02 +0000",
+        "ts": 1794319202,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Visa has added Monad as a stablecoin settlement option for participating issuers and acquirers, the Monad Foundation said.",
+      "title": "Visa adds Monad to stablecoin settlement network options",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 14:26:02 +0000",
+        "ts": 1794320762,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitdeer reported record third-quarter revenue of $320.7 million as bitcoin production surged 248% to 3,855 BTC.",
+      "title": "Bitdeer reports record Q3 revenue as net loss widens to $125.5 million",
+      "url": "https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 14:32:48 +0000",
+        "ts": 1794321168,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange.",
+      "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+      "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 15:01:02 +0000",
+        "ts": 1794322862,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint.",
+      "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+      "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 15:51:56 +0000",
+        "ts": 1794325916,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S.",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 16:02:02 +0000",
+        "ts": 1794326522,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit.",
+      "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+      "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 16:19:16 +0000",
+        "ts": 1794327556,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Alta’s blockchain will combine privacy and compliance controls for banks and other financial firms.",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 16:27:57 +0000",
+        "ts": 1794328077,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting.",
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 17:07:22 +0000",
+        "ts": 1794330442,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Crypto and prediction markets firms declared themselves on the side of the U.S. Commodity Futures Trading Commission, arguing perpetual futures aren't swaps.",
+      "title": "Crypto teams up with U.S. government to defend stock perps in legal fight",
+      "url": "https://www.coindesk.com/policy/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 17:32:22 +0000",
+        "ts": 1794331942,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
     }
   ],
   "seen": {
@@ -4358,7 +4577,8 @@
       "binance:dfd8cf5e698146ce83b560026529a752",
       "binance:95224ce8010046e790f1558283a8a4cf",
       "binance:9ef6e347da924cdc90f53577ab483b1f",
-      "binance:6f1577ea7d824586a93cb721344c98e2"
+      "binance:6f1577ea7d824586a93cb721344c98e2",
+      "binance:f7e499194e0748f593f973f1d1959ea5"
     ],
     "bybit": [
       "bybit:9996",
@@ -4438,7 +4658,9 @@
       "bybit:10071",
       "bybit:10072",
       "bybit:10073",
-      "bybit:10074"
+      "bybit:10074",
+      "bybit:10075",
+      "bybit:10076"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4453,7 +4675,8 @@
       "kraken-blog:https://blog.kraken.com/kraken-vip/summer-2026",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/eurcv-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/kor-is-available-for-trading",
-      "kraken-blog:https://blog.kraken.com/news/industry-news/kraken-and-mexc-expand-partnership-to-support-clients-in-france"
+      "kraken-blog:https://blog.kraken.com/news/industry-news/kraken-and-mexc-expand-partnership-to-support-clients-in-france",
+      "kraken-blog:https://blog.kraken.com/product/new-features/recurring-ach-deposits"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -4931,7 +5154,40 @@
       "media:https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
       "media:https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
       "media:https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
-      "media:https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981"
+      "media:https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
+      "media:https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+      "media:https://www.theblock.co/news/defi/2026-11-10-near-ai-security-breach-437002",
+      "media:https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+      "media:https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
+      "media:https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+      "media:https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+      "media:https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
+      "media:https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "media:https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+      "media:https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+      "media:https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+      "media:https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "media:https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "media:https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+      "media:https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
+      "media:https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "media:https://www.theblock.co/news/business/2026-11-10-etoros-q3-profit-plunges-74-as-weaker-crypto-trading-weighs-on-earnings-437192",
+      "media:https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-10-visa-monad-stablecoin-settlement-network-437201",
+      "media:https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
+      "media:https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+      "media:https://www.theblock.co/news/business/2026-11-10-bitdeer-reports-record-q3-revenue-as-net-loss-widens-to-125-5-million-437217",
+      "media:https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+      "media:https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-10-moodys-chainlink-ccip-cross-chain-credit-ratings-pilot-437245",
+      "media:https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+      "media:https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+      "media:https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+      "media:https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "media:https://www.coindesk.com/policy/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "media:https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+      "media:https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5171,7 +5427,8 @@
       "status:coinbase:wt72fdzhq79h:1q497jdhfhvx",
       "status:coinbase:0tlgts8cn5y8:049j1n1n9xj3",
       "status:coinbase:fz4d10rvry23:pjny6vvz5zhk",
-      "status:coinbase:fz4d10rvry23:vdw258kblhsr"
+      "status:coinbase:fz4d10rvry23:vdw258kblhsr",
+      "status:coinbase:wt72fdzhq79h:2dqsjs3sb67l"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5462,12 +5719,13 @@
     "ev:Binance:security_incident:1793826904",
     "dd-2026110518-BTC1",
     "dd-2026110900-XRP2",
-    "weekly-2026-11-09"
+    "weekly-2026-11-09",
+    "dd-2026111017-ETH2"
   ],
   "sources": {
     "ai:claude": {
-      "ok": true,
-      "since": "2026-10-30T16:01:10Z"
+      "ok": false,
+      "since": "2026-11-10T17:41:47Z"
     },
     "chain:BTC": {
       "ok": true,
