@@ -969,30 +969,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sun, 01 Nov 2026 18:25:48 +0000",
-        "ts": 1793557548,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
-      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
-      "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257"
-    },
-    {
-      "published": {
-        "raw": "Sun, 01 Nov 2026 19:30:00 +0000",
-        "ts": 1793561400,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
-      "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto"
-    },
-    {
-      "published": {
         "raw": "Mon, 02 Nov 2026 04:11:05 +0000",
         "ts": 1793592665,
         "tz_assumed": false
@@ -4509,6 +4485,18 @@
     },
     {
       "published": {
+        "raw": "Tue, 10 Nov 2026 17:07:22 +0000",
+        "ts": 1794330442,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps.",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight"
+    },
+    {
+      "published": {
         "raw": "Tue, 10 Nov 2026 17:32:22 +0000",
         "ts": 1794331942,
         "tz_assumed": false
@@ -4518,6 +4506,114 @@
       "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S.",
       "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
       "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 17:52:14 +0000",
+        "ts": 1794333134,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Grayscale’s Zcash push comes as its ETF faces continued withdrawals, extending October’s net outflows.",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 18:33:37 +0000",
+        "ts": 1794335617,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The funding, backing a U.S.-incorporated issuer codenamed “Project Faro,” covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
+      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto’s Stablecoin Giants",
+      "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 19:16:02 +0000",
+        "ts": 1794338162,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 19:38:18 +0000",
+        "ts": 1794339498,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 20:15:08 +0000",
+        "ts": 1794341708,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 20:36:33 +0000",
+        "ts": 1794342993,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 21:36:03 +0000",
+        "ts": 1794346563,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 21:51:19 +0000",
+        "ts": 1794347479,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
+      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330"
+    },
+    {
+      "published": {
+        "raw": "Tue, 10 Nov 2026 22:46:02 +0000",
+        "ts": 1794350762,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
+      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+      "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
     }
   ],
   "seen": {
@@ -4660,7 +4756,8 @@
       "bybit:10073",
       "bybit:10074",
       "bybit:10075",
-      "bybit:10076"
+      "bybit:10076",
+      "bybit:10077"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5187,7 +5284,20 @@
       "media:https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
       "media:https://www.coindesk.com/policy/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
       "media:https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
-      "media:https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture"
+      "media:https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "media:https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "media:https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
+      "media:https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+      "media:https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "media:https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "media:https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+      "media:https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "media:https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+      "media:https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "media:https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "media:https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+      "media:https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
+      "media:https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5635,7 +5745,11 @@
       "status:kraken:ltqk3bv2r649:qmpnzyqylnny",
       "status:kraken:wfwxn353pk62:2ds6q0r3hb95",
       "status:kraken:6yrrplqc5yv0:hsr47vbb2kdf",
-      "status:kraken:6yrrplqc5yv0:hvw2m6281h3z"
+      "status:kraken:6yrrplqc5yv0:hvw2m6281h3z",
+      "status:kraken:fqgy2v7071c7:rp3nf56jxcwy",
+      "status:kraken:wmfdhp7qc1xw:gz5pvkqbf8sz",
+      "status:kraken:wmfdhp7qc1xw:ykpgp50lgzjs",
+      "status:kraken:wmfdhp7qc1xw:88vyzm94szkp"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
