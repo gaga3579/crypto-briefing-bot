@@ -89,8 +89,8 @@
       "level": 1
     },
     "SOL": {
-      "anchor_high": "109.14",
-      "anchor_time": 1791817200,
+      "anchor_high": "109.13",
+      "anchor_time": 1792605600,
       "level": 2
     },
     "XRP": {
@@ -100,7 +100,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-11",
+  "heartbeat": "2026-11-12",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -967,246 +967,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 14:29:33 +0000",
-        "ts": 1793629773,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
-      "title": "Coinbase downgraded at Morgan Stanley; price target slashed 53% on weak earnings outlook",
-      "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 14:40:53 +0000",
-        "ts": 1793630453,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
-      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
-      "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:00:09 +0000",
-        "ts": 1793631609,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute’s Colin McLaren.",
-      "title": "Crypto's Washington playbook is working. Don't abandon it now.",
-      "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:01:03 +0000",
-        "ts": 1793631663,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
-      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
-      "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:01:36 +0000",
-        "ts": 1793631696,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
-      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
-      "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:05:24 +0000",
-        "ts": 1793631924,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money.",
-      "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
-      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:26:43 +0000",
-        "ts": 1793633203,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
-      "title": "Nvidia, Costco and Nike join pushback against OKX–ICE tokenized stock plans",
-      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 15:53:29 +0000",
-        "ts": 1793634809,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
-      "title": "Brazil’s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
-      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 16:23:24 +0000",
-        "ts": 1793636604,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "The chairman laid out six reasons the market’s “muted” 4% ETH drop after the record Binance theft shows crypto is “increasingly resilient,” as the firm’s stash neared its 5% supply goal.",
-      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-      "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 16:41:46 +0000",
-        "ts": 1793637706,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Broadridge, Computershare, Equiniti and Superstate join the exchange's planned blockchain market, bringing shareholder records and voting services onchain.",
-      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
-      "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 16:46:03 +0000",
-        "ts": 1793637963,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
-      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
-      "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 16:52:55 +0000",
-        "ts": 1793638375,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
-      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
-      "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 17:21:04 +0000",
-        "ts": 1793640064,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown.",
-      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
-      "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 17:36:03 +0000",
-        "ts": 1793640963,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
-      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
-      "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 18:13:57 +0000",
-        "ts": 1793643237,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
-      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 18:46:03 +0000",
-        "ts": 1793645163,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea’s automated laundering spans 12,000 wallets.",
-      "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
-      "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 19:15:48 +0000",
-        "ts": 1793646948,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
-      "title": "DTCC’s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
-      "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 19:46:02 +0000",
-        "ts": 1793648762,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto’s response to the Binance hack suggests sellers may already be exhausted.",
-      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-      "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 20:19:49 +0000",
-        "ts": 1793650789,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
-      "title": "Mercado Bitcoin, Brazil’s largest crypto exchange, hit by $46 million security breach",
-      "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 21:16:03 +0000",
-        "ts": 1793654163,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
-      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-      "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack"
-    },
     {
       "published": {
         "raw": "Mon, 02 Nov 2026 21:38:53 +0000",
@@ -4602,6 +4362,162 @@
       "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
       "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
       "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 14:44:31 +0000",
+        "ts": 1794408271,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
+      "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 16:00:45 +0000",
+        "ts": 1794412845,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.",
+      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 16:14:01 +0000",
+        "ts": 1794413641,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
+      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 16:22:13 +0000",
+        "ts": 1794414133,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "StoneX maintained its Buy rating on Securitize, citing tokenized equities, fund demand, and structured credit as growth drivers.",
+      "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 16:56:54 +0000",
+        "ts": 1794416214,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.",
+      "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 16:58:57 +0000",
+        "ts": 1794416337,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.",
+      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
+      "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 17:07:22 +0000",
+        "ts": 1794416842,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement.",
+      "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+      "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 17:09:18 +0000",
+        "ts": 1794416958,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
+      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
+      "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 17:23:10 +0000",
+        "ts": 1794417790,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.",
+      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 17:56:02 +0000",
+        "ts": 1794419762,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
+      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+      "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 19:06:02 +0000",
+        "ts": 1794423962,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
+      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 20:32:19 +0000",
+        "ts": 1794429139,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
+      "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
+      "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 21:16:03 +0000",
+        "ts": 1794431763,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
     }
   ],
   "seen": {
@@ -4757,7 +4673,9 @@
       "bybit:10082",
       "bybit:10083",
       "bybit:10084",
-      "bybit:10085"
+      "bybit:10085",
+      "bybit:10086",
+      "bybit:10087"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5322,7 +5240,23 @@
       "media:https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
       "media:https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
       "media:https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
-      "media:https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
+      "media:https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
+      "media:https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+      "media:https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "media:https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+      "media:https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+      "media:https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+      "media:https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+      "media:https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+      "media:https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+      "media:https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+      "media:https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+      "media:https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "media:https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
+      "media:https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "media:https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+      "media:https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5564,7 +5498,8 @@
       "status:coinbase:fz4d10rvry23:pjny6vvz5zhk",
       "status:coinbase:fz4d10rvry23:vdw258kblhsr",
       "status:coinbase:wt72fdzhq79h:2dqsjs3sb67l",
-      "status:coinbase:fh746rkklsz7:3c2jvdgrvsp6"
+      "status:coinbase:fh746rkklsz7:3c2jvdgrvsp6",
+      "status:coinbase:fh746rkklsz7:pcw7pzbv52yz"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5778,7 +5713,11 @@
       "status:kraken:wmfdhp7qc1xw:88vyzm94szkp",
       "status:kraken:1mk59wfdjggk:pk8cxzrb51fs",
       "status:kraken:fqgy2v7071c7:vfm0kh7xqr6c",
-      "status:kraken:9mys861w4snj:f1394fpyzs64"
+      "status:kraken:9mys861w4snj:f1394fpyzs64",
+      "status:kraken:9mys861w4snj:rpqqvm4n8lc2",
+      "status:kraken:dk2sjsgq5tx3:xcrfgc1jcmk1",
+      "status:kraken:9mys861w4snj:9sn5s4t7gd59",
+      "status:kraken:lq19kjjg863l:cdmkjvb4hy9x"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
