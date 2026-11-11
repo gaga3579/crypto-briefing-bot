@@ -89,13 +89,13 @@
       "level": 2
     },
     "SOL": {
-      "anchor_high": "113.26",
-      "anchor_time": 1791781200,
+      "anchor_high": "112.98",
+      "anchor_time": 1791788400,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.4196",
-      "anchor_time": 1791781200,
+      "anchor_high": "1.4173",
+      "anchor_time": 1791784800,
       "level": 2
     }
   },
@@ -967,54 +967,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 04:11:05 +0000",
-        "ts": 1793592665,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "The Block",
-      "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack.",
-      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
-      "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 04:41:16 +0000",
-        "ts": 1793594476,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
-      "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
-      "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 04:42:22 +0000",
-        "ts": 1793594542,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
-      "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 05:18:12 +0000",
-        "ts": 1793596692,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
-      "title": "Strangers are begging the Binance hacker for bitcoin, one ‘help me bro’ at a time",
-      "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time"
-    },
     {
       "published": {
         "raw": "Mon, 02 Nov 2026 06:46:41 +0000",
@@ -4674,7 +4626,10 @@
       "binance:95224ce8010046e790f1558283a8a4cf",
       "binance:9ef6e347da924cdc90f53577ab483b1f",
       "binance:6f1577ea7d824586a93cb721344c98e2",
-      "binance:f7e499194e0748f593f973f1d1959ea5"
+      "binance:f7e499194e0748f593f973f1d1959ea5",
+      "binance:45119cc3b6ef4eb8b116057df3895279",
+      "binance:ec32e6657ae341b3b57f1b154c330c6d",
+      "binance:ab1d0c86a83e4e7bbb89be0acd517106"
     ],
     "bybit": [
       "bybit:9996",
@@ -4757,7 +4712,8 @@
       "bybit:10074",
       "bybit:10075",
       "bybit:10076",
-      "bybit:10077"
+      "bybit:10077",
+      "bybit:10078"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5297,7 +5253,8 @@
       "media:https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
       "media:https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
       "media:https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
-      "media:https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
+      "media:https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+      "media:https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5538,7 +5495,8 @@
       "status:coinbase:0tlgts8cn5y8:049j1n1n9xj3",
       "status:coinbase:fz4d10rvry23:pjny6vvz5zhk",
       "status:coinbase:fz4d10rvry23:vdw258kblhsr",
-      "status:coinbase:wt72fdzhq79h:2dqsjs3sb67l"
+      "status:coinbase:wt72fdzhq79h:2dqsjs3sb67l",
+      "status:coinbase:fh746rkklsz7:3c2jvdgrvsp6"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5749,7 +5707,9 @@
       "status:kraken:fqgy2v7071c7:rp3nf56jxcwy",
       "status:kraken:wmfdhp7qc1xw:gz5pvkqbf8sz",
       "status:kraken:wmfdhp7qc1xw:ykpgp50lgzjs",
-      "status:kraken:wmfdhp7qc1xw:88vyzm94szkp"
+      "status:kraken:wmfdhp7qc1xw:88vyzm94szkp",
+      "status:kraken:1mk59wfdjggk:pk8cxzrb51fs",
+      "status:kraken:fqgy2v7071c7:vfm0kh7xqr6c"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
@@ -5838,8 +5798,8 @@
   ],
   "sources": {
     "ai:claude": {
-      "ok": false,
-      "since": "2026-11-10T17:41:47Z"
+      "ok": true,
+      "since": "2026-11-11T05:58:34Z"
     },
     "chain:BTC": {
       "ok": true,
