@@ -84,18 +84,18 @@
       "level": 1
     },
     "ETH": {
-      "anchor_high": "2576.89",
-      "anchor_time": 1791788400,
-      "level": 2
+      "anchor_high": "2535.3",
+      "anchor_time": 1791874800,
+      "level": 1
     },
     "SOL": {
-      "anchor_high": "112.98",
-      "anchor_time": 1791788400,
+      "anchor_high": "109.14",
+      "anchor_time": 1791817200,
       "level": 2
     },
     "XRP": {
-      "anchor_high": "1.4173",
-      "anchor_time": 1791784800,
+      "anchor_high": "1.3982",
+      "anchor_time": 1792605600,
       "level": 2
     }
   },
@@ -967,198 +967,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 06:46:41 +0000",
-        "ts": 1793602001,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "CoinDesk",
-      "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
-      "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 08:32:01 +0000",
-        "ts": 1793608321,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers get inside.",
-      "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
-      "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 08:41:28 +0000",
-        "ts": 1793608888,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "China's Communist Party has named virtual currency and blockchain in a new anti-corruption call.",
-      "title": "China’s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
-      "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 08:49:30 +0000",
-        "ts": 1793609370,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The outflows followed a 45-hour withdrawal freeze after a $6.3 billion theft, with rival exchanges attracting deposits as customers regained access to their funds.",
-      "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
-      "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 09:04:49 +0000",
-        "ts": 1793610289,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Your look at what’s coming in the week starting Nov. 2.",
-      "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
-      "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 09:33:20 +0000",
-        "ts": 1793612000,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain.",
-      "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
-      "url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 10:36:19 +0000",
-        "ts": 1793615779,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said.",
-      "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
-      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 11:30:00 +0000",
-        "ts": 1793619000,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "CoinDesk",
-      "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
-      "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
-      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 11:57:45 +0000",
-        "ts": 1793620665,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
-      "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
-      "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 12:24:18 +0000",
-        "ts": 1793622258,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
-      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
-      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 12:30:17 +0000",
-        "ts": 1793622617,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Your day-ahead look for Nov. 2, 2026",
-      "title": "Bitcoin's 'volatility curve' has a midterm bump",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 12:37:24 +0000",
-        "ts": 1793623044,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
-      "title": "XRP Ledger set to fix flaw that could have let stablecoin partners print new tokens",
-      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 13:09:43 +0000",
-        "ts": 1793624983,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
-      "title": "‘We found room for even more orange’: Michael Saylor’s Strategy scoops up another 811 bitcoin for $65.5 million",
-      "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 13:19:36 +0000",
-        "ts": 1793625576,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
-      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
-      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 13:34:02 +0000",
-        "ts": 1793626442,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
-      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
-      "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 14:00:00 +0000",
-        "ts": 1793628000,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure.",
-      "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal"
-    },
     {
       "published": {
         "raw": "Mon, 02 Nov 2026 14:29:33 +0000",
@@ -4566,6 +4374,234 @@
       "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
       "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
       "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 06:22:32 +0000",
+        "ts": 1794378152,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+      "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 10:20:53 +0000",
+        "ts": 1794392453,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
+      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+      "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 10:45:49 +0000",
+        "ts": 1794393949,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
+      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+      "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 10:51:34 +0000",
+        "ts": 1794394294,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
+      "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+      "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 10:54:02 +0000",
+        "ts": 1794394442,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.",
+      "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
+      "url": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 11:37:04 +0000",
+        "ts": 1794397024,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
+      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 11:43:50 +0000",
+        "ts": 1794397430,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin is digital money. It is that Bitcoin showed how a network could record value transfers without relying on a single company",
+      "title": "Bitcoin and Blockchain Basics",
+      "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 11:46:34 +0000",
+        "ts": 1794397594,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
+      "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+      "url": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:19:30 +0000",
+        "ts": 1794399570,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 11, 2026",
+      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:21:24 +0000",
+        "ts": 1794399684,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
+      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:46:16 +0000",
+        "ts": 1794401176,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Robert Barr was jailed for eight years for orchestrating an attempted £2 million cryptocurrency theft from his prison cell.",
+      "title": "Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison",
+      "url": "https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:46:24 +0000",
+        "ts": 1794401184,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK.",
+      "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+      "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:50:08 +0000",
+        "ts": 1794401408,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
+      "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:55:18 +0000",
+        "ts": 1794401718,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
+      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
+      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 12:57:36 +0000",
+        "ts": 1794401856,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
+      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 13:00:00 +0000",
+        "ts": 1794402000,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
+      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 13:01:02 +0000",
+        "ts": 1794402062,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
+      "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+      "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 13:35:02 +0000",
+        "ts": 1794404102,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
+      "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 14:02:55 +0000",
+        "ts": 1794405775,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
+      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+      "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
     }
   ],
   "seen": {
@@ -4629,7 +4665,8 @@
       "binance:f7e499194e0748f593f973f1d1959ea5",
       "binance:45119cc3b6ef4eb8b116057df3895279",
       "binance:ec32e6657ae341b3b57f1b154c330c6d",
-      "binance:ab1d0c86a83e4e7bbb89be0acd517106"
+      "binance:ab1d0c86a83e4e7bbb89be0acd517106",
+      "binance:99ee5d4197904f45a5337987ea72c22b"
     ],
     "bybit": [
       "bybit:9996",
@@ -4713,7 +4750,14 @@
       "bybit:10075",
       "bybit:10076",
       "bybit:10077",
-      "bybit:10078"
+      "bybit:10078",
+      "bybit:10079",
+      "bybit:10080",
+      "bybit:10081",
+      "bybit:10082",
+      "bybit:10083",
+      "bybit:10084",
+      "bybit:10085"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4729,7 +4773,8 @@
       "kraken-blog:https://blog.kraken.com/product/asset-listings/eurcv-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/kor-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/news/industry-news/kraken-and-mexc-expand-partnership-to-support-clients-in-france",
-      "kraken-blog:https://blog.kraken.com/product/new-features/recurring-ach-deposits"
+      "kraken-blog:https://blog.kraken.com/product/new-features/recurring-ach-deposits",
+      "kraken-blog:https://blog.kraken.com/product/promotions/the-anthropic-pre-ipo-challenge-nov-2026"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -5254,7 +5299,30 @@
       "media:https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
       "media:https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
       "media:https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-      "media:https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786"
+      "media:https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+      "media:https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+      "media:https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+      "media:https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+      "media:https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+      "media:https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+      "media:https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
+      "media:https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837",
+      "media:https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+      "media:https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "media:https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+      "media:https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+      "media:https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
+      "media:https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+      "media:https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+      "media:https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858",
+      "media:https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+      "media:https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+      "media:https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+      "media:https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+      "media:https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+      "media:https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+      "media:https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5709,7 +5777,8 @@
       "status:kraken:wmfdhp7qc1xw:ykpgp50lgzjs",
       "status:kraken:wmfdhp7qc1xw:88vyzm94szkp",
       "status:kraken:1mk59wfdjggk:pk8cxzrb51fs",
-      "status:kraken:fqgy2v7071c7:vfm0kh7xqr6c"
+      "status:kraken:fqgy2v7071c7:vfm0kh7xqr6c",
+      "status:kraken:9mys861w4snj:f1394fpyzs64"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
