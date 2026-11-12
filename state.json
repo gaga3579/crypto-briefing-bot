@@ -969,42 +969,6 @@
   "news": [
     {
       "published": {
-        "raw": "Mon, 02 Nov 2026 21:38:53 +0000",
-        "ts": 1793655533,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lecturer Hermine Wong.",
-      "title": "Big crypto wants the one thing it can’t buy: your vote",
-      "url": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 22:16:02 +0000",
-        "ts": 1793657762,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies.",
-      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-      "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy"
-    },
-    {
-      "published": {
-        "raw": "Mon, 02 Nov 2026 22:26:06 +0000",
-        "ts": 1793658366,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist.",
-      "title": "Kim Jong-Un’s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
-      "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344"
-    },
-    {
-      "published": {
         "raw": "Tue, 03 Nov 2026 02:57:33 +0000",
         "ts": 1793674653,
         "tz_assumed": false
@@ -4518,6 +4482,42 @@
       "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
       "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
       "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 21:46:03 +0000",
+        "ts": 1794433563,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty"
+    },
+    {
+      "published": {
+        "raw": "Wed, 11 Nov 2026 22:06:47 +0000",
+        "ts": 1794434807,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
+      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 02:25:14 +0000",
+        "ts": 1794450314,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
+      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+      "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448"
     }
   ],
   "seen": {
@@ -4582,7 +4582,8 @@
       "binance:45119cc3b6ef4eb8b116057df3895279",
       "binance:ec32e6657ae341b3b57f1b154c330c6d",
       "binance:ab1d0c86a83e4e7bbb89be0acd517106",
-      "binance:99ee5d4197904f45a5337987ea72c22b"
+      "binance:99ee5d4197904f45a5337987ea72c22b",
+      "binance:3d17d644f8a1424dac792f28d6673eb9"
     ],
     "bybit": [
       "bybit:9996",
@@ -5256,7 +5257,13 @@
       "media:https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
       "media:https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
       "media:https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
-      "media:https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
+      "media:https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "media:https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "media:https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+      "media:https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+      "media:https://www.theblock.co/news/markets/2026-11-11-strategy-metaplanet-lose-msci-index-membership-november-reshuffle-438437",
+      "media:https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+      "media:https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5499,7 +5506,9 @@
       "status:coinbase:fz4d10rvry23:vdw258kblhsr",
       "status:coinbase:wt72fdzhq79h:2dqsjs3sb67l",
       "status:coinbase:fh746rkklsz7:3c2jvdgrvsp6",
-      "status:coinbase:fh746rkklsz7:pcw7pzbv52yz"
+      "status:coinbase:fh746rkklsz7:pcw7pzbv52yz",
+      "status:coinbase:tyvr2ggx7bvh:ss8ss3fzbqx4",
+      "status:coinbase:tyvr2ggx7bvh:djcsmhc19x2h"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5717,7 +5726,10 @@
       "status:kraken:9mys861w4snj:rpqqvm4n8lc2",
       "status:kraken:dk2sjsgq5tx3:xcrfgc1jcmk1",
       "status:kraken:9mys861w4snj:9sn5s4t7gd59",
-      "status:kraken:lq19kjjg863l:cdmkjvb4hy9x"
+      "status:kraken:lq19kjjg863l:cdmkjvb4hy9x",
+      "status:kraken:b65fk4qjpcl1:1zvh2l4680s9",
+      "status:kraken:b65fk4qjpcl1:xz5gyzkkkb1k",
+      "status:kraken:b65fk4qjpcl1:x0p4zb88hy9l"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
