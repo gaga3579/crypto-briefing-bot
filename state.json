@@ -1024,162 +1024,6 @@
   "news": [
     {
       "published": {
-        "raw": "Wed, 04 Nov 2026 16:11:29 +0000",
-        "ts": 1793808689,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
-      "title": "U.S. Democratic sweep could be the final nail in the ‘Clarity Act’s coffin’",
-      "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 16:27:49 +0000",
-        "ts": 1793809669,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
-      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
-      "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 16:29:36 +0000",
-        "ts": 1793809776,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
-      "title": "Wall Street’s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-      "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 16:49:31 +0000",
-        "ts": 1793810971,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto’s exposure to shifting US political power.",
-      "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
-      "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 16:58:42 +0000",
-        "ts": 1793811522,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
-      "title": "Coinbase says 99% of customer assets sit in cold storage after Binance’s $6.3 billion breach",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 17:59:09 +0000",
-        "ts": 1793815149,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Coinbase's x402 protocol puts the web's long-unused 402 code to work so AI agents and apps can pay for APIs and data in stablecoins like USDC.",
-      "title": "What Is x402? How AI Agents Pay With Crypto",
-      "url": "https://decrypt.co/resources/what-is-x402-how-ai-agents-pay-with-crypto"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 18:16:02 +0000",
-        "ts": 1793816162,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "SEC staff said they view Canton Coin as a digital commodity and won’t recommend enforcement over how it’s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
-      "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
-      "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 19:02:05 +0000",
-        "ts": 1793818925,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
-      "title": "French Hill’s race still too close to call as House flips, changing the direction of crypto legislation",
-      "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 19:57:18 +0000",
-        "ts": 1793822238,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents—the same risk that recently prompted major banks to restrict customer-account access.",
-      "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
-      "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 20:09:58 +0000",
-        "ts": 1793822998,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "The Block",
-      "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
-      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
-      "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 20:29:12 +0000",
-        "ts": 1793824152,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
-      "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 20:46:03 +0000",
-        "ts": 1793825163,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Coinbase told customers it wasn’t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers’ Reach",
-      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 21:54:49 +0000",
-        "ts": 1793829289,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
-      "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
-      "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362"
-    },
-    {
-      "published": {
         "raw": "Wed, 04 Nov 2026 22:46:03 +0000",
         "ts": 1793832363,
         "tz_assumed": false
@@ -4645,6 +4489,126 @@
       "summary": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations.",
       "title": "Bitcoin heads for sixth weekly loss as Anthropic’s blockbuster IPO looms",
       "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 16:37:26 +0000",
+        "ts": 1794587846,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Hyperliquid’s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
+      "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+      "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 17:05:43 +0000",
+        "ts": 1794589543,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+      "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+      "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 17:22:54 +0000",
+        "ts": 1794590574,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
+      "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+      "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 17:56:03 +0000",
+        "ts": 1794592563,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The bipartisan slate—two Republicans and two Democrats, Trump’s first Democratic picks for either agency—would refill commissions that have driven crypto policy since the Clarity Act’s collapse.",
+      "title": "Trump’s First Democratic Picks for SEC and CFTC Could Reshape Crypto’s Regulators",
+      "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 18:36:02 +0000",
+        "ts": 1794594962,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
+      "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
+      "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 18:39:58 +0000",
+        "ts": 1794595198,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+      "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 18:51:03 +0000",
+        "ts": 1794595863,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn’t put executives at risk of jail.",
+      "title": "CFTC’s Selig accuses states of trying to ‘lock up’ prediction market founders",
+      "url": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 19:36:03 +0000",
+        "ts": 1794598563,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+      "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 20:16:03 +0000",
+        "ts": 1794600963,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "Decrypt",
+      "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
+      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+      "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 21:36:03 +0000",
+        "ts": 1794605763,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
     }
   ],
   "seen": {
@@ -5507,7 +5471,22 @@
       "media:https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
       "media:https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
       "media:https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
-      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms"
+      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+      "media:https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+      "media:https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+      "media:https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+      "media:https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
+      "media:https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+      "media:https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+      "media:https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+      "media:https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
+      "media:https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+      "media:https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+      "media:https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+      "media:https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+      "media:https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+      "media:https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
