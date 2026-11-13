@@ -1024,102 +1024,6 @@
   "news": [
     {
       "published": {
-        "raw": "Wed, 04 Nov 2026 02:51:52 +0000",
-        "ts": 1793760712,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto.",
-      "title": "South Korea’s ruling party formally proposes deferral of crypto income tax",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 04:35:48 +0000",
-        "ts": 1793766948,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
-      "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 04:48:16 +0000",
-        "ts": 1793767696,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
-      "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 04:55:11 +0000",
-        "ts": 1793768111,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
-      "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
-      "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 05:09:40 +0000",
-        "ts": 1793768980,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law.",
-      "title": "South Korea's ruling party wants to delay its crypto tax again",
-      "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 05:14:12 +0000",
-        "ts": 1793769252,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Russia’s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
-      "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether’s USDT in December",
-      "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 06:06:04 +0000",
-        "ts": 1793772364,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
-      "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
-      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 06:16:40 +0000",
-        "ts": 1793773000,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Crypto prices reversed overnight losses following the Blue Wave landslide for the Democratic Party.",
-      "title": "Bitcoin rises to $78,300 in V-shaped comeback as midterm election uncertainty fades",
-      "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades"
-    },
-    {
-      "published": {
         "raw": "Wed, 04 Nov 2026 09:22:58 +0000",
         "ts": 1793784178,
         "tz_assumed": false
@@ -4597,6 +4501,114 @@
       "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
       "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
       "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 03:37:00 +0000",
+        "ts": 1794541020,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market.",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 04:20:00 +0000",
+        "ts": 1794543600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 04:56:47 +0000",
+        "ts": 1794545807,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 05:08:25 +0000",
+        "ts": 1794546505,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "url": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 05:08:59 +0000",
+        "ts": 1794546539,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A deal could be announced as soon as December, putting $2.1 billion of bitcoin under one roof, a sliver of what the combined group would be worth.",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 05:45:26 +0000",
+        "ts": 1794548726,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Recent rapid redemptions explain the market swoon. Bitcoin's spot price fell below $70,000 on Friday, the lowest since August.",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 06:03:41 +0000",
+        "ts": 1794549821,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000.",
+      "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+      "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 06:23:43 +0000",
+        "ts": 1794551023,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "A total of $798 million in crypto positions has been liquidated over the past four hours, including $718.5 million in long positions.",
+      "title": "Bitcoin tumbles below $69,000 as Nvidia turmoil adds to Fed-driven market jitters",
+      "url": "https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 07:05:29 +0000",
+        "ts": 1794553529,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700.",
+      "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+      "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
     }
   ],
   "seen": {
@@ -4769,7 +4781,10 @@
       "bybit:10092",
       "bybit:10093",
       "bybit:10094",
-      "bybit:10095"
+      "bybit:10095",
+      "bybit:10096",
+      "bybit:10097",
+      "bybit:10099"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5420,7 +5435,16 @@
       "media:https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
       "media:https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
       "media:https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-      "media:https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
+      "media:https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+      "media:https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+      "media:https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "media:https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "media:https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+      "media:https://www.theblock.co/news/markets/2026-11-13-bitcoin-tumbles-below-69000-439643",
+      "media:https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5672,7 +5696,8 @@
       "status:coinbase:f11qs65jgf7q:3ft24q9zp5my",
       "status:coinbase:5pgqt8s63hkf:kzt7rc4djwxc",
       "status:coinbase:5pgqt8s63hkf:512y1nj295sr",
-      "status:coinbase:5pgqt8s63hkf:t06pw23th9hy"
+      "status:coinbase:5pgqt8s63hkf:t06pw23th9hy",
+      "status:coinbase:jx3xg1gddhbm:157qpg5l2l6t"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -5898,7 +5923,8 @@
       "status:kraken:g70pckb34tqc:rbvkzrnsxmjb",
       "status:kraken:g70pckb34tqc:xkd356b87l5z",
       "status:kraken:g70pckb34tqc:mqx43nrp5s83",
-      "status:kraken:g70pckb34tqc:41fsllz01mh9"
+      "status:kraken:g70pckb34tqc:41fsllz01mh9",
+      "status:kraken:1r99c1gzffzf:s411zqfdj07r"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
