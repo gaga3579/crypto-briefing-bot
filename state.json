@@ -973,6 +973,30 @@
           "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
           "ts": 1794312807,
           "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system"
+        },
+        {
+          "id": "media:https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+          "official": false,
+          "source": "Decrypt",
+          "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+          "ts": 1794521163,
+          "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+        },
+        {
+          "id": "media:https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+          "official": false,
+          "source": "The Block",
+          "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+          "ts": 1794523222,
+          "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
+        },
+        {
+          "id": "media:https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+          "ts": 1794524152,
+          "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
         }
       ],
       "metrics": {},
@@ -998,126 +1022,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 19:16:02 +0000",
-        "ts": 1793733362,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Chairman Michael Selig said “equity perpetual futures” can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
-      "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
-      "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 19:46:03 +0000",
-        "ts": 1793735163,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
-      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
-      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 20:36:02 +0000",
-        "ts": 1793738162,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
-      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
-      "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 20:43:38 +0000",
-        "ts": 1793738618,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
-      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 22:11:51 +0000",
-        "ts": 1793743911,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
-      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
-      "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 22:14:44 +0000",
-        "ts": 1793744084,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
-      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
-      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 22:46:02 +0000",
-        "ts": 1793745962,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Paolo Ardoino told the Plan ₿ Forum in Lugano the company owns “give or take 150,000 Bitcoin,” but its Q3 reserve report implies just 100,060.",
-      "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
-      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 23:00:07 +0000",
-        "ts": 1793746807,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits.",
-      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
-      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next"
-    },
-    {
-      "published": {
-        "raw": "Tue, 03 Nov 2026 23:19:44 +0000",
-        "ts": 1793747984,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "A CoinDesk-commissioned poll from April sheds light on how voters — who aren't necessarily part of the crypto sector — view this industry.",
-      "title": "What voters said about their views on crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 00:00:00 +0000",
-        "ts": 1793750400,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
-      "title": "Live updates: Crypto's election gamble falters as Democratic victories usher in a 'blue wave'",
-      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog"
-    },
     {
       "published": {
         "raw": "Wed, 04 Nov 2026 02:51:52 +0000",
@@ -4585,6 +4489,114 @@
       "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
       "title": "NYDFS sets fresh advertising standards for crypto firms",
       "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 20:02:00 +0000",
+        "ts": 1794513720,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. equity to trade under the SEC’s Innovation Exemption. Five […]",
+      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 20:36:03 +0000",
+        "ts": 1794515763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 21:26:03 +0000",
+        "ts": 1794518763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying.",
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 21:44:30 +0000",
+        "ts": 1794519870,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 22:06:03 +0000",
+        "ts": 1794521163,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack.",
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 22:36:02 +0000",
+        "ts": 1794522962,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 22:40:22 +0000",
+        "ts": 1794523222,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+      "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 22:47:41 +0000",
+        "ts": 1794523661,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
+    },
+    {
+      "published": {
+        "raw": "Thu, 12 Nov 2026 22:55:52 +0000",
+        "ts": 1794524152,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
     }
   ],
   "seen": {
@@ -4754,7 +4766,10 @@
       "bybit:10089",
       "bybit:10090",
       "bybit:10091",
-      "bybit:10092"
+      "bybit:10092",
+      "bybit:10093",
+      "bybit:10094",
+      "bybit:10095"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5393,7 +5408,19 @@
       "media:https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
       "media:https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
       "media:https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
-      "media:https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang"
+      "media:https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "media:https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "media:https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+      "media:https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "media:https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "media:https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "media:https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "media:https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "media:https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+      "media:https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "media:https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+      "media:https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "media:https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5642,7 +5669,10 @@
       "status:coinbase:f11qs65jgf7q:r2fq9wghm9tv",
       "status:coinbase:f11qs65jgf7q:lx2ykqvxg765",
       "status:coinbase:f11qs65jgf7q:8wb5nszbpvxw",
-      "status:coinbase:f11qs65jgf7q:3ft24q9zp5my"
+      "status:coinbase:f11qs65jgf7q:3ft24q9zp5my",
+      "status:coinbase:5pgqt8s63hkf:kzt7rc4djwxc",
+      "status:coinbase:5pgqt8s63hkf:512y1nj295sr",
+      "status:coinbase:5pgqt8s63hkf:t06pw23th9hy"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
