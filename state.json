@@ -1004,6 +1004,14 @@
           "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
           "ts": 1794524152,
           "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
+        },
+        {
+          "id": "media:https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+          "official": false,
+          "source": "The Block",
+          "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+          "ts": 1794634800,
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
         }
       ],
       "metrics": {},
@@ -1029,126 +1037,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 04:11:33 +0000",
-        "ts": 1793851893,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
-      "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
-      "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 04:28:54 +0000",
-        "ts": 1793852934,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Democrats are set to reorient the crypto policy debate toward stronger consumer protections and regulatory accountability, the group said.",
-      "title": "The Digital Chamber calls Sherrod Brown’s win ‘most consequential unfavorable result’ for crypto",
-      "url": "https://www.theblock.co/news/regulation/2026-11-04-digital-chamber-sherrod-brown-win-434371"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 05:13:45 +0000",
-        "ts": 1793855625,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Ether rose 8% as falling oil prices and a weaker dollar helped markets recover, even as traders weighed a tougher path for U.S. crypto legislation.",
-      "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 05:25:06 +0000",
-        "ts": 1793856306,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
-      "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-      "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 05:28:52 +0000",
-        "ts": 1793856532,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
-      "title": "The pile of lawsuits against Kalshi just grew by one",
-      "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 08:26:26 +0000",
-        "ts": 1793867186,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "OpenAI says its AI found 948 Linux flaws and wrote a working attack for each one. Crypto security voices say decentralization leaves the industry better placed than most to cope.",
-      "title": "OpenAI says its AI can break into Linux at scale. Here's what it means for crypto",
-      "url": "https://www.coindesk.com/tech/2026/11/05/openai-says-its-ai-can-break-into-linux-at-scale-here-s-what-it-means-for-crypto"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 08:26:48 +0000",
-        "ts": 1793867208,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The lawsuit adds Arkansas to a growing list of states taking legal action against the prediction market platform.",
-      "title": "Arkansas sues Kalshi, says its alleged illegal gambling operations cause mental harm",
-      "url": "https://www.theblock.co/news/regulation/2026-11-05-arkansas-sues-kalshi-434407"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 08:35:37 +0000",
-        "ts": 1793867737,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Crypto firms must collect customer and transaction data from 2027, with Hong Kong sharing the information with overseas tax authorities from 2028.",
-      "title": "Hong Kong passes law requiring crypto exchanges to report customer transactions to tax authorities",
-      "url": "https://www.coindesk.com/policy/2026/11/04/hong-kong-passes-law-requiring-crypto-exchanges-to-report-customer-transactions-to-tax-authorities"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 08:52:32 +0000",
-        "ts": 1793868752,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "American Bitcoin reported Q3 net income of $126 million, swinging from a $57.2 million net loss in the previous quarter.",
-      "title": "Eric Trump’s American Bitcoin swings to $126 million profit in Q3 on digital asset gains",
-      "url": "https://www.theblock.co/news/business/2026-11-05-american-bitcoin-swings-to-profit-434413"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 09:36:32 +0000",
-        "ts": 1793871392,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Riot has sold most of its bitcoin to fund its move into data centers. Its latest agreement gives Anthropic a way to finance part of the build and collect interest through rent deductions.",
-      "title": "Bitcoin miner Riot could pay Anthropic 12% interest under $28 billion AI deal",
-      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-miner-riot-could-pay-anthropic-12-interest-under-usd28-billion-ai-deal"
-    },
     {
       "published": {
         "raw": "Thu, 05 Nov 2026 10:44:54 +0000",
@@ -4592,6 +4480,30 @@
       "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
       "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
       "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 04:30:00 +0000",
+        "ts": 1794630600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+      "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 05:40:00 +0000",
+        "ts": 1794634800,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
     }
   ],
   "seen": {
@@ -4664,7 +4576,8 @@
       "binance:a6de0a8d9ec047ee9615833bfad239e7",
       "binance:ab1542773b3b4b28b3722fc4299cd12c",
       "binance:0729ad59cde74700b4eaa96c33441e71",
-      "binance:d5d3474a9b054f23a1867aff5cdece3f"
+      "binance:d5d3474a9b054f23a1867aff5cdece3f",
+      "binance:432646a7f7c34c2a85b69db99af32c16"
     ],
     "bybit": [
       "bybit:9996",
@@ -5471,7 +5384,9 @@
       "media:https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
       "media:https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
       "media:https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
-      "media:https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
+      "media:https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+      "media:https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
