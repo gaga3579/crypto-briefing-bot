@@ -89,13 +89,20 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): ETH −20%",
       "ts": 1794509398
+    },
+    {
+      "id": "dd-2026111403-BTC2-SOL3",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): BTC −20%, SOL −30%",
+      "ts": 1794625527
     }
   ],
   "coins": {
     "BTC": {
       "anchor_high": "84856.07",
       "anchor_time": 1792598400,
-      "level": 1
+      "level": 2
     },
     "ETH": {
       "anchor_high": "2524.38",
@@ -105,7 +112,7 @@
     "SOL": {
       "anchor_high": "109.13",
       "anchor_time": 1792605600,
-      "level": 2
+      "level": 3
     },
     "XRP": {
       "anchor_high": "1.3982",
@@ -1022,42 +1029,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 22:46:03 +0000",
-        "ts": 1793832363,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it’s about Bitcoin maintenance.",
-      "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
-      "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 22:51:42 +0000",
-        "ts": 1793832702,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
-      "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
-      "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead"
-    },
-    {
-      "published": {
-        "raw": "Wed, 04 Nov 2026 22:55:00 +0000",
-        "ts": 1793832900,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
-      "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
-      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty"
-    },
     {
       "published": {
         "raw": "Thu, 05 Nov 2026 04:11:33 +0000",
@@ -4609,6 +4580,18 @@
       "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
       "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
       "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
+    },
+    {
+      "published": {
+        "raw": "Fri, 13 Nov 2026 23:30:00 +0000",
+        "ts": 1794612600,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
     }
   ],
   "seen": {
@@ -4791,7 +4774,8 @@
       "bybit:10102",
       "bybit:10103",
       "bybit:10104",
-      "bybit:10105"
+      "bybit:10105",
+      "bybit:10106"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5486,7 +5470,8 @@
       "media:https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
       "media:https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
       "media:https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
-      "media:https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang"
+      "media:https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "media:https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6058,7 +6043,8 @@
     "weekly-2026-11-09",
     "dd-2026111017-ETH2",
     "fu:binance:0729ad59cde74700b4eaa96c33441e71",
-    "dd-2026111218-ETH2"
+    "dd-2026111218-ETH2",
+    "dd-2026111403-BTC2-SOL3"
   ],
   "sources": {
     "ai:claude": {
