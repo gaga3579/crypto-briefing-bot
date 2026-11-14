@@ -1046,78 +1046,6 @@
   "news": [
     {
       "published": {
-        "raw": "Thu, 05 Nov 2026 17:01:03 +0000",
-        "ts": 1793898063,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
-      "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-      "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 18:25:31 +0000",
-        "ts": 1793903131,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
-      "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
-      "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 18:48:40 +0000",
-        "ts": 1793904520,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
-      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
-      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 19:46:03 +0000",
-        "ts": 1793907963,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
-      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
-      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 20:11:02 +0000",
-        "ts": 1793909462,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
-      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 20:16:03 +0000",
-        "ts": 1793909763,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
-      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
-      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data"
-    },
-    {
-      "published": {
         "raw": "Thu, 05 Nov 2026 22:09:14 +0000",
         "ts": 1793916554,
         "tz_assumed": false
@@ -4319,6 +4247,42 @@
       "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
       "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
       "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 17:01:02 +0000",
+        "ts": 1794675662,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 17:50:41 +0000",
+        "ts": 1794678641,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 19:06:59 +0000",
+        "ts": 1794683219,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+      "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
+      "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
     }
   ],
   "seen": {
@@ -5212,7 +5176,11 @@
       "media:https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
       "media:https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
       "media:https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "media:https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst"
+      "media:https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "media:https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "media:https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "media:https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "media:https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
