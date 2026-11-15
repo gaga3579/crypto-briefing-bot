@@ -135,7 +135,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-15",
+  "heartbeat": "2026-11-16",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -1051,186 +1051,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 09:53:27 +0000",
-        "ts": 1793958807,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
-      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 10:57:06 +0000",
-        "ts": 1793962626,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe.",
-      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 11:43:44 +0000",
-        "ts": 1793965424,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
-      "title": "Nigeria’s central bank introduces stablecoin licensing rules, bans algorithmic versions",
-      "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 11:49:35 +0000",
-        "ts": 1793965775,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Bitcoin bounced from around $75,200 after Thursday’s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 11:58:40 +0000",
-        "ts": 1793966320,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
-      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 12:30:00 +0000",
-        "ts": 1793968200,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Your day-ahead look for Nov. 6, 2026",
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 12:33:31 +0000",
-        "ts": 1793968411,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
-      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
-      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 13:29:20 +0000",
-        "ts": 1793971760,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
-      "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
-      "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 13:40:22 +0000",
-        "ts": 1793972422,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
-      "title": "TeraWulf’s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-      "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 14:04:18 +0000",
-        "ts": 1793973858,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
-      "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
-      "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 14:33:49 +0000",
-        "ts": 1793975629,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 15:26:38 +0000",
-        "ts": 1793978798,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 16:07:24 +0000",
-        "ts": 1793981244,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Strive’s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter.",
-      "title": "Strive’s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
-      "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 16:34:07 +0000",
-        "ts": 1793982847,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
-      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
-      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 16:41:29 +0000",
-        "ts": 1793983289,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren’t affected and its enterprise card platform was untouched.",
-      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
-      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data"
-    },
     {
       "published": {
         "raw": "Fri, 06 Nov 2026 17:42:28 +0000",
@@ -4218,6 +4038,30 @@
       "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
       "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
       "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+    },
+    {
+      "published": {
+        "raw": "Sun, 15 Nov 2026 14:00:00 +0000",
+        "ts": 1794751200,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session"
+    },
+    {
+      "published": {
+        "raw": "Sun, 15 Nov 2026 14:01:02 +0000",
+        "ts": 1794751262,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
     }
   ],
   "seen": {
@@ -4291,7 +4135,8 @@
       "binance:ab1542773b3b4b28b3722fc4299cd12c",
       "binance:0729ad59cde74700b4eaa96c33441e71",
       "binance:d5d3474a9b054f23a1867aff5cdece3f",
-      "binance:432646a7f7c34c2a85b69db99af32c16"
+      "binance:432646a7f7c34c2a85b69db99af32c16",
+      "binance:0dc9c6bdb729413ba54ba68ca83403e1"
     ],
     "bybit": [
       "bybit:9996",
@@ -4405,7 +4250,8 @@
       "bybit:10106",
       "bybit:10107",
       "bybit:10108",
-      "bybit:10109"
+      "bybit:10109",
+      "bybit:10112"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5117,7 +4963,10 @@
       "media:https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
       "media:https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
       "media:https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-      "media:https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
+      "media:https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "media:https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "media:https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+      "media:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
