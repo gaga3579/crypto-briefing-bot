@@ -1053,138 +1053,6 @@
   "news": [
     {
       "published": {
-        "raw": "Fri, 06 Nov 2026 17:42:28 +0000",
-        "ts": 1793986948,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 17:42:31 +0000",
-        "ts": 1793986951,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions.",
-      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
-      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 18:06:59 +0000",
-        "ts": 1793988419,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
-      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
-      "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 18:29:36 +0000",
-        "ts": 1793989776,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
-      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
-      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 18:36:03 +0000",
-        "ts": 1793990163,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
-      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
-      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 19:16:03 +0000",
-        "ts": 1793992563,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Peña.",
-      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
-      "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 19:46:03 +0000",
-        "ts": 1793994363,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
-      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 20:09:18 +0000",
-        "ts": 1793995758,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture’s initial selection with no disclosed objection, after 90% of issuers opted out.",
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 20:36:03 +0000",
-        "ts": 1793997363,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
-      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
-      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 20:37:34 +0000",
-        "ts": 1793997454,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
-      "title": "US Treasury walks back crypto surveillance ‘travel rule’ proposal",
-      "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 21:06:03 +0000",
-        "ts": 1793999163,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia.",
-      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system"
-    },
-    {
-      "published": {
         "raw": "Sat, 07 Nov 2026 16:46:02 +0000",
         "ts": 1794069962,
         "tz_assumed": false
@@ -4062,6 +3930,18 @@
       "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
       "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
       "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+    },
+    {
+      "published": {
+        "raw": "Sun, 15 Nov 2026 19:30:00 +0000",
+        "ts": 1794771000,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
     }
   ],
   "seen": {
@@ -4251,7 +4131,8 @@
       "bybit:10107",
       "bybit:10108",
       "bybit:10109",
-      "bybit:10112"
+      "bybit:10112",
+      "bybit:10113"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4966,7 +4847,9 @@
       "media:https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
       "media:https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
       "media:https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
-      "media:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins"
+      "media:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "media:https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+      "media:https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
