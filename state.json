@@ -103,6 +103,13 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): XRP −30%",
       "ts": 1794675562
+    },
+    {
+      "id": "dd-2026111501-ETH3",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): ETH −30%",
+      "ts": 1794707245
     }
   ],
   "coins": {
@@ -114,7 +121,7 @@
     "ETH": {
       "anchor_high": "2524.38",
       "anchor_time": 1792598400,
-      "level": 2
+      "level": 3
     },
     "SOL": {
       "anchor_high": "109.13",
@@ -1044,42 +1051,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 22:09:14 +0000",
-        "ts": 1793916554,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
-      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455"
-    },
-    {
-      "published": {
-        "raw": "Thu, 05 Nov 2026 22:16:03 +0000",
-        "ts": 1793916963,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Ueno’s collapse trapped millions of Paraguayan depositors and triggered a president’s resignation, reviving Bitcoin’s argument for self-custody.",
-      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
-      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 01:30:00 +0000",
-        "ts": 1793928600,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
-      "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc"
-    },
     {
       "published": {
         "raw": "Fri, 06 Nov 2026 02:24:23 +0000",
@@ -4283,6 +4254,18 @@
       "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
       "title": "Louisiana AG calls CFTC chair an ‘obsequious standard bearer’ for prediction markets following agency lawsuit",
       "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
+    },
+    {
+      "published": {
+        "raw": "Sat, 14 Nov 2026 23:07:35 +0000",
+        "ts": 1794697655,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
     }
   ],
   "seen": {
@@ -5180,7 +5163,8 @@
       "media:https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
       "media:https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
       "media:https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-      "media:https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342"
+      "media:https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "media:https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5761,7 +5745,8 @@
     "fu:binance:0729ad59cde74700b4eaa96c33441e71",
     "dd-2026111218-ETH2",
     "dd-2026111403-BTC2-SOL3",
-    "dd-2026111416-XRP3"
+    "dd-2026111416-XRP3",
+    "dd-2026111501-ETH3"
   ],
   "sources": {
     "ai:claude": {
