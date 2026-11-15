@@ -1053,66 +1053,6 @@
   "news": [
     {
       "published": {
-        "raw": "Fri, 06 Nov 2026 02:24:23 +0000",
-        "ts": 1793931863,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
-      "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-      "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 03:56:28 +0000",
-        "ts": 1793937388,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
-      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
-      "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 04:29:14 +0000",
-        "ts": 1793939354,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
-      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
-      "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 08:04:52 +0000",
-        "ts": 1793952292,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
-      "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-      "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide"
-    },
-    {
-      "published": {
-        "raw": "Fri, 06 Nov 2026 08:47:42 +0000",
-        "ts": 1793954862,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
-      "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income"
-    },
-    {
-      "published": {
         "raw": "Fri, 06 Nov 2026 09:53:27 +0000",
         "ts": 1793958807,
         "tz_assumed": false
@@ -4266,6 +4206,18 @@
       "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
       "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
       "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+    },
+    {
+      "published": {
+        "raw": "Sun, 15 Nov 2026 02:50:57 +0000",
+        "ts": 1794711057,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
     }
   ],
   "seen": {
@@ -5164,7 +5116,8 @@
       "media:https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
       "media:https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
       "media:https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
-      "media:https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+      "media:https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "media:https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
