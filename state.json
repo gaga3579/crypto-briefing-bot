@@ -110,6 +110,13 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): ETH −30%",
       "ts": 1794707245
+    },
+    {
+      "id": "weekly-2026-11-16",
+      "incident": null,
+      "kind": "weekly",
+      "summary": "주간 요약 (2026-11-16)",
+      "ts": 1794794092
     }
   ],
   "coins": {
@@ -3942,6 +3949,18 @@
       "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
       "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
+    },
+    {
+      "published": {
+        "raw": "Sun, 15 Nov 2026 21:57:53 +0000",
+        "ts": 1794779873,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
     }
   ],
   "seen": {
@@ -4016,7 +4035,8 @@
       "binance:0729ad59cde74700b4eaa96c33441e71",
       "binance:d5d3474a9b054f23a1867aff5cdece3f",
       "binance:432646a7f7c34c2a85b69db99af32c16",
-      "binance:0dc9c6bdb729413ba54ba68ca83403e1"
+      "binance:0dc9c6bdb729413ba54ba68ca83403e1",
+      "binance:d1bc1b9ca8ab4bb9800b205162964aea"
     ],
     "bybit": [
       "bybit:9996",
@@ -4849,7 +4869,8 @@
       "media:https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
       "media:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
       "media:https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "media:https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363"
+      "media:https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "media:https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5431,7 +5452,8 @@
     "dd-2026111218-ETH2",
     "dd-2026111403-BTC2-SOL3",
     "dd-2026111416-XRP3",
-    "dd-2026111501-ETH3"
+    "dd-2026111501-ETH3",
+    "weekly-2026-11-16"
   ],
   "sources": {
     "ai:claude": {
@@ -5529,5 +5551,5 @@
   },
   "unsent": [],
   "version": 1,
-  "weekly_last": "2026-11-09"
+  "weekly_last": "2026-11-16"
 }
