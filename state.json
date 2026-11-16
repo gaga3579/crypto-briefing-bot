@@ -3916,6 +3916,18 @@
     },
     {
       "published": {
+        "raw": "Sun, 15 Nov 2026 07:00:00 +0000",
+        "ts": 1794726000,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+      "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs"
+    },
+    {
+      "published": {
         "raw": "Sun, 15 Nov 2026 14:00:00 +0000",
         "ts": 1794751200,
         "tz_assumed": false
@@ -3961,6 +3973,102 @@
       "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
       "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
       "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 05:01:17 +0000",
+        "ts": 1794805277,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 07:51:15 +0000",
+        "ts": 1794815475,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+      "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 08:18:03 +0000",
+        "ts": 1794817083,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive.",
+      "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+      "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 08:46:00 +0000",
+        "ts": 1794818760,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "DBS and JPMorgan have connected their blockchain-based deposit networks, letting approved clients move tokenized U.S. dollars between Singapore and the U.S. at any time, including weekends.",
+      "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
+      "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 08:52:33 +0000",
+        "ts": 1794819153,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
+      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
+      "url": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 09:05:02 +0000",
+        "ts": 1794819902,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
+      "title": "CoW Swap goes live on Solana with intent-based trading",
+      "url": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 09:23:07 +0000",
+        "ts": 1794820987,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your look at what’s coming in the week starting Nov. 16.",
+      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead",
+      "url": "https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 09:26:39 +0000",
+        "ts": 1794821199,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
+      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
     }
   ],
   "seen": {
@@ -4152,7 +4260,10 @@
       "bybit:10108",
       "bybit:10109",
       "bybit:10112",
-      "bybit:10113"
+      "bybit:10113",
+      "bybit:10114",
+      "bybit:10115",
+      "bybit:10116"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4870,7 +4981,20 @@
       "media:https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
       "media:https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
       "media:https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
-      "media:https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
+      "media:https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+      "media:https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+      "media:https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+      "media:https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+      "media:https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+      "media:https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+      "media:https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+      "media:https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+      "media:https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
+      "media:https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
+      "media:https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+      "media:https://www.coindesk.com/markets/2026/11/16/fomc-minutes-nvidia-earnings-russia-s-retail-crypto-rules-crypto-week-ahead",
+      "media:https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+      "media:https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5362,7 +5486,8 @@
       "status:kraken:6yz857nnnkz5:sb18dxxxlnd5",
       "status:kraken:6yz857nnnkz5:m6rgz0q0qf1p",
       "status:kraken:6yz857nnnkz5:xlbwwcf51fnc",
-      "status:kraken:9bc6xzp6mx8l:ptx266k68s2k"
+      "status:kraken:9bc6xzp6mx8l:ptx266k68s2k",
+      "status:kraken:y5p24gbkbths:wzv0dk5jv816"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
