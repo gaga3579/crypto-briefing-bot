@@ -149,7 +149,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-17",
+  "heartbeat": "2026-11-18",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -1077,54 +1077,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Sun, 08 Nov 2026 14:01:03 +0000",
-        "ts": 1794146463,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
-      "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-      "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet"
-    },
-    {
-      "published": {
-        "raw": "Sun, 08 Nov 2026 15:52:17 +0000",
-        "ts": 1794153137,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
-      "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022"
-    },
-    {
-      "published": {
-        "raw": "Sun, 08 Nov 2026 19:16:42 +0000",
-        "ts": 1794165402,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
-      "title": "Stablecoin growth has stalled. The payments boom hasn't",
-      "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t"
-    },
-    {
-      "published": {
-        "raw": "Sun, 08 Nov 2026 19:30:00 +0000",
-        "ts": 1794166200,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
-      "title": "What the election results mean for crypto: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto"
-    },
     {
       "published": {
         "raw": "Mon, 09 Nov 2026 02:36:01 +0000",
@@ -4784,6 +4736,222 @@
       "summary": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
       "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
       "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 13:56:18 +0000",
+        "ts": 1794923778,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Riot's AI leases imply twice its adjusted enterprise value, Bernstein estimates, with TeraWulf also trading at a discount.",
+      "title": "Bernstein sees upside for bitcoin miners Riot and TeraWulf, citing discounts to implied AI data center values",
+      "url": "https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 14:00:00 +0000",
+        "ts": 1794924000,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitwise's first non-crypto ETF, ZDAY, trades on the NYSE with a 0.75% fee, holding 10–30 AI security stocks like CrowdStrike and Palo Alto.",
+      "title": "Bitwise launches ZDAY, its first non-crypto ETF, to bet on AI cyber defense",
+      "url": "https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 14:27:35 +0000",
+        "ts": 1794925655,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Liu recapped two periods of trading as evidence Solana's network can withstand pressure from unpredictable crypto markets.",
+      "title": "Solana’s Trump memecoin launch tested infrastructure ahead of institutional push, Lily Liu says",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 15:11:00 +0000",
+        "ts": 1794928260,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
+      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 15:30:37 +0000",
+        "ts": 1794929437,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
+      "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+      "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 15:53:25 +0000",
+        "ts": 1794930805,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue.",
+      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
+      "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 16:35:07 +0000",
+        "ts": 1794933307,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Alpaca co-founder Hitoshi Harada said its Instant Tokenization Network has surpassed $10 billion in cumulative minting and redemption volume.",
+      "title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
+      "url": "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 16:41:38 +0000",
+        "ts": 1794933698,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.",
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "url": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 17:00:05 +0000",
+        "ts": 1794934805,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
+      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 17:15:23 +0000",
+        "ts": 1794935723,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "NVDA Speculatooors onchain On the off chance you haven’t heard, Nvidia CEO and co-founder Jensen Huang resigned from his post after admitting he was unfaithful to his wife. Needless to say, markets have reacted violently. Onchain perpetuals traded $8.7 billion on Nov. 12, the day Jensen Huang resigned as CEO, roughly 20x the daily average […]",
+      "title": "Everyone is Trading Tokenized Nvidia Derivatives",
+      "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 17:18:41 +0000",
+        "ts": 1794935921,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
+      "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
+      "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 18:00:02 +0000",
+        "ts": 1794938402,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
+      "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 19:26:02 +0000",
+        "ts": 1794943562,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.",
+      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+      "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 19:29:15 +0000",
+        "ts": 1794943755,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
+      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 19:45:57 +0000",
+        "ts": 1794944757,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 19:46:03 +0000",
+        "ts": 1794944763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.",
+      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+      "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 20:36:03 +0000",
+        "ts": 1794947763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
+      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+      "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 20:56:03 +0000",
+        "ts": 1794948963,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
     }
   ],
   "seen": {
@@ -4991,7 +5159,13 @@
       "bybit:10122",
       "bybit:10123",
       "bybit:10124",
-      "bybit:10125"
+      "bybit:10125",
+      "bybit:10126",
+      "bybit:10127",
+      "bybit:10128",
+      "bybit:10129",
+      "bybit:10130",
+      "bybit:10131"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5010,7 +5184,9 @@
       "kraken-blog:https://blog.kraken.com/product/new-features/recurring-ach-deposits",
       "kraken-blog:https://blog.kraken.com/product/promotions/the-anthropic-pre-ipo-challenge-nov-2026",
       "kraken-blog:https://blog.kraken.com/product/promotions/black-friday-deposit-trade-bonus",
-      "kraken-blog:https://blog.kraken.com/product/asset-listings/pearl-is-available-for-trading"
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/pearl-is-available-for-trading",
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/xla-is-available-for-trading",
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/infi-is-available-for-trading"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -5801,7 +5977,31 @@
       "media:https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
       "media:https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
       "media:https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-      "media:https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
+      "media:https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
+      "media:https://www.theblock.co/news/markets/2026-11-17-bernstein-sees-upside-for-bitcoin-miners-riot-and-terawulf-citing-discounts-to-implied-ai-data-center-values-442125",
+      "media:https://www.theblock.co/news/markets/2026-11-17-bitwise-zday-ai-cyber-defense-etf-442062",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-17-solana-trump-memecoin-launch-tested-infrastructure-institutional-push-lily-liu-says-442132",
+      "media:https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+      "media:https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
+      "media:https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568",
+      "media:https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667",
+      "media:https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
+      "media:https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+      "media:https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818",
+      "media:https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+      "media:https://www.theblock.co/news/business/2026-11-17-fomo-pays-creators-30-million-sharing-lions-share-revenue-park-says-442332",
+      "media:https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
+      "media:https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+      "media:https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+      "media:https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+      "media:https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+      "media:https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "media:https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "media:https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "media:https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "media:https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+      "media:https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6059,7 +6259,8 @@
       "status:coinbase:jx3xg1gddhbm:km99wmz499r4",
       "status:coinbase:jx3xg1gddhbm:mt8s9b2cvdj1",
       "status:coinbase:3nlxfkfbhjgx:bm0668h30hfc",
-      "status:coinbase:3nlxfkfbhjgx:1w26s9by5ndz"
+      "status:coinbase:3nlxfkfbhjgx:1w26s9by5ndz",
+      "status:coinbase:0tlgts8cn5y8:f8973cc4qwfz"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6302,7 +6503,10 @@
       "status:kraken:y5p24gbkbths:wzv0dk5jv816",
       "status:kraken:5lmkvc6ylghn:1stv9l9c38gr",
       "status:kraken:5lmkvc6ylghn:xqdkz9ppx067",
-      "status:kraken:5lmkvc6ylghn:tnljmjtxz7yg"
+      "status:kraken:5lmkvc6ylghn:tnljmjtxz7yg",
+      "status:kraken:y5p24gbkbths:1fb977g86z72",
+      "status:kraken:qwyyxqhgk3wj:3vv4jckfmb4s",
+      "status:kraken:qwyyxqhgk3wj:vq35h32fw0x5"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
