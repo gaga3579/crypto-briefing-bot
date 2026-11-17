@@ -1060,30 +1060,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sat, 07 Nov 2026 20:59:47 +0000",
-        "ts": 1794085187,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story.",
-      "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
-      "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988"
-    },
-    {
-      "published": {
-        "raw": "Sat, 07 Nov 2026 21:57:58 +0000",
-        "ts": 1794088678,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
-      "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
-      "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992"
-    },
-    {
-      "published": {
         "raw": "Sun, 08 Nov 2026 12:55:59 +0000",
         "ts": 1794142559,
         "tz_assumed": false
@@ -4381,6 +4357,126 @@
       "summary": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
       "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
       "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 20:27:32 +0000",
+        "ts": 1794860852,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
+      "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
+      "url": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 20:30:37 +0000",
+        "ts": 1794861037,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
+      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 20:35:21 +0000",
+        "ts": 1794861321,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 20:36:03 +0000",
+        "ts": 1794861363,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO.",
+      "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 20:44:01 +0000",
+        "ts": 1794861841,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Four Democratic senators are raising concerns about the Securities and Exchange Commission's newly unveiled innovation exemption.",
+      "title": "Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 21:16:03 +0000",
+        "ts": 1794863763,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabled vector.”",
+      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 21:46:03 +0000",
+        "ts": 1794865563,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind.",
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 21:51:04 +0000",
+        "ts": 1794865864,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 22:18:03 +0000",
+        "ts": 1794867483,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data"
+    },
+    {
+      "published": {
+        "raw": "Mon, 16 Nov 2026 23:27:15 +0000",
+        "ts": 1794871635,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
     }
   ],
   "seen": {
@@ -4580,7 +4676,8 @@
       "bybit:10117",
       "bybit:10118",
       "bybit:10119",
-      "bybit:10120"
+      "bybit:10120",
+      "bybit:10121"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5348,7 +5445,19 @@
       "media:https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
       "media:https://www.theblock.co/news/defi/2026-11-16-solflare-ceo-ai-security-reviews-bunker-mode-moneygram-441396",
       "media:https://decrypt.co/383351/trump-elon-musk-sam-altman-jensen-huang-nvidia",
-      "media:https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief"
+      "media:https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+      "media:https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
+      "media:https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "media:https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "media:https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+      "media:https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+      "media:https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "media:https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+      "media:https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "media:https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "media:https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "media:https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "media:https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5601,7 +5710,12 @@
       "status:coinbase:5pgqt8s63hkf:kzt7rc4djwxc",
       "status:coinbase:5pgqt8s63hkf:512y1nj295sr",
       "status:coinbase:5pgqt8s63hkf:t06pw23th9hy",
-      "status:coinbase:jx3xg1gddhbm:157qpg5l2l6t"
+      "status:coinbase:jx3xg1gddhbm:157qpg5l2l6t",
+      "status:coinbase:jx3xg1gddhbm:286tdd8x8xqm",
+      "status:coinbase:jx3xg1gddhbm:km99wmz499r4",
+      "status:coinbase:jx3xg1gddhbm:mt8s9b2cvdj1",
+      "status:coinbase:3nlxfkfbhjgx:bm0668h30hfc",
+      "status:coinbase:3nlxfkfbhjgx:1w26s9by5ndz"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
