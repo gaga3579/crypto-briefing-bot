@@ -117,6 +117,13 @@
       "kind": "weekly",
       "summary": "주간 요약 (2026-11-16)",
       "ts": 1794794092
+    },
+    {
+      "id": "fu:binance:77a8571f886c4f1ea665420330b96f58",
+      "incident": "Binance:security_incident:1793826904",
+      "kind": "followup",
+      "summary": "후속 브리핑: Binance 보안 사고 (정정·철회)",
+      "ts": 1794920958
     }
   ],
   "coins": {
@@ -872,55 +879,55 @@
     },
     "Binance:security_incident:1793826904": {
       "briefed": true,
-      "closed_reason": null,
+      "closed_reason": "정정·철회",
       "entity": "Binance",
       "event_type": "security_incident",
       "ext": {
         "dropped": 0,
         "entity": "Binance",
-        "event_type": "security_incident",
+        "event_type": "other",
         "facts": [
           {
-            "source_quote": "Binance has completed coverage of assets impacted in the security incident.",
-            "text": "Binance says it has completed coverage of assets impacted in the security incident."
+            "source_quote": "Binance will adjust the tick size (i.e., the minimum change in the unit price) of the below USDⓈ-M Perpetual Futures Contracts at 2026-11-18 06:30 (UTC).",
+            "text": "Binance will adjust the tick size of 11 USDⓈ-M Perpetual Futures Contracts at 2026-11-18 06:30 (UTC) to increase market liquidity and improve users' trading experience."
           },
           {
-            "source_quote": "Binance committed more than $6.34 billion in company funds to cover the losses",
-            "text": "Binance says it committed more than $6.34 billion in company funds to cover the losses, funded by a partial deployment of SAFU, a portion of the Futures insurance fund, and corporate treasury."
+            "source_quote": "The adjustment will not impact USDⓈ-M Futures trading operations.",
+            "text": "The adjustment will not impact USDⓈ-M Futures trading operations."
           },
           {
-            "source_quote": "Binance has committed to replenishing SAFU to return the fund to approximately US$1 billion",
-            "text": "Binance has committed to replenishing SAFU to return the fund to approximately US$1 billion."
+            "source_quote": "Tick size via API will also change.",
+            "text": "Tick size via API will also change; API users can use GET /fapi/v1/exchangeInfo to find the latest tick size."
           },
           {
-            "source_quote": "Binance has taken a new PoR snapshot at 2026-11-12 00:00 (UTC) that covers 198 tokens",
-            "text": "Binance took a new Proof of Reserves snapshot covering 198 tokens; a full zero-knowledge proof is expected in roughly 40 to 50 hours."
+            "source_quote": "The tick size update will not affect existing orders.",
+            "text": "The tick size update will not affect existing orders; orders placed before the update will still be matched with the original tick size."
           },
           {
-            "source_quote": "These will be handled according to our delisting process and users who hold them will be covered.",
-            "text": "A very small number of no-longer-supported tokens were affected and will be handled via the delisting process, with holders covered."
+            "source_quote": "This announcement was amended on 2026-11-17 to update the specific tick size adjustment details for USDEUSDT, KORUUSDT, MARAUSDT, RDWUSDT and USARUSDT.",
+            "text": "The announcement was amended on 2026-11-17 to update the tick size adjustment details for USDEUSDT, KORUUSDT, MARAUSDT, RDWUSDT and USARUSDT."
           }
         ],
-        "is_correction": false,
+        "is_correction": true,
         "is_scheduled_maintenance": false,
         "metrics": [],
         "withdrawal_status": {
           "assets": [],
           "scope": "unknown",
-          "source_quote": "Binance continues to reopen withdrawals in phases and will provide further updates as soon as they are confirmed.",
-          "status": "partial"
+          "source_quote": "",
+          "status": "unknown"
         }
       },
       "item": {
-        "id": "binance:0729ad59cde74700b4eaa96c33441e71",
+        "id": "binance:77a8571f886c4f1ea665420330b96f58",
         "official": true,
         "source": "binance",
-        "title": "Binance Completes Coverage of Assets Impacted in Security Incident; New Proof of Reserves Published",
-        "ts": 1794502450,
-        "url": "https://www.binance.com/en/support/announcement/detail/0729ad59cde74700b4eaa96c33441e71"
+        "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-18)",
+        "ts": 1794895209,
+        "url": "https://www.binance.com/en/support/announcement/detail/77a8571f886c4f1ea665420330b96f58"
       },
       "key": "Binance:security_incident:1793826904",
-      "last": 1794509398,
+      "last": 1794920958,
       "media": [
         {
           "id": "media:https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
@@ -1038,7 +1045,7 @@
       "metrics": {},
       "official": true,
       "opened": 1793826904,
-      "status": "open",
+      "status": "closed",
       "updates": [
         {
           "id": "binance:0729ad59cde74700b4eaa96c33441e71",
@@ -1051,6 +1058,18 @@
           "title": "Binance Completes Coverage of Assets Impacted in Security Incident; New Proof of Reserves Published",
           "ts": 1794502450,
           "url": "https://www.binance.com/en/support/announcement/detail/0729ad59cde74700b4eaa96c33441e71"
+        },
+        {
+          "id": "binance:77a8571f886c4f1ea665420330b96f58",
+          "official": true,
+          "reasons": [
+            "정정·철회"
+          ],
+          "sent": true,
+          "source": "binance",
+          "title": "Updates on Tick Size for Multiple USDⓈ-M Perpetual Futures Contracts (2026-11-18)",
+          "ts": 1794895209,
+          "url": "https://www.binance.com/en/support/announcement/detail/77a8571f886c4f1ea665420330b96f58"
         }
       ],
       "withdrawal": "partial"
@@ -1058,18 +1077,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Sun, 08 Nov 2026 12:55:59 +0000",
-        "ts": 1794142559,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today’s prices each one earns slightly more than the electricity it burns.",
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000"
-    },
     {
       "published": {
         "raw": "Sun, 08 Nov 2026 14:01:03 +0000",
@@ -4477,6 +4484,306 @@
       "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
       "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
       "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 05:02:05 +0000",
+        "ts": 1794891725,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
+      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+      "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 05:37:23 +0000",
+        "ts": 1794893843,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC.",
+      "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 05:45:00 +0000",
+        "ts": 1794894300,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case; and more.",
+      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 06:35:02 +0000",
+        "ts": 1794897302,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
+      "title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+      "url": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 06:54:49 +0000",
+        "ts": 1794898489,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.",
+      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+      "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 07:38:07 +0000",
+        "ts": 1794901087,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading market maker warns.",
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 07:39:17 +0000",
+        "ts": 1794901157,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.",
+      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+      "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 09:01:03 +0000",
+        "ts": 1794906063,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading.",
+      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+      "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 09:21:19 +0000",
+        "ts": 1794907279,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. The funds have not moved again, blockchain investigators say.",
+      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+      "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 09:27:29 +0000",
+        "ts": 1794907649,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
+      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+      "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 10:22:18 +0000",
+        "ts": 1794910938,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown, and investigators have not linked the attack to AI.",
+      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+      "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 10:33:26 +0000",
+        "ts": 1794911606,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures rose modestly following yesterday's rout.",
+      "title": "Live updates: Bitcoin holds near $64,000 as tech bounces ahead of Nvidia earnings",
+      "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 10:48:12 +0000",
+        "ts": 1794912492,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls.",
+      "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+      "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 10:49:40 +0000",
+        "ts": 1794912580,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
+      "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+      "url": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 11:05:25 +0000",
+        "ts": 1794913525,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards.",
+      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 11:25:58 +0000",
+        "ts": 1794914758,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
+      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+      "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 11:29:51 +0000",
+        "ts": 1794914991,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+      "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 11:36:07 +0000",
+        "ts": 1794915367,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts.",
+      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 12:00:55 +0000",
+        "ts": 1794916855,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory.",
+      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 12:16:53 +0000",
+        "ts": 1794917813,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 17, 2026",
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 12:50:55 +0000",
+        "ts": 1794919855,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things.",
+      "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+      "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 12:56:24 +0000",
+        "ts": 1794920184,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question—who’s next?",
+      "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+      "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 13:00:00 +0000",
+        "ts": 1794920400,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding.",
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 13:02:56 +0000",
+        "ts": 1794920576,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday.",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 13:08:34 +0000",
+        "ts": 1794920914,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
+      "title": "Stablecoin infrastructure firm Avenia raises $25 million in Series A extension",
+      "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
     }
   ],
   "seen": {
@@ -4553,7 +4860,10 @@
       "binance:432646a7f7c34c2a85b69db99af32c16",
       "binance:0dc9c6bdb729413ba54ba68ca83403e1",
       "binance:d1bc1b9ca8ab4bb9800b205162964aea",
-      "binance:5f041987d1ca4252a3c59ad27eff3e28"
+      "binance:5f041987d1ca4252a3c59ad27eff3e28",
+      "binance:77a8571f886c4f1ea665420330b96f58",
+      "binance:693bb3ed50e2420dad614ba78a22e9ea",
+      "binance:3d3ab9f06baf40b993c45a115dcf576e"
     ],
     "bybit": [
       "bybit:9996",
@@ -4677,7 +4987,11 @@
       "bybit:10118",
       "bybit:10119",
       "bybit:10120",
-      "bybit:10121"
+      "bybit:10121",
+      "bybit:10122",
+      "bybit:10123",
+      "bybit:10124",
+      "bybit:10125"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5457,7 +5771,37 @@
       "media:https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
       "media:https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
       "media:https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-      "media:https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
+      "media:https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+      "media:https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+      "media:https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+      "media:https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+      "media:https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+      "media:https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "media:https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+      "media:https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+      "media:https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+      "media:https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+      "media:https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+      "media:https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+      "media:https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+      "media:https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+      "media:https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+      "media:https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+      "media:https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+      "media:https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+      "media:https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+      "media:https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+      "media:https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+      "media:https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+      "media:https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "media:https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "media:https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+      "media:https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+      "media:https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+      "media:https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+      "media:https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6049,7 +6393,8 @@
     "dd-2026111403-BTC2-SOL3",
     "dd-2026111416-XRP3",
     "dd-2026111501-ETH3",
-    "weekly-2026-11-16"
+    "weekly-2026-11-16",
+    "fu:binance:77a8571f886c4f1ea665420330b96f58"
   ],
   "sources": {
     "ai:claude": {
