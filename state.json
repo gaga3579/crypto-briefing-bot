@@ -1079,30 +1079,6 @@
   "news": [
     {
       "published": {
-        "raw": "Mon, 09 Nov 2026 02:36:01 +0000",
-        "ts": 1794191761,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter — called “shielded transactions” on the network — make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the sender, recipient or amount. Zcash has emerged as one of the […]",
-      "title": "What is Zcash (ZEC)? How shielded transactions work",
-      "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 03:21:49 +0000",
-        "ts": 1794194509,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
-      "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-      "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility"
-    },
-    {
-      "published": {
         "raw": "Mon, 09 Nov 2026 04:54:39 +0000",
         "ts": 1794200079,
         "tz_assumed": false
@@ -4952,6 +4928,54 @@
       "summary": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
       "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
       "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
+    },
+    {
+      "published": {
+        "raw": "Tue, 17 Nov 2026 23:32:46 +0000",
+        "ts": 1794958366,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
+      "title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 00:46:25 +0000",
+        "ts": 1794962785,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 02:40:00 +0000",
+        "ts": 1794969600,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+      "title": "What’s happening to crypto startup valuations?",
+      "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 02:47:51 +0000",
+        "ts": 1794970071,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
     }
   ],
   "seen": {
@@ -5031,7 +5055,8 @@
       "binance:5f041987d1ca4252a3c59ad27eff3e28",
       "binance:77a8571f886c4f1ea665420330b96f58",
       "binance:693bb3ed50e2420dad614ba78a22e9ea",
-      "binance:3d3ab9f06baf40b993c45a115dcf576e"
+      "binance:3d3ab9f06baf40b993c45a115dcf576e",
+      "binance:ea6f0f220adf4077948abbc28c15a9e8"
     ],
     "bybit": [
       "bybit:9996",
@@ -5165,7 +5190,8 @@
       "bybit:10128",
       "bybit:10129",
       "bybit:10130",
-      "bybit:10131"
+      "bybit:10131",
+      "bybit:10135"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -6001,7 +6027,15 @@
       "media:https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
       "media:https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
       "media:https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-      "media:https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark"
+      "media:https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+      "media:https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+      "media:https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "media:https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+      "media:https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "media:https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+      "media:https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "media:https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "media:https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6260,7 +6294,8 @@
       "status:coinbase:jx3xg1gddhbm:mt8s9b2cvdj1",
       "status:coinbase:3nlxfkfbhjgx:bm0668h30hfc",
       "status:coinbase:3nlxfkfbhjgx:1w26s9by5ndz",
-      "status:coinbase:0tlgts8cn5y8:f8973cc4qwfz"
+      "status:coinbase:0tlgts8cn5y8:f8973cc4qwfz",
+      "status:coinbase:w8n506ptp4v4:q40ch7vyz5vl"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6506,7 +6541,8 @@
       "status:kraken:5lmkvc6ylghn:tnljmjtxz7yg",
       "status:kraken:y5p24gbkbths:1fb977g86z72",
       "status:kraken:qwyyxqhgk3wj:3vv4jckfmb4s",
-      "status:kraken:qwyyxqhgk3wj:vq35h32fw0x5"
+      "status:kraken:qwyyxqhgk3wj:vq35h32fw0x5",
+      "status:kraken:qwyyxqhgk3wj:xcxxv6lhyk0v"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
