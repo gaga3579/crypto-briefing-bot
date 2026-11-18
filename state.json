@@ -149,7 +149,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-18",
+  "heartbeat": "2026-11-19",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -1077,222 +1077,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 14:07:27 +0000",
-        "ts": 1794233247,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform.",
-      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
-      "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 14:32:40 +0000",
-        "ts": 1794234760,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply.",
-      "title": "Tom Lee’s Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI ‘supercycle’",
-      "url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 15:00:44 +0000",
-        "ts": 1794236444,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says.",
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 15:05:02 +0000",
-        "ts": 1794236702,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders.",
-      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-      "url": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 15:40:30 +0000",
-        "ts": 1794238830,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains.",
-      "title": "Ethereum treasury Sharplink’s Q3 net income hits $751 million on unrealized ether gains",
-      "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 15:49:22 +0000",
-        "ts": 1794239362,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain.",
-      "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
-      "url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 15:54:16 +0000",
-        "ts": 1794239656,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
-      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 16:01:28 +0000",
-        "ts": 1794240088,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase.",
-      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
-      "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 16:07:05 +0000",
-        "ts": 1794240425,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "StoneX initiated coverage of Bullish with a Buy rating and a $42 price target, implying roughly 97% upside from its current levels.",
-      "title": "StoneX sees 97% upside for Bullish as $4.2 billion Equiniti deal opens tokenization market",
-      "url": "https://www.theblock.co/news/markets/2026-11-09-stonex-sees-upside-bullish-equiniti-deal-opens-tokenization-market-436464"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 16:19:45 +0000",
-        "ts": 1794241185,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout.",
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 17:08:21 +0000",
-        "ts": 1794244101,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”",
-      "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-      "url": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 17:14:10 +0000",
-        "ts": 1794244450,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security.",
-      "title": "Vitalik Buterin Moves On From ‘Ultrasound Money,’ Says ETH’s Value Is Stability",
-      "url": "https://decrypt.co/382837/vitalik-buterin-moves-on-from-ultrasound-money-says-eths-value-is-stability"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 17:46:02 +0000",
-        "ts": 1794246362,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Operating under the SEC’s “Innovation Exemption,” the firm plans to list tokenized shares of Exodus, Forward Industries, and Galaxy Digital in early 2027, with the same voting and dividend rights as real stock.",
-      "title": "Solana Set for Another Tokenized Stock Venue as Formation Notifies the SEC",
-      "url": "https://decrypt.co/382859/solana-tokenized-stock-venue-formation-sec"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 18:30:22 +0000",
-        "ts": 1794249022,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Fulton’s complaint cites a recorded Buterin conversation and alleges discrimination and retaliation.",
-      "title": "Ethereum Foundation, Vitalik Buterin sued over firing after ‘suicide pledge’ dispute",
-      "url": "https://www.theblock.co/news/regulation/2026-11-09-ethereum-foundation-vitalik-buterin-sued-over-firing-suicide-pledge-dispute-436739"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 19:06:03 +0000",
-        "ts": 1794251163,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike.",
-      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 19:36:02 +0000",
-        "ts": 1794252962,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail.",
-      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
-      "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 19:36:15 +0000",
-        "ts": 1794252975,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
-      "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
-      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out"
-    },
-    {
-      "published": {
-        "raw": "Mon, 09 Nov 2026 20:04:49 +0000",
-        "ts": 1794254689,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
-      "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
-      "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898"
-    },
     {
       "published": {
         "raw": "Mon, 09 Nov 2026 22:07:00 +0000",
@@ -4952,6 +4736,210 @@
       "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
       "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
       "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 14:01:54 +0000",
+        "ts": 1795010514,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection.",
+      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 14:20:52 +0000",
+        "ts": 1795011652,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.",
+      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+      "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 14:49:00 +0000",
+        "ts": 1795013340,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization.",
+      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 15:23:18 +0000",
+        "ts": 1795015398,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 15:38:38 +0000",
+        "ts": 1795016318,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 16:02:54 +0000",
+        "ts": 1795017774,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions to ask about where assets are held.",
+      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 16:30:41 +0000",
+        "ts": 1795019441,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
+      "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+      "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 17:02:41 +0000",
+        "ts": 1795021361,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback.",
+      "title": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
+      "url": "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 17:13:37 +0000",
+        "ts": 1795022017,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
+      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 17:22:03 +0000",
+        "ts": 1795022523,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
+      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
+      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 17:32:13 +0000",
+        "ts": 1795023133,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.",
+      "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+      "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 18:16:02 +0000",
+        "ts": 1795025762,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
+      "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+      "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 18:46:03 +0000",
+        "ts": 1795027563,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
+      "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+      "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 18:51:30 +0000",
+        "ts": 1795027890,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.",
+      "title": "Ondo to launch tokenized Anthropic stock on IPO day",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 19:16:02 +0000",
+        "ts": 1795029362,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates.",
+      "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+      "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 19:40:25 +0000",
+        "ts": 1795030825,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Binance has obtained a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market Courts as it seeks to recover crypto stolen in October hack.",
+      "title": "Binance obtains $6.5 billion freezing order from Abu Dhabi court in bid to recover stolen crypto",
+      "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+    },
+    {
+      "published": {
+        "raw": "Wed, 18 Nov 2026 19:46:02 +0000",
+        "ts": 1795031162,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
+      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+      "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana"
     }
   ],
   "seen": {
@@ -5174,7 +5162,9 @@
       "bybit:10137",
       "bybit:10138",
       "bybit:10139",
-      "bybit:10140"
+      "bybit:10140",
+      "bybit:10141",
+      "bybit:10142"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -6040,7 +6030,30 @@
       "media:https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
       "media:https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
       "media:https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
-      "media:https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen"
+      "media:https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+      "media:https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+      "media:https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+      "media:https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+      "media:https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
+      "media:https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "media:https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "media:https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
+      "media:https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "media:https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+      "media:https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model",
+      "media:https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456",
+      "media:https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471",
+      "media:https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
+      "media:https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion",
+      "media:https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+      "media:https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
+      "media:https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+      "media:https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+      "media:https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491",
+      "media:https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+      "media:https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
+      "media:https://decrypt.co/383576/palmer-luckey-offshore-haven-industry-illegal-medicine",
+      "media:https://decrypt.co/383584/chatgpt-claude-gemini-grok-help-plan-terror-attacks-government-tests"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6550,7 +6563,9 @@
       "status:kraken:y5p24gbkbths:1fb977g86z72",
       "status:kraken:qwyyxqhgk3wj:3vv4jckfmb4s",
       "status:kraken:qwyyxqhgk3wj:vq35h32fw0x5",
-      "status:kraken:qwyyxqhgk3wj:xcxxv6lhyk0v"
+      "status:kraken:qwyyxqhgk3wj:xcxxv6lhyk0v",
+      "status:kraken:bccy6g93gmbf:z17r2vnh4tp9",
+      "status:kraken:bccy6g93gmbf:54c03d3t183y"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
