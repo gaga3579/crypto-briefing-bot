@@ -1147,42 +1147,6 @@
   "news": [
     {
       "published": {
-        "raw": "Tue, 10 Nov 2026 21:36:03 +0000",
-        "ts": 1794346563,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
-      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-      "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains"
-    },
-    {
-      "published": {
-        "raw": "Tue, 10 Nov 2026 21:51:19 +0000",
-        "ts": 1794347479,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
-      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
-      "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330"
-    },
-    {
-      "published": {
-        "raw": "Tue, 10 Nov 2026 22:46:02 +0000",
-        "ts": 1794350762,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
-      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-      "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center"
-    },
-    {
-      "published": {
         "raw": "Wed, 11 Nov 2026 06:22:32 +0000",
         "ts": 1794378152,
         "tz_assumed": false
@@ -5084,7 +5048,8 @@
       "binance:0d3b1632cf474b61afa7c04956005887",
       "binance:c01e51bf7fb54b8f8277bbeaadda9933",
       "binance:89df0df327a3431485ba54a7c03663c3",
-      "binance:f37d1230c2e542fbb1872fcde3ebf140"
+      "binance:f37d1230c2e542fbb1872fcde3ebf140",
+      "binance:81348a552af64764b5b1e1fcfd136c45"
     ],
     "bybit": [
       "bybit:9996",
@@ -6174,7 +6139,8 @@
       "media:https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
       "media:https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
       "media:https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "media:https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price"
+      "media:https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "media:https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
