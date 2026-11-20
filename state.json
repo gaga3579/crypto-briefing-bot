@@ -1147,66 +1147,6 @@
   "news": [
     {
       "published": {
-        "raw": "Wed, 11 Nov 2026 06:22:32 +0000",
-        "ts": 1794378152,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
-      "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
-      "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 10:20:53 +0000",
-        "ts": 1794392453,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
-      "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-      "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 10:45:49 +0000",
-        "ts": 1794393949,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
-      "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-      "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 10:51:34 +0000",
-        "ts": 1794394294,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
-      "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-      "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 10:54:02 +0000",
-        "ts": 1794394442,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets.",
-      "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
-      "url": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837"
-    },
-    {
-      "published": {
         "raw": "Wed, 11 Nov 2026 11:37:04 +0000",
         "ts": 1794397024,
         "tz_assumed": false
@@ -4960,6 +4900,198 @@
       "summary": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
       "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
       "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 03:32:30 +0000",
+        "ts": 1795145550,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average.",
+      "title": "Bitcoin hits four-month low after Anthropic's IPO as tech stocks wilt",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 04:24:05 +0000",
+        "ts": 1795148645,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.",
+      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
+      "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 04:28:52 +0000",
+        "ts": 1795148932,
+        "tz_assumed": false
+      },
+      "score": 4,
+      "source": "CoinDesk",
+      "summary": "Coinbase Custody will continue serving all three funds after Gemini's contracts end in February.",
+      "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
+      "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 04:58:08 +0000",
+        "ts": 1795150688,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts.",
+      "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+      "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 05:20:51 +0000",
+        "ts": 1795152051,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter.",
+      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+      "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 05:32:25 +0000",
+        "ts": 1795152745,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning.",
+      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+      "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 05:40:00 +0000",
+        "ts": 1795153200,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "In today's newsletter, CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US; Ripple's Alderoty doubts Elizabeth Warren will set US crypto policy; and more.",
+      "title": "CFTC Chair on Hyperliquid and onchain venues, Ripple CLO doubts Elizabeth Warren will set crypto policy, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 06:08:28 +0000",
+        "ts": 1795154908,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short.",
+      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
+      "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 06:12:15 +0000",
+        "ts": 1795155135,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin.",
+      "title": "Here's what's crashing gold and likely weighing on bitcoin too",
+      "url": "https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 08:04:40 +0000",
+        "ts": 1795161880,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The sell-off hit Wagyu’s XMR1 token, separate from Monero and Hyperliquid’s XMR futures market.",
+      "title": "Wrapped Monero token plunges 99% as issuer-linked wallet sells $13.5 million",
+      "url": "https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 10:02:03 +0000",
+        "ts": 1795168923,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said.",
+      "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+      "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 10:07:46 +0000",
+        "ts": 1795169266,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
+      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 10:09:25 +0000",
+        "ts": 1795169365,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "The Death Bets Act, which now heads to the House, would ban prediction market contracts tied to death, terrorism, assassination, and war.",
+      "title": "Senate passes ‘Death Bets Act’ to ban prediction market contracts tied to death and war",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 10:39:09 +0000",
+        "ts": 1795171149,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
+      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 10:48:04 +0000",
+        "ts": 1795171684,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter.",
+      "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
+      "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 11:23:00 +0000",
+        "ts": 1795173780,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
     }
   ],
   "seen": {
@@ -5049,7 +5181,9 @@
       "binance:c01e51bf7fb54b8f8277bbeaadda9933",
       "binance:89df0df327a3431485ba54a7c03663c3",
       "binance:f37d1230c2e542fbb1872fcde3ebf140",
-      "binance:81348a552af64764b5b1e1fcfd136c45"
+      "binance:81348a552af64764b5b1e1fcfd136c45",
+      "binance:1e39047366d44eeba508896a67314b4a",
+      "binance:d3aa0084d3854c3592600ac2dbda0ad6"
     ],
     "bybit": [
       "bybit:9996",
@@ -5197,7 +5331,9 @@
       "bybit:10146",
       "bybit:10147",
       "bybit:10148",
-      "bybit:10149"
+      "bybit:10149",
+      "bybit:10150",
+      "bybit:10151"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -6140,7 +6276,25 @@
       "media:https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
       "media:https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
       "media:https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-      "media:https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack"
+      "media:https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+      "media:https://www.coindesk.com/markets/2026/11/20/bitcoin-hits-four-month-low-after-anthropic-s-ipo-as-tech-stocks-wilt",
+      "media:https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
+      "media:https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
+      "media:https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+      "media:https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+      "media:https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-20-cftc-chair-hyperliquid-ripple-clo-elizabeth-warren-crypto-policy-more-news-444143",
+      "media:https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+      "media:https://www.coindesk.com/markets/2026/11/20/here-s-what-s-crashing-gold-and-likely-weighing-on-bitcoin-too",
+      "media:https://www.theblock.co/news/business/2026-11-20-michael-saylor-natural-demand-strategy-strc-444190",
+      "media:https://www.coindesk.com/markets/2026/11/20/wrapped-monero-token-plunges-99-as-issuer-linked-wallet-sells-usd13-5-million",
+      "media:https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
+      "media:https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+      "media:https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+      "media:https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
+      "media:https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+      "media:https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+      "media:https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6656,7 +6810,10 @@
       "status:kraken:bccy6g93gmbf:txs2p7y9qwkz",
       "status:kraken:dk2sjsgq5tx3:j5n60gjwv66t",
       "status:kraken:m44tdl2fvbf2:41pgwn7ftw0r",
-      "status:kraken:m44tdl2fvbf2:1pknkb59m13y"
+      "status:kraken:m44tdl2fvbf2:1pknkb59m13y",
+      "status:kraken:0cr915nj4ss1:r8ph17xk2k1w",
+      "status:kraken:0cr915nj4ss1:zpjj54n1xz76",
+      "status:kraken:0cr915nj4ss1:27k39cqk69bz"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
