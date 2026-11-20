@@ -124,32 +124,39 @@
       "kind": "followup",
       "summary": "후속 브리핑: Binance 보안 사고 (정정·철회)",
       "ts": 1794920958
+    },
+    {
+      "id": "dd-2026112020-BTC3",
+      "incident": null,
+      "kind": "drawdown",
+      "summary": "하락 브리핑(시장 전반): BTC −30%",
+      "ts": 1795204815
     }
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "84856.07",
-      "anchor_time": 1792598400,
-      "level": 2
+      "anchor_high": "84779.73",
+      "anchor_time": 1792616400,
+      "level": 3
     },
     "ETH": {
-      "anchor_high": "2524.38",
-      "anchor_time": 1792598400,
+      "anchor_high": "2499.6",
+      "anchor_time": 1792616400,
       "level": 3
     },
     "SOL": {
-      "anchor_high": "109.13",
-      "anchor_time": 1792605600,
+      "anchor_high": "108.36",
+      "anchor_time": 1792616400,
       "level": 3
     },
     "XRP": {
-      "anchor_high": "1.3982",
-      "anchor_time": 1792605600,
+      "anchor_high": "1.3859",
+      "anchor_time": 1792616400,
       "level": 3
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-20",
+  "heartbeat": "2026-11-21",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -1145,306 +1152,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 11:37:04 +0000",
-        "ts": 1794397024,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
-      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 11:43:50 +0000",
-        "ts": 1794397430,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin is digital money. It is that Bitcoin showed how a network could record value transfers without relying on a single company",
-      "title": "Bitcoin and Blockchain Basics",
-      "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 11:46:34 +0000",
-        "ts": 1794397594,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
-      "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
-      "url": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:19:30 +0000",
-        "ts": 1794399570,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Your day-ahead look for Nov. 11, 2026",
-      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:21:24 +0000",
-        "ts": 1794399684,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
-      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
-      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:46:16 +0000",
-        "ts": 1794401176,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Robert Barr was jailed for eight years for orchestrating an attempted £2 million cryptocurrency theft from his prison cell.",
-      "title": "Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison",
-      "url": "https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:46:24 +0000",
-        "ts": 1794401184,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK.",
-      "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
-      "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:50:08 +0000",
-        "ts": 1794401408,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
-      "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:55:18 +0000",
-        "ts": 1794401718,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
-      "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
-      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 12:57:36 +0000",
-        "ts": 1794401856,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
-      "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
-      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 13:00:00 +0000",
-        "ts": 1794402000,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs.",
-      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
-      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 13:01:02 +0000",
-        "ts": 1794402062,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
-      "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
-      "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 13:35:02 +0000",
-        "ts": 1794404102,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
-      "title": "Nomura’s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
-      "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 14:02:55 +0000",
-        "ts": 1794405775,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
-      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
-      "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 14:44:31 +0000",
-        "ts": 1794408271,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
-      "title": "Bitcoin ‘ripe for a squeeze’ as options traders raise odds of sub-$70,000 Christmas",
-      "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 16:00:45 +0000",
-        "ts": 1794412845,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed.",
-      "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 16:14:01 +0000",
-        "ts": 1794413641,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed.",
-      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
-      "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 16:22:13 +0000",
-        "ts": 1794414133,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "StoneX maintained its Buy rating on Securitize, citing tokenized equities, fund demand, and structured credit as growth drivers.",
-      "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
-      "url": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 16:56:54 +0000",
-        "ts": 1794416214,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace.",
-      "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
-      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 16:58:57 +0000",
-        "ts": 1794416337,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Three bugs—spanning denial-of-service and privacy issues rather than coin theft—have all been patched, with the most serious capable of halting a miner’s ability to build new blocks.",
-      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining—Bitcoin Core Has a Fix",
-      "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 17:07:22 +0000",
-        "ts": 1794416842,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement.",
-      "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
-      "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 17:09:18 +0000",
-        "ts": 1794416958,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare.",
-      "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
-      "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 17:23:10 +0000",
-        "ts": 1794417790,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.",
-      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 17:56:02 +0000",
-        "ts": 1794419762,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data.",
-      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
-      "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 19:06:02 +0000",
-        "ts": 1794423962,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Deutsche Bank’s custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe.",
-      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
-      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup"
-    },
     {
       "published": {
         "raw": "Wed, 11 Nov 2026 20:32:19 +0000",
@@ -5092,6 +4799,270 @@
       "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue.",
       "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
       "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 11:42:02 +0000",
+        "ts": 1795174922,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector.",
+      "title": "Bitcoin drops for third straight day as Asian tech shares slide",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 11:50:51 +0000",
+        "ts": 1795175451,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto.",
+      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 12:10:14 +0000",
+        "ts": 1795176614,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny.",
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 12:12:29 +0000",
+        "ts": 1795176749,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings.",
+      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 12:15:08 +0000",
+        "ts": 1795176908,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 20, 2026",
+      "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 12:29:57 +0000",
+        "ts": 1795177797,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million.",
+      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 13:11:49 +0000",
+        "ts": 1795180309,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction.",
+      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 13:30:22 +0000",
+        "ts": 1795181422,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds.",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 13:35:33 +0000",
+        "ts": 1795181733,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%.",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 14:25:57 +0000",
+        "ts": 1795184757,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred.",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 14:36:10 +0000",
+        "ts": 1795185370,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests.",
+      "title": "Wintermute policy chief calls for crypto lobby to ‘clean house’ in D.C.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 14:38:30 +0000",
+        "ts": 1795185510,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 14:51:32 +0000",
+        "ts": 1795186292,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends.",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 15:42:51 +0000",
+        "ts": 1795189371,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths.",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 16:11:22 +0000",
+        "ts": 1795191082,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Wagyu’s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit.",
+      "title": "Wagyu’s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 16:35:59 +0000",
+        "ts": 1795192559,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO.",
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 17:41:45 +0000",
+        "ts": 1795196505,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million.",
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 18:13:52 +0000",
+        "ts": 1795198432,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide.",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 18:17:39 +0000",
+        "ts": 1795198659,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000.",
+      "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 18:22:39 +0000",
+        "ts": 1795198959,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17.",
+      "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 18:46:03 +0000",
+        "ts": 1795200363,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs.",
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 19:41:52 +0000",
+        "ts": 1795203712,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
+      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
     }
   ],
   "seen": {
@@ -5333,7 +5304,12 @@
       "bybit:10148",
       "bybit:10149",
       "bybit:10150",
-      "bybit:10151"
+      "bybit:10151",
+      "bybit:10153",
+      "bybit:10154",
+      "bybit:10155",
+      "bybit:10156",
+      "bybit:10157"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5355,7 +5331,10 @@
       "kraken-blog:https://blog.kraken.com/product/asset-listings/pearl-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/xla-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/infi-is-available-for-trading",
-      "kraken-blog:https://blog.kraken.com/product/new-features/introducing-kraken-tv"
+      "kraken-blog:https://blog.kraken.com/product/new-features/introducing-kraken-tv",
+      "kraken-blog:https://blog.kraken.com/product/promotions/antx-trading-challenge",
+      "kraken-blog:https://blog.kraken.com/product/promotions/500k-holiday-deposit-sweepstakes",
+      "kraken-blog:https://blog.kraken.com/product/asset-listings/bfi-is-available-for-trading"
     ],
     "media": [
       "media:https://decrypt.co/videos/interviews/50vopyFa/the-white-whale-up-10x-in-a-week-lighter-tge-saylor-buys-109m-btc",
@@ -6294,7 +6273,33 @@
       "media:https://www.theblock.co/news/regulation/2026-11-20-senate-death-bets-act-444200",
       "media:https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
       "media:https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-      "media:https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report"
+      "media:https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+      "media:https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
+      "media:https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+      "media:https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+      "media:https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+      "media:https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
+      "media:https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+      "media:https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+      "media:https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+      "media:https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "media:https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "media:https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "media:https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "media:https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "media:https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "media:https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "media:https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "media:https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "media:https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "media:https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "media:https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "media:https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+      "media:https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+      "media:https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+      "media:https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "media:https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "media:https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6557,7 +6562,11 @@
       "status:coinbase:w8n506ptp4v4:q40ch7vyz5vl",
       "status:coinbase:w8n506ptp4v4:9qwy6stldz7h",
       "status:coinbase:5m9wv3m28yjw:bl90hw781tkg",
-      "status:coinbase:5m9wv3m28yjw:3nfx517z6fw4"
+      "status:coinbase:5m9wv3m28yjw:3nfx517z6fw4",
+      "status:coinbase:gt9nygt10ks5:d9rswcxgn2s6",
+      "status:coinbase:gt9nygt10ks5:9mpns7szy8qn",
+      "status:coinbase:gt9nygt10ks5:wvgn6cq3mnmn",
+      "status:coinbase:gt9nygt10ks5:tbyysl6kxw4m"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6813,7 +6822,9 @@
       "status:kraken:m44tdl2fvbf2:1pknkb59m13y",
       "status:kraken:0cr915nj4ss1:r8ph17xk2k1w",
       "status:kraken:0cr915nj4ss1:zpjj54n1xz76",
-      "status:kraken:0cr915nj4ss1:27k39cqk69bz"
+      "status:kraken:0cr915nj4ss1:27k39cqk69bz",
+      "status:kraken:0cr915nj4ss1:xj87zqdnss0v",
+      "status:kraken:m44tdl2fvbf2:s37mjbfshsjj"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
@@ -6905,7 +6916,8 @@
     "dd-2026111416-XRP3",
     "dd-2026111501-ETH3",
     "weekly-2026-11-16",
-    "fu:binance:77a8571f886c4f1ea665420330b96f58"
+    "fu:binance:77a8571f886c4f1ea665420330b96f58",
+    "dd-2026112020-BTC3"
   ],
   "sources": {
     "ai:claude": {
