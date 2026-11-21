@@ -1080,222 +1080,10 @@
         }
       ],
       "withdrawal": "partial"
-    },
-    "Binance:security_incident:1795123472": {
-      "briefed": false,
-      "closed_reason": null,
-      "entity": "Binance",
-      "event_type": "security_incident",
-      "ext": {
-        "dropped": 0,
-        "entity": "Binance",
-        "event_type": "security_incident",
-        "facts": [
-          {
-            "source_quote": "Binance Wins $6.5B Freezing Order Over Hack",
-            "text": "Binance won a freezing order worth $6.5B over a hack, as reported in the headline. The article does not state the hack's date or the exact amount stolen."
-          },
-          {
-            "source_quote": "An Abu Dhabi court's worldwide injunction targets the unknown hackers",
-            "text": "An Abu Dhabi court issued a worldwide injunction targeting the unknown hackers."
-          },
-          {
-            "source_quote": "26,000 wallets holding stolen funds",
-            "text": "The injunction is backed by a living list of 26,000 wallets holding stolen funds."
-          }
-        ],
-        "is_correction": false,
-        "is_scheduled_maintenance": false,
-        "metrics": [
-          {
-            "actor": "",
-            "currency": "USD",
-            "source_quote": "Binance Wins $6.5B Freezing Order",
-            "type": "estimated_impact",
-            "value": 6500000000
-          }
-        ],
-        "withdrawal_status": {
-          "assets": [],
-          "scope": "unknown",
-          "source_quote": "",
-          "status": "unknown"
-        }
-      },
-      "item": {
-        "id": "media:https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-        "official": false,
-        "source": "Decrypt",
-        "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-        "ts": 1795093154,
-        "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain"
-      },
-      "key": "Binance:security_incident:1795123472",
-      "last": 1795123472,
-      "media": [
-        {
-          "id": "media:https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain",
-          "official": false,
-          "source": "Decrypt",
-          "title": "Binance Wins $6.5B Freezing Order Over Hack That Can Be Served via the Blockchain",
-          "ts": 1795093154,
-          "url": "https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain"
-        }
-      ],
-      "metrics": {},
-      "official": false,
-      "opened": 1795123472,
-      "status": "open",
-      "updates": [],
-      "withdrawal": "unknown"
     }
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 17:40:00 +0000",
-        "ts": 1794505200,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
-      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-      "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 17:46:02 +0000",
-        "ts": 1794505562,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions.",
-      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
-      "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 18:03:57 +0000",
-        "ts": 1794506637,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
-      "title": "NYDFS sets fresh advertising standards for crypto firms",
-      "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 20:02:00 +0000",
-        "ts": 1794513720,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform. On November 4, $CNTN became the first U.S. equity to trade under the SEC’s Innovation Exemption. Five […]",
-      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
-      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 20:36:03 +0000",
-        "ts": 1794515763,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
-      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
-      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 21:26:03 +0000",
-        "ts": 1794518763,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying.",
-      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-      "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 21:44:30 +0000",
-        "ts": 1794519870,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
-      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
-      "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 22:06:03 +0000",
-        "ts": 1794521163,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls—as the DOJ also moves to seize $1.2 billion from the Binance hack.",
-      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 22:36:02 +0000",
-        "ts": 1794522962,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
-      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
-      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 22:40:22 +0000",
-        "ts": 1794523222,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
-      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
-      "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 22:47:41 +0000",
-        "ts": 1794523661,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
-      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 22:55:52 +0000",
-        "ts": 1794524152,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
-      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto"
-    },
     {
       "published": {
         "raw": "Fri, 13 Nov 2026 03:37:00 +0000",
@@ -4655,6 +4443,30 @@
       "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certificates and filings—to defraud U.S. investors of more than $37 million.",
       "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
       "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 17:50:00 +0000",
+        "ts": 1795283400,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 18:01:02 +0000",
+        "ts": 1795284062,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump"
     }
   ],
   "seen": {
@@ -4905,7 +4717,8 @@
       "bybit:10158",
       "bybit:10164",
       "bybit:10165",
-      "bybit:10166"
+      "bybit:10166",
+      "bybit:10167"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5910,7 +5723,11 @@
       "media:https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
       "media:https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
       "media:https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "media:https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec"
+      "media:https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "media:https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "media:https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "media:https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "media:https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6443,7 +6260,8 @@
       "status:kraken:0cr915nj4ss1:27k39cqk69bz",
       "status:kraken:0cr915nj4ss1:xj87zqdnss0v",
       "status:kraken:m44tdl2fvbf2:s37mjbfshsjj",
-      "status:kraken:6yrrplqc5yv0:r39f4nfwtv7t"
+      "status:kraken:6yrrplqc5yv0:r39f4nfwtv7t",
+      "status:kraken:zwvwwl4ykp8f:zlngkp8wkzw0"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
