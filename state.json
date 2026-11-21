@@ -135,23 +135,23 @@
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "84779.73",
-      "anchor_time": 1792616400,
-      "level": 3
+      "anchor_high": "83420.25",
+      "anchor_time": 1792634400,
+      "level": 2
     },
     "ETH": {
-      "anchor_high": "2499.6",
-      "anchor_time": 1792616400,
+      "anchor_high": "2451.93",
+      "anchor_time": 1792634400,
       "level": 3
     },
     "SOL": {
-      "anchor_high": "108.36",
-      "anchor_time": 1792616400,
+      "anchor_high": "106.17",
+      "anchor_time": 1792634400,
       "level": 3
     },
     "XRP": {
-      "anchor_high": "1.3859",
-      "anchor_time": 1792616400,
+      "anchor_high": "1.3521",
+      "anchor_time": 1792634400,
       "level": 3
     }
   },
@@ -1152,54 +1152,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 20:32:19 +0000",
-        "ts": 1794429139,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services.",
-      "title": "DogeOS ‘very, very close’ to launching DeFi features, app layer for Dogecoin: CEO",
-      "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 21:16:03 +0000",
-        "ts": 1794431763,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 21:46:03 +0000",
-        "ts": 1794433563,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
-      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
-      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty"
-    },
-    {
-      "published": {
-        "raw": "Wed, 11 Nov 2026 22:06:47 +0000",
-        "ts": 1794434807,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks.",
-      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
-      "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427"
-    },
     {
       "published": {
         "raw": "Thu, 12 Nov 2026 02:25:14 +0000",
@@ -5063,6 +5015,30 @@
       "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets.",
       "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
       "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 20:36:54 +0000",
+        "ts": 1795207014,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation.",
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting"
+    },
+    {
+      "published": {
+        "raw": "Fri, 20 Nov 2026 22:05:31 +0000",
+        "ts": 1795212331,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
+      "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
     }
   ],
   "seen": {
@@ -5309,7 +5285,8 @@
       "bybit:10154",
       "bybit:10155",
       "bybit:10156",
-      "bybit:10157"
+      "bybit:10157",
+      "bybit:10158"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -6299,7 +6276,12 @@
       "media:https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
       "media:https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
       "media:https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
-      "media:https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779"
+      "media:https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+      "media:https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+      "media:https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "media:https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+      "media:https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "media:https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6566,7 +6548,14 @@
       "status:coinbase:gt9nygt10ks5:d9rswcxgn2s6",
       "status:coinbase:gt9nygt10ks5:9mpns7szy8qn",
       "status:coinbase:gt9nygt10ks5:wvgn6cq3mnmn",
-      "status:coinbase:gt9nygt10ks5:tbyysl6kxw4m"
+      "status:coinbase:gt9nygt10ks5:tbyysl6kxw4m",
+      "status:coinbase:gt9nygt10ks5:y9bq5tszyjmd",
+      "status:coinbase:gt9nygt10ks5:kq1wwv58y27n",
+      "status:coinbase:gt9nygt10ks5:b010gdp4gp3t",
+      "status:coinbase:gt9nygt10ks5:8p9fqldclr78",
+      "status:coinbase:sgsgw21dz2jb:t3z26j8w6kgg",
+      "status:coinbase:sgsgw21dz2jb:8wnzghrfh1h6",
+      "status:coinbase:sgsgw21dz2jb:cwqxbbkmg3sd"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6824,7 +6813,8 @@
       "status:kraken:0cr915nj4ss1:zpjj54n1xz76",
       "status:kraken:0cr915nj4ss1:27k39cqk69bz",
       "status:kraken:0cr915nj4ss1:xj87zqdnss0v",
-      "status:kraken:m44tdl2fvbf2:s37mjbfshsjj"
+      "status:kraken:m44tdl2fvbf2:s37mjbfshsjj",
+      "status:kraken:6yrrplqc5yv0:r39f4nfwtv7t"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
