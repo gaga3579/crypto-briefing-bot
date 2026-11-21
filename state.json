@@ -135,23 +135,23 @@
   ],
   "coins": {
     "BTC": {
-      "anchor_high": "83420.25",
-      "anchor_time": 1792634400,
+      "anchor_high": "82094.85",
+      "anchor_time": 1792663200,
       "level": 2
     },
     "ETH": {
-      "anchor_high": "2451.93",
-      "anchor_time": 1792634400,
+      "anchor_high": "2448.26",
+      "anchor_time": 1793804400,
       "level": 3
     },
     "SOL": {
-      "anchor_high": "106.17",
-      "anchor_time": 1792634400,
+      "anchor_high": "105.16",
+      "anchor_time": 1792674000,
       "level": 3
     },
     "XRP": {
-      "anchor_high": "1.3521",
-      "anchor_time": 1792634400,
+      "anchor_high": "1.3431",
+      "anchor_time": 1793217600,
       "level": 3
     }
   },
@@ -1152,126 +1152,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 02:25:14 +0000",
-        "ts": 1794450314,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "The digital asset treasury firm posted $3.4 million in quarterly revenue, compared with $697,000 in the same period last year.",
-      "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
-      "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 04:03:47 +0000",
-        "ts": 1794456227,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
-      "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
-      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 04:55:00 +0000",
-        "ts": 1794459300,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
-      "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 05:18:43 +0000",
-        "ts": 1794460723,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
-      "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-      "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 05:22:31 +0000",
-        "ts": 1794460951,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
-      "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-      "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 07:00:37 +0000",
-        "ts": 1794466837,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts.",
-      "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-      "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 07:27:24 +0000",
-        "ts": 1794468444,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.",
-      "title": "Ethlabs proposes advancing Ethereum’s post-quantum to 2027, citing AI acceleration",
-      "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 07:41:18 +0000",
-        "ts": 1794469278,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end.",
-      "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-      "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 09:07:00 +0000",
-        "ts": 1794474420,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business.",
-      "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-      "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million"
-    },
-    {
-      "published": {
-        "raw": "Thu, 12 Nov 2026 09:15:04 +0000",
-        "ts": 1794474904,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000.",
-      "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-      "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets"
-    },
     {
       "published": {
         "raw": "Thu, 12 Nov 2026 10:10:48 +0000",
@@ -5039,6 +4919,54 @@
       "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency’s five-year \"innovation exemption\" for tokenized trading.",
       "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
       "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 04:10:07 +0000",
+        "ts": 1795234207,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 04:30:00 +0000",
+        "ts": 1795235400,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+      "title": "JPMorgan says bitcoin’s price drop pressures miners, Senate passes ‘Death Bets Act’, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 05:59:19 +0000",
+        "ts": 1795240759,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
+    },
+    {
+      "published": {
+        "raw": "Sat, 21 Nov 2026 06:16:42 +0000",
+        "ts": 1795241802,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block’s Spiral that uses AI agents to examine bitcoin code.",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
     }
   ],
   "seen": {
@@ -5286,7 +5214,9 @@
       "bybit:10155",
       "bybit:10156",
       "bybit:10157",
-      "bybit:10158"
+      "bybit:10158",
+      "bybit:10164",
+      "bybit:10165"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -6281,7 +6211,11 @@
       "media:https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
       "media:https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
       "media:https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "media:https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange"
+      "media:https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "media:https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+      "media:https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "media:https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
