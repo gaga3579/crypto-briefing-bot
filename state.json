@@ -131,6 +131,13 @@
       "kind": "drawdown",
       "summary": "하락 브리핑(시장 전반): BTC −30%",
       "ts": 1795204815
+    },
+    {
+      "id": "weekly-2026-11-23",
+      "incident": null,
+      "kind": "weekly",
+      "summary": "주간 요약 (2026-11-23)",
+      "ts": 1795394764
     }
   ],
   "coins": {
@@ -145,8 +152,8 @@
       "level": 3
     },
     "SOL": {
-      "anchor_high": "104.03",
-      "anchor_time": 1792789200,
+      "anchor_high": "103.77",
+      "anchor_time": 1793217600,
       "level": 3
     },
     "XRP": {
@@ -1084,54 +1091,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Fri, 13 Nov 2026 19:36:03 +0000",
-        "ts": 1794598563,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
-      "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
-      "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years"
-    },
-    {
-      "published": {
-        "raw": "Fri, 13 Nov 2026 20:16:03 +0000",
-        "ts": 1794600963,
-        "tz_assumed": false
-      },
-      "score": 4,
-      "source": "Decrypt",
-      "summary": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners.",
-      "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion"
-    },
-    {
-      "published": {
-        "raw": "Fri, 13 Nov 2026 21:36:03 +0000",
-        "ts": 1794605763,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
-      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
-      "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight"
-    },
-    {
-      "published": {
-        "raw": "Fri, 13 Nov 2026 23:30:00 +0000",
-        "ts": 1794612600,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out"
-    },
     {
       "published": {
         "raw": "Sat, 14 Nov 2026 04:30:00 +0000",
@@ -4083,6 +4042,18 @@
       "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
       "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
       "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
+    },
+    {
+      "published": {
+        "raw": "Sun, 22 Nov 2026 19:30:00 +0000",
+        "ts": 1795375800,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
+      "title": "More on the pending oversight hearings: State of Crypto",
+      "url": "https://www.coindesk.com/"
     }
   ],
   "seen": {
@@ -5348,7 +5319,10 @@
       "media:https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
       "media:https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
       "media:https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
-      "media:https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829"
+      "media:https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "media:https://www.coindesk.com/",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "media:https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5884,7 +5858,8 @@
       "status:kraken:6yrrplqc5yv0:r39f4nfwtv7t",
       "status:kraken:zwvwwl4ykp8f:zlngkp8wkzw0",
       "status:kraken:nmm6jvc0tllc:0m1kg9t3r17f",
-      "status:kraken:nmm6jvc0tllc:rfswyrzm2m1x"
+      "status:kraken:nmm6jvc0tllc:rfswyrzm2m1x",
+      "status:kraken:nmm6jvc0tllc:mxr9wkjd5n1n"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
@@ -5977,7 +5952,8 @@
     "dd-2026111501-ETH3",
     "weekly-2026-11-16",
     "fu:binance:77a8571f886c4f1ea665420330b96f58",
-    "dd-2026112020-BTC3"
+    "dd-2026112020-BTC3",
+    "weekly-2026-11-23"
   ],
   "sources": {
     "ai:claude": {
@@ -6075,5 +6051,5 @@
   },
   "unsent": [],
   "version": 1,
-  "weekly_last": "2026-11-16"
+  "weekly_last": "2026-11-23"
 }
