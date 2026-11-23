@@ -1093,30 +1093,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sat, 14 Nov 2026 04:30:00 +0000",
-        "ts": 1794630600,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
-      "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-      "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011"
-    },
-    {
-      "published": {
-        "raw": "Sat, 14 Nov 2026 05:40:00 +0000",
-        "ts": 1794634800,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
-      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304"
-    },
-    {
-      "published": {
         "raw": "Sat, 14 Nov 2026 12:57:00 +0000",
         "ts": 1794661020,
         "tz_assumed": false
@@ -4054,6 +4030,78 @@
       "summary": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up.",
       "title": "More on the pending oversight hearings: State of Crypto",
       "url": "https://www.coindesk.com/"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 04:45:47 +0000",
+        "ts": 1795409147,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout.",
+      "title": "Market rout kills 50 basis points December Fed rate hike bets",
+      "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 05:42:22 +0000",
+        "ts": 1795412542,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "CoinDesk",
+      "summary": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight.",
+      "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 05:47:21 +0000",
+        "ts": 1795412841,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
+      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 07:12:52 +0000",
+        "ts": 1795417972,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Cathie Wood's Ark Invest has bought 1.64 million shares in Anthropic, worth $145.9 million, since its Thursday IPO.",
+      "title": "Ark buys $146 million in Anthropic shares last week, trims Ethereum and Solana Staking ETF holdings",
+      "url": "https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 07:18:45 +0000",
+        "ts": 1795418325,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Stockholm-listed H100 moved a slice of its bitcoin into a derivatives book after an August acquisition and has shed nearly $2 million worth of BTC by the end of September.",
+      "title": "This Swedish bitcoin treasury firm lost 30 BTC trading part of its own stack",
+      "url": "https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 07:45:30 +0000",
+        "ts": 1795419930,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "A malicious ad campaign known as MoldyRoost can compromise vulnerable iPhones with a single tap, putting cryptocurrency wallet seed phrases at risk, according to cybersecurity firm Confiant.",
+      "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
+      "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows"
     }
   ],
   "seen": {
@@ -4306,7 +4354,10 @@
       "bybit:10165",
       "bybit:10166",
       "bybit:10167",
-      "bybit:10168"
+      "bybit:10168",
+      "bybit:10170",
+      "bybit:10171",
+      "bybit:10172"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5322,7 +5373,14 @@
       "media:https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
       "media:https://www.coindesk.com/",
       "media:https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
-      "media:https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838"
+      "media:https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "media:https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
+      "media:https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+      "media:https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
+      "media:https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
+      "media:https://www.theblock.co/news/business/2026-11-23-ark-buys-146-million-worth-anthropic-since-debut-444866",
+      "media:https://www.coindesk.com/markets/2026/11/23/this-swedish-bitcoin-treasury-firm-lost-30-btc-trading-part-of-its-own-stack",
+      "media:https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -5859,7 +5917,8 @@
       "status:kraken:zwvwwl4ykp8f:zlngkp8wkzw0",
       "status:kraken:nmm6jvc0tllc:0m1kg9t3r17f",
       "status:kraken:nmm6jvc0tllc:rfswyrzm2m1x",
-      "status:kraken:nmm6jvc0tllc:mxr9wkjd5n1n"
+      "status:kraken:nmm6jvc0tllc:mxr9wkjd5n1n",
+      "status:kraken:q7dyg438dmc6:m47sz26cw3jr"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
