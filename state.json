@@ -1176,30 +1176,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sat, 14 Nov 2026 23:07:35 +0000",
-        "ts": 1794697655,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
-    },
-    {
-      "published": {
-        "raw": "Sun, 15 Nov 2026 02:50:57 +0000",
-        "ts": 1794711057,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto"
-    },
-    {
-      "published": {
         "raw": "Sun, 15 Nov 2026 07:00:00 +0000",
         "ts": 1794726000,
         "tz_assumed": false
@@ -4521,6 +4497,78 @@
       "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds such as these.\"",
       "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
       "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 22:00:00 +0000",
+        "ts": 1795471200,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CFTC",
+      "summary": "",
+      "title": "CFTC Staff Issues Advisory Concerning the Use of Crypto Assets to Satisfy Financial Resources Requirements",
+      "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 22:15:12 +0000",
+        "ts": 1795472112,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Grayscale’s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.",
+      "title": "Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble",
+      "url": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407"
+    },
+    {
+      "published": {
+        "raw": "Mon, 23 Nov 2026 22:18:02 +0000",
+        "ts": 1795472282,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Grayscale said bitcoin's drop to about $55,000 on Saturday made the current bear market its longest on record, at least 411 days.",
+      "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 00:25:04 +0000",
+        "ts": 1795479904,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements.",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 00:33:22 +0000",
+        "ts": 1795480402,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 03:05:45 +0000",
+        "ts": 1795489545,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448"
     }
   ],
   "seen": {
@@ -4784,7 +4832,9 @@
       "bybit:10177",
       "bybit:10178",
       "bybit:10179",
-      "bybit:10180"
+      "bybit:10180",
+      "bybit:10181",
+      "bybit:10182"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -4813,15 +4863,6 @@
       "kraken-blog:https://blog.kraken.com/product/kraken-derivatives/us-fractional-crypto-perps"
     ],
     "media": [
-      "media:https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
-      "media:https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
-      "media:https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets",
-      "media:https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
-      "media:https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-      "media:https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
-      "media:https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
-      "media:https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
-      "media:https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
       "media:https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
       "media:https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
       "media:https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
@@ -5812,7 +5853,16 @@
       "media:https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
       "media:https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
       "media:https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
-      "media:https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers"
+      "media:https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "media:https://decrypt.co/383846/why-one-math-proof-ai-experts-warning-humans-lose-control",
+      "media:https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "media:https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+      "media:https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+      "media:https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+      "media:https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "media:https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "media:https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+      "media:https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6355,7 +6405,9 @@
       "status:kraken:xtqfqd49s6gz:30h87dbywkzv",
       "status:kraken:j7sd1r3xvmx2:rt6zj5d12wsk",
       "status:kraken:xtqfqd49s6gz:k76zyvltcl10",
-      "status:kraken:xtqfqd49s6gz:l3t1nk6vdyrn"
+      "status:kraken:xtqfqd49s6gz:l3t1nk6vdyrn",
+      "status:kraken:k4nsdzmry0q7:trmtswb4k100",
+      "status:kraken:k4nsdzmry0q7:d5x4gfwh8d7m"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
@@ -6458,8 +6510,8 @@
       "since": "2026-11-11T05:58:34Z"
     },
     "chain:BTC": {
-      "ok": false,
-      "since": "2026-11-23T21:13:54Z"
+      "ok": true,
+      "since": "2026-11-24T05:55:53Z"
     },
     "chain:ETH": {
       "ok": true,
