@@ -1200,30 +1200,6 @@
   "news": [
     {
       "published": {
-        "raw": "Sun, 15 Nov 2026 19:30:00 +0000",
-        "ts": 1794771000,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto"
-    },
-    {
-      "published": {
-        "raw": "Sun, 15 Nov 2026 21:57:53 +0000",
-        "ts": 1794779873,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
-      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
-      "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807"
-    },
-    {
-      "published": {
         "raw": "Mon, 16 Nov 2026 05:01:17 +0000",
         "ts": 1794805277,
         "tz_assumed": false
@@ -4905,6 +4881,138 @@
       "summary": "Europol traced more than €26 million ($28.5 million) in crypto transactions during an investigation into illegal IPTV services.",
       "title": "Europol operation involving Binance, Coinbase and Chainalysis traces more than $28.5 million in crypto behind illegal streaming services",
       "url": "https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 17:42:29 +0000",
+        "ts": 1795542149,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward trend, nearly dropping to single digits. Bitcoin’s price hit a local high of $87k after rising from its summer lows and has returned to the level of around $59k at […]",
+      "title": "We’ve Entered Peak FEAR; SKY Falls",
+      "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 17:45:22 +0000",
+        "ts": 1795542322,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does.",
+      "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+      "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 18:16:02 +0000",
+        "ts": 1795544162,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates",
+      "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+      "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 18:35:02 +0000",
+        "ts": 1795545302,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
+      "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
+      "url": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 18:36:03 +0000",
+        "ts": 1795545363,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore.",
+      "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+      "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 18:55:27 +0000",
+        "ts": 1795546527,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "Decrypt",
+      "summary": "Staff guidance lets swap venues and clearinghouses count Bitcoin, Ethereum, and stablecoins toward their 12-month operating-cost buffer. Here's the catch.",
+      "title": "What the CFTC’s New Crypto Reserves Guidance Actually Allows—And What It Doesn’t",
+      "url": "https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 19:35:32 +0000",
+        "ts": 1795548932,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin slipped below $60,000 as realized losses nearly doubled in a week. Glassnode says the sell-off resembles past market bottoms, but another drop to $53,200 could be in the cards.",
+      "title": "Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?",
+      "url": "https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 20:36:02 +0000",
+        "ts": 1795552562,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "The Ethereum Foundation has doubled its protocol security team and is prioritizing a cryptographic overhaul as advances in AI threaten the mathematical assumptions that keep billions in crypto safe.",
+      "title": "Ethereum Foundation Says AI Is a More Urgent Threat Than Quantum Computing",
+      "url": "https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 20:53:14 +0000",
+        "ts": 1795553594,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
+      "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 21:16:02 +0000",
+        "ts": 1795554962,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Coinkite’s postmortem reveals a software random-number generator shipped in place of the hardware one for over five years, slipping past at least 15 reviews.",
+      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits"
+    },
+    {
+      "published": {
+        "raw": "Tue, 24 Nov 2026 22:10:45 +0000",
+        "ts": 1795558245,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
+      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061"
     }
   ],
   "seen": {
@@ -4999,7 +5107,8 @@
       "binance:d3aa0084d3854c3592600ac2dbda0ad6",
       "binance:0a9406ec25f44a97b82747ca199ed942",
       "binance:2b1c265568194d4ebb1832002d818414",
-      "binance:78b6f0bed8de4ce7be1583ce1c27b7cf"
+      "binance:78b6f0bed8de4ce7be1583ce1c27b7cf",
+      "binance:6c580eb861774e5aaf99d1736c8f582e"
     ],
     "bybit": [
       "bybit:9996",
@@ -5176,7 +5285,9 @@
       "bybit:10182",
       "bybit:10183",
       "bybit:10184",
-      "bybit:10185"
+      "bybit:10185",
+      "bybit:10186",
+      "bybit:10191"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5202,25 +5313,10 @@
       "kraken-blog:https://blog.kraken.com/product/promotions/antx-trading-challenge",
       "kraken-blog:https://blog.kraken.com/product/promotions/500k-holiday-deposit-sweepstakes",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/bfi-is-available-for-trading",
-      "kraken-blog:https://blog.kraken.com/product/kraken-derivatives/us-fractional-crypto-perps"
+      "kraken-blog:https://blog.kraken.com/product/kraken-derivatives/us-fractional-crypto-perps",
+      "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases"
     ],
     "media": [
-      "media:https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
-      "media:https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
-      "media:https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
-      "media:https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
-      "media:https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
-      "media:https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
-      "media:https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-      "media:https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-      "media:https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
-      "media:https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
-      "media:https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
-      "media:https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
-      "media:https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
-      "media:https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
-      "media:https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
-      "media:https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
       "media:https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
       "media:https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
       "media:https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
@@ -6204,7 +6300,23 @@
       "media:https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
       "media:https://www.theblock.co/news/regulation/2026-11-24-europol-operation-binance-coinbase-chainalysis-traces-28-5-million-crypto-illegal-streaming-services-446019",
       "media:https://www.theblock.co/news/defi/2026-11-24-ansem-denies-involvement-2-57-million-wallet-drain-black-bull-creator-coin-plummets-55-445705",
-      "media:https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030"
+      "media:https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
+      "media:https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
+      "media:https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
+      "media:https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
+      "media:https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+      "media:https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
+      "media:https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
+      "media:https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
+      "media:https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
+      "media:https://decrypt.co/383906/cftc-new-crypto-reserves-guidance-actually-allows-what-it-doesnt",
+      "media:https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near",
+      "media:https://decrypt.co/383927/ethereum-foundation-ai-more-urgent-threat-quantum-computing",
+      "media:https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
+      "media:https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "media:https://decrypt.co/383929/anthropic-claude-ship-ai-write-review-approve-own-code",
+      "media:https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+      "media:https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6479,7 +6591,10 @@
       "status:coinbase:sgsgw21dz2jb:t3z26j8w6kgg",
       "status:coinbase:sgsgw21dz2jb:8wnzghrfh1h6",
       "status:coinbase:sgsgw21dz2jb:cwqxbbkmg3sd",
-      "status:coinbase:kb17f50vp0tb:rn3mw6vfc77n"
+      "status:coinbase:kb17f50vp0tb:rn3mw6vfc77n",
+      "status:coinbase:kb17f50vp0tb:rhqwbcnb6mfc",
+      "status:coinbase:kb17f50vp0tb:k1mgyfz3qgbc",
+      "status:coinbase:kb17f50vp0tb:b1w0grncsdqg"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6753,7 +6868,9 @@
       "status:kraken:k4nsdzmry0q7:d5x4gfwh8d7m",
       "status:kraken:n6qwq0c2ht7d:x3hp3zffq2rv",
       "status:kraken:n6qwq0c2ht7d:hgdmmbz13dby",
-      "status:kraken:n6qwq0c2ht7d:j34v80jdfk03"
+      "status:kraken:n6qwq0c2ht7d:j34v80jdfk03",
+      "status:kraken:sxwz18y77ngb:pv93qtfkcg8t",
+      "status:kraken:sxwz18y77ngb:csb5bhgmdfvy"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
