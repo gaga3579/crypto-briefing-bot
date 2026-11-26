@@ -1208,198 +1208,6 @@
   "news": [
     {
       "published": {
-        "raw": "Tue, 17 Nov 2026 15:11:00 +0000",
-        "ts": 1794928260,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money.",
-      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 15:30:37 +0000",
-        "ts": 1794929437,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions.",
-      "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-      "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 15:53:25 +0000",
-        "ts": 1794930805,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "Anchorage clients can pledge bitcoin and stablecoins held at its federally chartered bank as margin on Kalshi Prime's CFTC-regulated venue.",
-      "title": "Anchorage, Kalshi Prime let institutions use custodied bitcoin as margin",
-      "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 16:35:07 +0000",
-        "ts": 1794933307,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Alpaca co-founder Hitoshi Harada said its Instant Tokenization Network has surpassed $10 billion in cumulative minting and redemption volume.",
-      "title": "Alpaca says tokenization network tops $10 billion in minting and redemption volume",
-      "url": "https://www.theblock.co/news/business/2026-11-17-alpaca-says-tokenization-network-tops-10-billion-minting-redemption-volume-442667"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 16:41:38 +0000",
-        "ts": 1794933698,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523.",
-      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
-      "url": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 17:00:05 +0000",
-        "ts": 1794934805,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI.",
-      "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-      "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 17:15:23 +0000",
-        "ts": 1794935723,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "NVDA Speculatooors onchain On the off chance you haven’t heard, Nvidia CEO and co-founder Jensen Huang resigned from his post after admitting he was unfaithful to his wife. Needless to say, markets have reacted violently. Onchain perpetuals traded $8.7 billion on Nov. 12, the day Jensen Huang resigned as CEO, roughly 20x the daily average […]",
-      "title": "Everyone is Trading Tokenized Nvidia Derivatives",
-      "url": "https://www.theblock.co/newsletters/data-and-insights/2026-11-17-everyone-is-trading-tokenized-nvidia-derivatives-442818"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 17:18:41 +0000",
-        "ts": 1794935921,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "Decrypt",
-      "summary": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts.",
-      "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-      "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 18:00:02 +0000",
-        "ts": 1794938402,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "The Block",
-      "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral.",
-      "title": "Coinbase expands onchain crypto loans to New York via Morpho",
-      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 19:26:02 +0000",
-        "ts": 1794943562,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps.",
-      "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
-      "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 19:29:15 +0000",
-        "ts": 1794943755,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
-      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 19:45:57 +0000",
-        "ts": 1794944757,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
-      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-      "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 19:46:03 +0000",
-        "ts": 1794944763,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.",
-      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
-      "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 20:36:03 +0000",
-        "ts": 1794947763,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range.",
-      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-      "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 20:56:03 +0000",
-        "ts": 1794948963,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
-      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
-      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments"
-    },
-    {
-      "published": {
-        "raw": "Tue, 17 Nov 2026 23:32:46 +0000",
-        "ts": 1794958366,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
-      "title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
-      "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909"
-    },
-    {
-      "published": {
         "raw": "Wed, 18 Nov 2026 00:46:25 +0000",
         "ts": 1794962785,
         "tz_assumed": false
@@ -4865,6 +4673,102 @@
       "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
       "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
       "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 15:42:43 +0000",
+        "ts": 1795707763,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 16:18:24 +0000",
+        "ts": 1795709904,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 16:43:02 +0000",
+        "ts": 1795711382,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 16:50:23 +0000",
+        "ts": 1795711823,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 17:30:00 +0000",
+        "ts": 1795714200,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 17:32:00 +0000",
+        "ts": 1795714320,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller said that central bank money needs to stay […]",
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 18:15:29 +0000",
+        "ts": 1795716929,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 21:01:03 +0000",
+        "ts": 1795726863,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys"
     }
   ],
   "seen": {
@@ -4966,7 +4870,8 @@
       "binance:76c2604849594621bb5407528d987209",
       "binance:44edf62f435a45ebb5dbc890f827e156",
       "binance:f772e3f5f17d4c6894947614ff8b82ef",
-      "binance:3da43652eac54b69a09f8be2ad5743c2"
+      "binance:3da43652eac54b69a09f8be2ad5743c2",
+      "binance:95c463396a034f1ab3994814225e6d69"
     ],
     "bybit": [
       "bybit:9996",
@@ -5181,17 +5086,6 @@
       "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases"
     ],
     "media": [
-      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
-      "media:https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
-      "media:https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
-      "media:https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
-      "media:https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
-      "media:https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
-      "media:https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
-      "media:https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
-      "media:https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
-      "media:https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-      "media:https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
       "media:https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
       "media:https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
       "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
@@ -6180,7 +6074,18 @@
       "media:https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
       "media:https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
       "media:https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
-      "media:https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion"
+      "media:https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+      "media:https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "media:https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "media:https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "media:https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "media:https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "media:https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "media:https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "media:https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "media:https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+      "media:https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "media:https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6748,7 +6653,9 @@
       "status:kraken:zn68hn8ytn43:x5nz3jfr5z89",
       "status:kraken:91v7w0wckz6g:9fl8lh0wwh4t",
       "status:kraken:sxwz18y77ngb:nf1vlvggkywb",
-      "status:kraken:1n8qtknpxrd7:q6v9csml3sms"
+      "status:kraken:1n8qtknpxrd7:q6v9csml3sms",
+      "status:kraken:sxwz18y77ngb:yrkbjzdgq5jf",
+      "status:kraken:xtqfqd49s6gz:fzbwrf5p35cw"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
