@@ -1200,18 +1200,6 @@
   "news": [
     {
       "published": {
-        "raw": "Mon, 16 Nov 2026 23:27:15 +0000",
-        "ts": 1794871635,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
-      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-      "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591"
-    },
-    {
-      "published": {
         "raw": "Tue, 17 Nov 2026 05:02:05 +0000",
         "ts": 1794891725,
         "tz_assumed": false
@@ -4953,6 +4941,42 @@
       "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
       "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
       "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 02:22:43 +0000",
+        "ts": 1795659763,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+      "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+      "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 03:03:01 +0000",
+        "ts": 1795662181,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "The current 119th Congress is expected to adjourn in the coming weeks, leaving little time for full passage before the session ends.",
+      "title": "House Committee advances Strategic Bitcoin Reserve bill with narrow path to passage",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778"
+    },
+    {
+      "published": {
+        "raw": "Thu, 26 Nov 2026 04:46:01 +0000",
+        "ts": 1795668361,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "A bill to codify Trump’s Strategic Bitcoin Reserve has cleared committee and is eligible for a House vote, but it faces a tight deadline.",
+      "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+      "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
     }
   ],
   "seen": {
@@ -5265,10 +5289,6 @@
       "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases"
     ],
     "media": [
-      "media:https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
-      "media:https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
-      "media:https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
-      "media:https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
       "media:https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
       "media:https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
       "media:https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
@@ -6264,7 +6284,11 @@
       "media:https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
       "media:https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
       "media:https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-      "media:https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756"
+      "media:https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "media:https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "media:https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+      "media:https://www.theblock.co/news/regulation/2026-11-25-house-committee-advances-strategic-bitcoin-reserve-bill-446778",
+      "media:https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6542,7 +6566,11 @@
       "status:coinbase:kb17f50vp0tb:rn3mw6vfc77n",
       "status:coinbase:kb17f50vp0tb:rhqwbcnb6mfc",
       "status:coinbase:kb17f50vp0tb:k1mgyfz3qgbc",
-      "status:coinbase:kb17f50vp0tb:b1w0grncsdqg"
+      "status:coinbase:kb17f50vp0tb:b1w0grncsdqg",
+      "status:coinbase:llmzmlbtsrmn:rgdqxc56cl70",
+      "status:coinbase:llmzmlbtsrmn:45g4sdbrhfqb",
+      "status:coinbase:llmzmlbtsrmn:1mp4k2jybl3s",
+      "status:coinbase:llmzmlbtsrmn:tyzp89xsm3ws"
     ],
     "status:kraken": [
       "status:kraken:074rbtn08wzw:wdjylp0m5j5v",
@@ -6825,7 +6853,8 @@
       "status:kraken:q7dyg438dmc6:29sy37qjnz6d",
       "status:kraken:zwvwwl4ykp8f:wwx0fjk6lvlq",
       "status:kraken:yshfxnffsgl2:5dkx459vf137",
-      "status:kraken:zn68hn8ytn43:x5nz3jfr5z89"
+      "status:kraken:zn68hn8ytn43:x5nz3jfr5z89",
+      "status:kraken:91v7w0wckz6g:9fl8lh0wwh4t"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
