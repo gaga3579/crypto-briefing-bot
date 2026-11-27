@@ -170,7 +170,7 @@
     }
   },
   "depeg": {},
-  "heartbeat": "2026-11-27",
+  "heartbeat": "2026-11-28",
   "incidents": {
     "Binance:security_incident:1793375480": {
       "briefed": true,
@@ -1202,6 +1202,14 @@
           "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
           "ts": 1795754747,
           "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+        },
+        {
+          "id": "media:https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+          "official": false,
+          "source": "Decrypt",
+          "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+          "ts": 1795785857,
+          "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
         }
       ],
       "metrics": {},
@@ -1214,330 +1222,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 08:43:02 +0000",
-        "ts": 1794991382,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "HKMA Executive Director Raymond Chan said AI could help analyze both onchain transfers and offchain customer transactions to flag anomalies.",
-      "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
-      "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 09:14:15 +0000",
-        "ts": 1794993255,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot.",
-      "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
-      "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 09:31:41 +0000",
-        "ts": 1794994301,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart.",
-      "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
-      "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 10:17:17 +0000",
-        "ts": 1794997037,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders.",
-      "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
-      "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 10:58:36 +0000",
-        "ts": 1794999516,
-        "tz_assumed": false
-      },
-      "score": 3,
-      "source": "CoinDesk",
-      "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March.",
-      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 11:08:27 +0000",
-        "ts": 1795000107,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "TD Cowen said staking rewards drove a modest increase in Sharplink’s ETH holdings as it took a more conservative view of ether’s price path.",
-      "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
-      "url": "https://www.theblock.co/news/ecosystems/2026-11-18-td-cowen-maintains-buy-rating-sharplink-442987"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 11:42:52 +0000",
-        "ts": 1795002172,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings.",
-      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:10:27 +0000",
-        "ts": 1795003827,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms.",
-      "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
-      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:15:00 +0000",
-        "ts": 1795004100,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Your day-ahead look for Nov. 18, 2026",
-      "title": "Blaming Anthropic’s IPO for bitcoin’s slide is 'easy to believe,' but flawed, analysts say",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:25:14 +0000",
-        "ts": 1795004714,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems.",
-      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
-      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:41:09 +0000",
-        "ts": 1795005669,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin.",
-      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:45:37 +0000",
-        "ts": 1795005937,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats’ subpoena plans, fading interest, and a heavy unlock schedule.",
-      "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
-      "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 12:53:34 +0000",
-        "ts": 1795006414,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure.",
-      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 14:01:54 +0000",
-        "ts": 1795010514,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection.",
-      "title": "‘Gift from the market’: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
-      "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 14:20:52 +0000",
-        "ts": 1795011652,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin.",
-      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-      "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 14:49:00 +0000",
-        "ts": 1795013340,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization.",
-      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
-      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 15:23:18 +0000",
-        "ts": 1795015398,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk.",
-      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
-      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 15:38:38 +0000",
-        "ts": 1795016318,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion.",
-      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
-      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 16:02:54 +0000",
-        "ts": 1795017774,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custody separate, as traditional markets have for decades, and sets out the questions to ask about where assets are held.",
-      "title": "Crypto Long & Short: Crypto exchanges shouldn’t double as the vault",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 16:30:41 +0000",
-        "ts": 1795019441,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
-      "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
-      "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 17:02:41 +0000",
-        "ts": 1795021361,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback.",
-      "title": "Bullish’s Q3 adjusted profit rises 35%, digital asset sales fall 23%",
-      "url": "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 17:13:37 +0000",
-        "ts": 1795022017,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "Bitcoin has dipped below its 200-day and 365-day moving averages of $72,900 and $75,900, respectively, CryptoQuant said.",
-      "title": "CryptoQuant says bitcoin is back in a bearish phase but has reached a ‘value zone’",
-      "url": "https://www.theblock.co/news/markets/2026-11-18-cryptoquant-bitcoin-bearish-value-zone-443471"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 17:22:03 +0000",
-        "ts": 1795022523,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange.",
-      "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-      "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 17:32:13 +0000",
-        "ts": 1795023133,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "Decrypt",
-      "summary": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers.",
-      "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
-      "url": "https://decrypt.co/383536/lucky-trader-banks-66000-profit-on-gta-6-meme-coin-ticker-confusion"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 18:16:02 +0000",
-        "ts": 1795025762,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.",
-      "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
-      "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 18:46:03 +0000",
-        "ts": 1795027563,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "Decrypt",
-      "summary": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms.",
-      "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
-      "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 18:51:30 +0000",
-        "ts": 1795027890,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Ondo’s ANTon token will track Anthropic shares from the day the Claude maker starts trading on Nasdaq.",
-      "title": "Ondo to launch tokenized Anthropic stock on IPO day",
-      "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482"
-    },
     {
       "published": {
         "raw": "Wed, 18 Nov 2026 19:16:02 +0000",
@@ -4741,6 +4425,186 @@
       "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.",
       "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
       "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 09:49:55 +0000",
+        "ts": 1795772995,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "U.S. equity futures extended Wednesday’s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains.",
+      "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 10:00:00 +0000",
+        "ts": 1795773600,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
+      "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+      "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 10:15:51 +0000",
+        "ts": 1795774551,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+      "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+      "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 10:45:02 +0000",
+        "ts": 1795776302,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "The Block",
+      "summary": "Japan’s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system.",
+      "title": "Bank of Japan official says stablecoins need reserve rules to preserve ‘singleness of money’",
+      "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 10:51:27 +0000",
+        "ts": 1795776687,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+      "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+      "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 11:07:17 +0000",
+        "ts": 1795777637,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 11:22:42 +0000",
+        "ts": 1795778562,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 11:34:37 +0000",
+        "ts": 1795779277,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance.",
+      "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+      "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 11:45:47 +0000",
+        "ts": 1795779947,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 12:16:07 +0000",
+        "ts": 1795781767,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Your day-ahead look for Nov. 27, 2026",
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 13:24:17 +0000",
+        "ts": 1795785857,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "Decrypt",
+      "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds.",
+      "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+      "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 13:50:04 +0000",
+        "ts": 1795787404,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead.",
+      "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+      "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 14:24:21 +0000",
+        "ts": 1795789461,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
+      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 18:13:45 +0000",
+        "ts": 1795803225,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+      "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 18:16:03 +0000",
+        "ts": 1795803363,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "Decrypt",
+      "summary": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+      "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means"
     }
   ],
   "seen": {
@@ -4847,7 +4711,8 @@
       "binance:2125a821be8f480b99d46c7c82b12958",
       "binance:baba2b45cbc249dfa06deaf75df552ea",
       "binance:e0bb9f905db04290b72430ced6f4aae7",
-      "binance:b107485f11c445bf93bf877b8472c9d5"
+      "binance:b107485f11c445bf93bf877b8472c9d5",
+      "binance:b3fb3864ae1743ce8a2c4eb3417e09f4"
     ],
     "bybit": [
       "bybit:9996",
@@ -5034,7 +4899,11 @@
       "bybit:10196",
       "bybit:10197",
       "bybit:10198",
-      "bybit:10199"
+      "bybit:10199",
+      "bybit:10200",
+      "bybit:10201",
+      "bybit:10202",
+      "bybit:10203"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5061,30 +4930,10 @@
       "kraken-blog:https://blog.kraken.com/product/promotions/500k-holiday-deposit-sweepstakes",
       "kraken-blog:https://blog.kraken.com/product/asset-listings/bfi-is-available-for-trading",
       "kraken-blog:https://blog.kraken.com/product/kraken-derivatives/us-fractional-crypto-perps",
-      "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases"
+      "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases",
+      "kraken-blog:https://blog.kraken.com/product/promotions/100000-kraken-pro-xstocks-trading-challenge"
     ],
     "media": [
-      "media:https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
-      "media:https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
-      "media:https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
-      "media:https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
-      "media:https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
-      "media:https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-      "media:https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
-      "media:https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
-      "media:https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-      "media:https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
-      "media:https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
-      "media:https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
-      "media:https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
-      "media:https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-      "media:https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-      "media:https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-      "media:https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
-      "media:https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
-      "media:https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-      "media:https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
       "media:https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
       "media:https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
       "media:https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
@@ -6063,7 +5912,28 @@
       "media:https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
       "media:https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
       "media:https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
-      "media:https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051"
+      "media:https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "media:https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+      "media:https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+      "media:https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+      "media:https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+      "media:https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+      "media:https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+      "media:https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+      "media:https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "media:https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+      "media:https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+      "media:https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+      "media:https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+      "media:https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+      "media:https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+      "media:https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+      "media:https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+      "media:https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+      "media:https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+      "media:https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+      "media:https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6636,7 +6506,12 @@
       "status:kraken:xtqfqd49s6gz:fzbwrf5p35cw",
       "status:kraken:j7sd1r3xvmx2:krltf39pp5zd",
       "status:kraken:1n8qtknpxrd7:b277fd4v90z0",
-      "status:kraken:1n8qtknpxrd7:1jtgbsx9h4l7"
+      "status:kraken:1n8qtknpxrd7:1jtgbsx9h4l7",
+      "status:kraken:fj8rtq8hh1cz:d381pdptrjw2",
+      "status:kraken:fj8rtq8hh1cz:2bh4yr0gwcr9",
+      "status:kraken:fj8rtq8hh1cz:x1nw0h3lx340",
+      "status:kraken:fj8rtq8hh1cz:yf241528v5j0",
+      "status:kraken:fj8rtq8hh1cz:kc2yj0qlbsgs"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
