@@ -1194,6 +1194,14 @@
           "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
           "ts": 1795693823,
           "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report"
+        },
+        {
+          "id": "media:https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+          "official": false,
+          "source": "CoinDesk",
+          "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+          "ts": 1795754747,
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
         }
       ],
       "metrics": {},
@@ -1206,114 +1214,6 @@
   },
   "liveness": {},
   "news": [
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 00:46:25 +0000",
-        "ts": 1794962785,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
-      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-      "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 02:40:00 +0000",
-        "ts": 1794969600,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
-      "title": "What’s happening to crypto startup valuations?",
-      "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 02:47:51 +0000",
-        "ts": 1794970071,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
-      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
-      "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 04:21:02 +0000",
-        "ts": 1794975662,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "The Block",
-      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
-      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
-      "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 04:28:37 +0000",
-        "ts": 1794976117,
-        "tz_assumed": false
-      },
-      "score": 1,
-      "source": "CoinDesk",
-      "summary": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit.",
-      "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-      "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 04:34:21 +0000",
-        "ts": 1794976461,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next.",
-      "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months",
-      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 05:01:00 +0000",
-        "ts": 1794978060,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "The Block",
-      "summary": "In today's newsletter, Ark Invest buys crypto stocks while selling $85 million in Nvidia; Coinbase expands onchain crypto loans to New York via Morpho; and more.",
-      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York, and more",
-      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 05:30:10 +0000",
-        "ts": 1794979810,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV.",
-      "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
-      "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud"
-    },
-    {
-      "published": {
-        "raw": "Wed, 18 Nov 2026 07:27:48 +0000",
-        "ts": 1794986868,
-        "tz_assumed": false
-      },
-      "score": 2,
-      "source": "CoinDesk",
-      "summary": "XRP edged toward $1, and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about the same as U.S. Treasuries.",
-      "title": "Live updates: Bitcoin lower even as Nasdaq rises on Nvidia relief",
-      "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up"
-    },
     {
       "published": {
         "raw": "Wed, 18 Nov 2026 08:43:02 +0000",
@@ -4769,6 +4669,78 @@
       "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
       "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
       "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 02:20:00 +0000",
+        "ts": 1795746000,
+        "tz_assumed": false
+      },
+      "score": 3,
+      "source": "The Block",
+      "summary": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more.",
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 04:18:40 +0000",
+        "ts": 1795753120,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 04:29:47 +0000",
+        "ts": 1795753787,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 04:45:47 +0000",
+        "ts": 1795754747,
+        "tz_assumed": false
+      },
+      "score": 1,
+      "source": "CoinDesk",
+      "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 05:06:32 +0000",
+        "ts": 1795755992,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "CoinDesk",
+      "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+      "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+      "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins"
+    },
+    {
+      "published": {
+        "raw": "Fri, 27 Nov 2026 07:51:14 +0000",
+        "ts": 1795765874,
+        "tz_assumed": false
+      },
+      "score": 2,
+      "source": "The Block",
+      "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegotá.",
+      "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051"
     }
   ],
   "seen": {
@@ -4871,7 +4843,11 @@
       "binance:44edf62f435a45ebb5dbc890f827e156",
       "binance:f772e3f5f17d4c6894947614ff8b82ef",
       "binance:3da43652eac54b69a09f8be2ad5743c2",
-      "binance:95c463396a034f1ab3994814225e6d69"
+      "binance:95c463396a034f1ab3994814225e6d69",
+      "binance:2125a821be8f480b99d46c7c82b12958",
+      "binance:baba2b45cbc249dfa06deaf75df552ea",
+      "binance:e0bb9f905db04290b72430ced6f4aae7",
+      "binance:b107485f11c445bf93bf877b8472c9d5"
     ],
     "bybit": [
       "bybit:9996",
@@ -5056,7 +5032,9 @@
       "bybit:10194",
       "bybit:10195",
       "bybit:10196",
-      "bybit:10197"
+      "bybit:10197",
+      "bybit:10198",
+      "bybit:10199"
     ],
     "kraken-blog": [
       "kraken-blog:https://blog.kraken.com/kraken-vip/three-nights-in-jackson-hole",
@@ -5086,13 +5064,6 @@
       "kraken-blog:https://blog.kraken.com/product/krak/credit-card-up-to-4-cashback-on-all-purchases"
     ],
     "media": [
-      "media:https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
-      "media:https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
-      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
-      "media:https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
-      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
-      "media:https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
-      "media:https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
       "media:https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
       "media:https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
       "media:https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
@@ -6085,7 +6056,14 @@
       "media:https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
       "media:https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
       "media:https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
-      "media:https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown"
+      "media:https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "media:https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "media:https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "media:https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "media:https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "media:https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+      "media:https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+      "media:https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051"
     ],
     "okx": [
       "okx:okx-will-launch-re-usd-for-spot-trading",
@@ -6655,7 +6633,10 @@
       "status:kraken:sxwz18y77ngb:nf1vlvggkywb",
       "status:kraken:1n8qtknpxrd7:q6v9csml3sms",
       "status:kraken:sxwz18y77ngb:yrkbjzdgq5jf",
-      "status:kraken:xtqfqd49s6gz:fzbwrf5p35cw"
+      "status:kraken:xtqfqd49s6gz:fzbwrf5p35cw",
+      "status:kraken:j7sd1r3xvmx2:krltf39pp5zd",
+      "status:kraken:1n8qtknpxrd7:b277fd4v90z0",
+      "status:kraken:1n8qtknpxrd7:1jtgbsx9h4l7"
     ],
     "status:solana": [
       "status:solana:3cvfj59zzrgs:j8mfqt6lj9nk",
